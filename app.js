@@ -185,6 +185,8 @@ function startChallenge(){
   queue=QuestionPool?new QuestionPool(pool).take(count):shuffle(pool).slice(0,count);
   if(selectedMode==='map')quizMapView={...MAP_BASE_VIEW};
   queueIndex=0;firstTryCorrect=0;newMasters=[];lastConfig={mode:selectedMode,scope:selectedScope,region:selectedRegion,count:selectedCount};
+  $('#quizScreen').classList.remove('mode-map','mode-capital','mode-feature');
+  $('#quizScreen').classList.add(`mode-${selectedMode}`);
   $('#quizModeLabel').textContent=MODE_META[selectedMode].title;showScreen('quizScreen');showQuestion();
 }
 function showQuestion(){
