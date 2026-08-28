@@ -276,18 +276,19 @@ function renderHome(){
 }
 function renderMap(host,{interactive=false,scopeCodes=null}={}){
   host.innerHTML='';const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');svg.setAttribute('viewBox','0 0 720 540');svg.setAttribute('class','japan-map');svg.setAttribute('role','img');svg.setAttribute('aria-label',interactive?'答えたい都道府県をタップする日本地図':'47都道府県の習熟状況を表す日本地図');
-  const bg=document.createElementNS(ns,'rect');bg.setAttribute('x','16');bg.setAttribute('y','370');bg.setAttribute('width','178');bg.setAttribute('height','145');bg.setAttribute('rx','14');bg.setAttribute('class','map-bg');svg.append(bg);
-  const label=document.createElementNS(ns,'text');label.setAttribute('x','32');label.setAttribute('y','394');label.setAttribute('class','inset-label');label.textContent='沖縄県';svg.append(label);
+  const bg=document.createElementNS(ns,'rect');bg.setAttribute('x','16');bg.setAttribute('y','400');bg.setAttribute('width','185');bg.setAttribute('height','118');bg.setAttribute('rx','14');bg.setAttribute('class','map-bg');svg.append(bg);
+  const label=document.createElementNS(ns,'text');label.setAttribute('x','29');label.setAttribute('y','421');label.setAttribute('class','inset-label');label.textContent='沖縄県';svg.append(label);
+  const zoomController=interactive?createMapZoomController(host,svg):null;
   for(const feature of geoData.features){
     const code=feature.properties.code,path=document.createElementNS(ns,'path');path.setAttribute('d',geometryPath(feature.geometry,code));path.dataset.code=code;path.setAttribute('fill-rule','evenodd');path.classList.add('prefecture',`level-${learnedCount(code)}`);
     if(scopeCodes&&!scopeCodes.has(code))path.classList.add('is-outside');
     if(interactive){
       path.setAttribute('role','button');path.setAttribute('tabindex','0');path.setAttribute('aria-label',`地図の領域 ${Number(code)}`);
-      path.addEventListener('click',()=>answerMap(code,path));path.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();answerMap(code,path)}});
+      path.addEventListener('click',()=>{if(!zoomController.consumePan())answerMap(code,path)});path.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();answerMap(code,path)}});
     }
     svg.append(path);
   }
-  host.append(svg);
+  host.append(svg);zoomController?.mount();
 }
 function geometryPath(geometry,code){
   return geometry.coordinates.map(polygon=>polygon.map(ring=>ring.map((point,index)=>{
@@ -295,8 +296,36 @@ function geometryPath(geometry,code){
   }).join('')+'Z').join('')).join('');
 }
 function project([lon,lat],code){
-  if(code==='47')return[32+(lon-122)*22,495-(lat-24)*27];
+  if(code==='47')return[24+(lon-122.5)*17.5,505-(lat-24)*17.5];
   return[58+(lon-128)*34,35+(46-lat)*30];
+}
+
+function createMapZoomController(host,svg){
+  const base={x:0,y:0,w:720,h:540},view={...base};let dragStart=null,moved=false,suppressUntil=0;
+  const apply=()=>svg.setAttribute('viewBox',`${view.x.toFixed(2)} ${view.y.toFixed(2)} ${view.w.toFixed(2)} ${view.h.toFixed(2)}`);
+  const clamp=()=>{view.x=Math.max(0,Math.min(base.w-view.w,view.x));view.y=Math.max(0,Math.min(base.h-view.h,view.y))};
+  const zoom=(factor)=>{
+    const nextW=Math.max(base.w/3.2,Math.min(base.w,view.w*factor)),nextH=nextW*(base.h/base.w);
+    view.x+=(view.w-nextW)/2;view.y+=(view.h-nextH)/2;view.w=nextW;view.h=nextH;clamp();apply();
+  };
+  const reset=()=>{Object.assign(view,base);apply()};
+  svg.addEventListener('pointerdown',event=>{
+    if(event.button!==0)return;dragStart={x:event.clientX,y:event.clientY,vx:view.x,vy:view.y};moved=false;svg.setPointerCapture?.(event.pointerId);
+  });
+  svg.addEventListener('pointermove',event=>{
+    if(!dragStart)return;const dx=event.clientX-dragStart.x,dy=event.clientY-dragStart.y;if(Math.hypot(dx,dy)<5&&!moved)return;
+    moved=true;const rect=svg.getBoundingClientRect();view.x=dragStart.vx-dx*(view.w/Math.max(1,rect.width));view.y=dragStart.vy-dy*(view.h/Math.max(1,rect.height));clamp();apply();svg.classList.add('is-panning');event.preventDefault();
+  });
+  const endPan=event=>{if(!dragStart)return;if(moved)suppressUntil=Date.now()+300;dragStart=null;svg.classList.remove('is-panning');svg.releasePointerCapture?.(event.pointerId)};
+  svg.addEventListener('pointerup',endPan);svg.addEventListener('pointercancel',endPan);
+  return{
+    consumePan(){return Date.now()<suppressUntil},
+    mount(){
+      const controls=document.createElement('div');controls.className='map-controls';controls.setAttribute('aria-label','地図の拡大操作');
+      controls.innerHTML='<button type="button" aria-label="地図を拡大">＋</button><button type="button" aria-label="地図を縮小">−</button><button type="button" class="map-reset">全体</button>';
+      const [plus,minus,all]=controls.querySelectorAll('button');plus.addEventListener('click',()=>zoom(.72));minus.addEventListener('click',()=>zoom(1.38));all.addEventListener('click',reset);host.append(controls);
+    }
+  };
 }
 
 async function playSound(id){
