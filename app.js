@@ -1,4 +1,5 @@
 const DATA_URL = './data/prefectures.json';
+const FEATURE_ADDITIONS_URL = './data/feature-additions.json';
 const GEO_URL = './data/japan-prefectures.geojson';
 const COMPONENTS_URL = 'https://tt-sensei.github.io/edu-components/index.js';
 const SOUNDS_URL = 'https://tt-sensei.github.io/sounds-recipe-/sounds.js';
@@ -28,6 +29,16 @@ const NAVI = {
 
 const BADGES = [
   {id:'first',name:'はじめての正解',condition:'1問正解',image:`${BADGE_BASE}/common/first-step/badge.webp`},
+  {id:'correct3',name:'はじめの一歩',condition:'合計3問正解',image:`${BADGE_BASE}/common/growth/badge.webp`},
+  {id:'correct10',name:'10問チャレンジャー',condition:'合計10問正解',image:`${BADGE_BASE}/common/challenger/badge.webp`},
+  {id:'correct30',name:'こつこつ学習',condition:'合計30問正解',image:`${BADGE_BASE}/common/steady-progress/badge.webp`},
+  {id:'map5',name:'地図のたまご',condition:'地図を5県達成',image:`${BADGE_BASE}/social/map-reader/badge.webp`},
+  {id:'capital5',name:'まち名人のたまご',condition:'県庁所在地を5県達成',image:`${BADGE_BASE}/social/location-thinking/badge.webp`},
+  {id:'feature5',name:'特色はっけん',condition:'特色を5県達成',image:`${BADGE_BASE}/social/find-features/badge.webp`},
+  {id:'allModes',name:'3モード体験',condition:'3つのモードで1県ずつ達成',image:`${BADGE_BASE}/common/discovery/badge.webp`},
+  {id:'master1',name:'はじめてのMASTER',condition:'1県をMASTER',image:`${BADGE_BASE}/common/new-skill/badge.webp`},
+  {id:'master3',name:'3県マスター',condition:'3県をMASTER',image:`${BADGE_BASE}/common/power-up/badge.webp`},
+  {id:'master5',name:'5県マスター',condition:'5県をMASTER',image:`${BADGE_BASE}/common/knowledge/badge.webp`},
   {id:'master10',name:'10県マスター',condition:'10県をMASTER',image:`${BADGE_BASE}/social/local-explorer/badge.webp`},
   {id:'master20',name:'20県マスター',condition:'20県をMASTER',image:`${BADGE_BASE}/social/social-discovery/badge.webp`},
   {id:'region',name:'地方コンプリート',condition:'どこか1地方を完成',image:`${BADGE_BASE}/social/spatial-pattern/badge.webp`},
@@ -46,6 +57,7 @@ const MODE_META = {
 };
 
 const REGIONS = ['北海道・東北','関東','中部','近畿','中国・四国','九州・沖縄'];
+const MAP_BASE_VIEW = Object.freeze({x:0,y:0,w:720,h:540});
 const defaultState = () => ({version:1,sound:true,correctAnswers:0,progress:{},badges:[]});
 const $ = (selector, root=document) => root.querySelector(selector);
 const $$ = (selector, root=document) => [...root.querySelectorAll(selector)];
@@ -62,6 +74,7 @@ let storage=null, badgeManager=null, state=defaultState();
 let selectedMode='map',selectedScope='全国',selectedRegion=REGIONS[0],selectedCount='10';
 let queue=[],queueIndex=0,currentQuestion=null,attempts=0,locked=false,firstTryCorrect=0,newMasters=[];
 let toastTimer=null,lastConfig=null,audioContext=null;
+let quizMapView={...MAP_BASE_VIEW};
 
 class LocalStorageAdapter {
   constructor(namespace){this.prefix=`edu:${namespace}:`;this.memory=new Map()}
@@ -90,9 +103,11 @@ async function loadSharedAssets(){
 
 async function init(){
   try{
-    const [dataResponse,geoResponse]=await Promise.all([fetch(DATA_URL),fetch(GEO_URL),loadSharedAssets()]);
-    if(!dataResponse.ok||!geoResponse.ok)throw new Error('学習データを読み込めませんでした。');
-    const data=await dataResponse.json();geoData=await geoResponse.json();prefectures=data.prefectures;byCode=new Map(prefectures.map(p=>[p.code,p]));
+    const [dataResponse,featureResponse,geoResponse]=await Promise.all([fetch(DATA_URL),fetch(FEATURE_ADDITIONS_URL),fetch(GEO_URL),loadSharedAssets()]);
+    if(!dataResponse.ok||!featureResponse.ok||!geoResponse.ok)throw new Error('学習データを読み込めませんでした。');
+    const data=await dataResponse.json(),featureAdditions=await featureResponse.json();geoData=await geoResponse.json();
+    const additionsByCode=new Map(featureAdditions.prefectures.map(pref=>[pref.code,pref.features]));
+    prefectures=data.prefectures.map(pref=>({...pref,features:[...pref.features,...(additionsByCode.get(pref.code)||[])]}));byCode=new Map(prefectures.map(p=>[p.code,p]));
     storage=StorageManager?new StorageManager('todoufuken-master'):new LocalStorageAdapter('todoufuken-master');
     state=normalizeState(storage.load('state',defaultState()));
     badgeManager=BadgeManager?new BadgeManager({storage,storageKey:'badges',badges:BADGES}):new LocalBadgeManager({storage,badges:BADGES});
@@ -168,6 +183,7 @@ function startChallenge(){
   const pool=scopedPrefectures();
   const count=selectedCount==='all'?pool.length:Math.min(10,pool.length);
   queue=QuestionPool?new QuestionPool(pool).take(count):shuffle(pool).slice(0,count);
+  if(selectedMode==='map')quizMapView={...MAP_BASE_VIEW};
   queueIndex=0;firstTryCorrect=0;newMasters=[];lastConfig={mode:selectedMode,scope:selectedScope,region:selectedRegion,count:selectedCount};
   $('#quizModeLabel').textContent=MODE_META[selectedMode].title;showScreen('quizScreen');showQuestion();
 }
@@ -249,7 +265,10 @@ function showResults(){
 function checkBadges(){
   const masters=masterCount();
   const conditions={
-    first:state.correctAnswers>=1,master10:masters>=10,master20:masters>=20,
+    first:state.correctAnswers>=1,correct3:state.correctAnswers>=3,correct10:state.correctAnswers>=10,correct30:state.correctAnswers>=30,
+    map5:modeCount('map')>=5,capital5:modeCount('capital')>=5,feature5:modeCount('feature')>=5,
+    allModes:modeCount('map')>=1&&modeCount('capital')>=1&&modeCount('feature')>=1,
+    master1:masters>=1,master3:masters>=3,master5:masters>=5,master10:masters>=10,master20:masters>=20,
     region:REGIONS.some(region=>masterCount(p=>p.region===region)===prefectures.filter(p=>p.region===region).length),
     east:masterCount(p=>p.side==='東日本')===prefectures.filter(p=>p.side==='東日本').length,
     west:masterCount(p=>p.side==='西日本')===prefectures.filter(p=>p.side==='西日本').length,
@@ -278,7 +297,7 @@ function renderMap(host,{interactive=false,scopeCodes=null}={}){
   host.innerHTML='';const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');svg.setAttribute('viewBox','0 0 720 540');svg.setAttribute('class','japan-map');svg.setAttribute('role','img');svg.setAttribute('aria-label',interactive?'答えたい都道府県をタップする日本地図':'47都道府県の習熟状況を表す日本地図');
   const bg=document.createElementNS(ns,'rect');bg.setAttribute('x','16');bg.setAttribute('y','16');bg.setAttribute('width','185');bg.setAttribute('height','120');bg.setAttribute('rx','14');bg.setAttribute('class','map-bg');svg.append(bg);
   const label=document.createElementNS(ns,'text');label.setAttribute('x','29');label.setAttribute('y','39');label.setAttribute('class','inset-label');label.textContent='沖縄県';svg.append(label);
-  const zoomController=interactive?createMapZoomController(host,svg):null;
+  const zoomController=interactive?createMapZoomController(host,svg,quizMapView):null;
   for(const feature of geoData.features){
     const code=feature.properties.code,path=document.createElementNS(ns,'path');path.setAttribute('d',geometryPath(feature.geometry,code));path.dataset.code=code;path.setAttribute('fill-rule','evenodd');path.classList.add('prefecture',`level-${learnedCount(code)}`);
     if(scopeCodes&&!scopeCodes.has(code))path.classList.add('is-outside');
@@ -300,8 +319,8 @@ function project([lon,lat],code){
   return[58+(lon-128)*34,35+(46-lat)*30];
 }
 
-function createMapZoomController(host,svg){
-  const base={x:0,y:0,w:720,h:540},view={...base};let dragStart=null,moved=false,suppressUntil=0;
+function createMapZoomController(host,svg,view){
+  const base=MAP_BASE_VIEW;let dragStart=null,moved=false,suppressUntil=0;
   const apply=()=>svg.setAttribute('viewBox',`${view.x.toFixed(2)} ${view.y.toFixed(2)} ${view.w.toFixed(2)} ${view.h.toFixed(2)}`);
   const clamp=()=>{view.x=Math.max(0,Math.min(base.w-view.w,view.x));view.y=Math.max(0,Math.min(base.h-view.h,view.y))};
   const zoom=(factor)=>{
@@ -321,6 +340,7 @@ function createMapZoomController(host,svg){
   return{
     consumePan(){return Date.now()<suppressUntil},
     mount(){
+      apply();
       const controls=document.createElement('div');controls.className='map-controls';controls.setAttribute('aria-label','地図の拡大操作');
       controls.innerHTML='<button type="button" aria-label="地図を拡大">＋</button><button type="button" aria-label="地図を縮小">−</button><button type="button" class="map-reset">全体</button>';
       const [plus,minus,all]=controls.querySelectorAll('button');plus.addEventListener('click',()=>zoom(.72));minus.addEventListener('click',()=>zoom(1.38));all.addEventListener('click',reset);host.append(controls);
