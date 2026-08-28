@@ -276,8 +276,8 @@ function renderHome(){
 }
 function renderMap(host,{interactive=false,scopeCodes=null}={}){
   host.innerHTML='';const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');svg.setAttribute('viewBox','0 0 720 540');svg.setAttribute('class','japan-map');svg.setAttribute('role','img');svg.setAttribute('aria-label',interactive?'答えたい都道府県をタップする日本地図':'47都道府県の習熟状況を表す日本地図');
-  const bg=document.createElementNS(ns,'rect');bg.setAttribute('x','16');bg.setAttribute('y','400');bg.setAttribute('width','185');bg.setAttribute('height','118');bg.setAttribute('rx','14');bg.setAttribute('class','map-bg');svg.append(bg);
-  const label=document.createElementNS(ns,'text');label.setAttribute('x','29');label.setAttribute('y','421');label.setAttribute('class','inset-label');label.textContent='沖縄県';svg.append(label);
+  const bg=document.createElementNS(ns,'rect');bg.setAttribute('x','16');bg.setAttribute('y','16');bg.setAttribute('width','185');bg.setAttribute('height','120');bg.setAttribute('rx','14');bg.setAttribute('class','map-bg');svg.append(bg);
+  const label=document.createElementNS(ns,'text');label.setAttribute('x','29');label.setAttribute('y','39');label.setAttribute('class','inset-label');label.textContent='沖縄県';svg.append(label);
   const zoomController=interactive?createMapZoomController(host,svg):null;
   for(const feature of geoData.features){
     const code=feature.properties.code,path=document.createElementNS(ns,'path');path.setAttribute('d',geometryPath(feature.geometry,code));path.dataset.code=code;path.setAttribute('fill-rule','evenodd');path.classList.add('prefecture',`level-${learnedCount(code)}`);
@@ -296,7 +296,7 @@ function geometryPath(geometry,code){
   }).join('')+'Z').join('')).join('');
 }
 function project([lon,lat],code){
-  if(code==='47')return[24+(lon-122.5)*17.5,505-(lat-24)*17.5];
+  if(code==='47')return[24+(lon-122.5)*17.5,128-(lat-24)*17.5];
   return[58+(lon-128)*34,35+(46-lat)*30];
 }
 

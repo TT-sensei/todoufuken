@@ -52,7 +52,7 @@ main{width:min(1180px,100%);margin:auto}
 .collection-map{height:clamp(280px,42vw,480px)}
 .japan-map .prefecture{stroke:#fff;stroke-width:1.5;vector-effect:non-scaling-stroke;transition:fill .2s,transform .2s,opacity .2s;transform-box:fill-box;transform-origin:center}
 .japan-map .level-0{fill:#e1e9e7}.japan-map .level-1{fill:#b9dfd1}.japan-map .level-2{fill:#72b69b}.japan-map .level-3{fill:#167a65}
-.japan-map .map-bg{fill:#edf6f3;stroke:#c6ddd7;stroke-width:1.5}.japan-map .inset-label{font-size:14px;font-weight:900;fill:#4f7076}
+.japan-map .map-bg{fill:#edf6f3;stroke:#abcfc5;stroke-width:1.5;stroke-dasharray:5 4}.japan-map .inset-label{font-size:14px;font-weight:900;fill:#4f7076}
 .legend{display:flex;flex-direction:column;gap:10px;font-size:.78rem;font-weight:800;color:var(--muted)}
 .legend span{display:flex;align-items:center;gap:7px}.legend i{width:20px;height:20px;border-radius:6px;border:2px solid #fff;box-shadow:0 0 0 1px var(--line)}
 .legend .level-0{background:#e1e9e7}.legend .level-1{background:#b9dfd1}.legend .level-2{background:#72b69b}.legend .level-3{background:#167a65}
