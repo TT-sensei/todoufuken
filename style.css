@@ -101,3 +101,34 @@ main{width:min(1180px,100%);margin:auto}
   .app-header{height:52px}.quiz-screen{height:calc(100dvh - 52px);padding:8px 14px}.quiz-status{height:38px}.question-panel{padding:17px}.feedback{min-height:64px}.feedback img{width:48px;height:48px}.quiz-map{min-height:300px}.choice-button{min-height:72px}.result-navi{height:125px}.result-screen{padding-top:8px}.result-score strong{font-size:3rem}
 }
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}}
+
+/* VISIBLE LEARNING BACKGROUND */
+html{background:#e8f2ef}
+body{
+  background:
+    linear-gradient(180deg,rgba(244,250,247,.64),rgba(238,247,243,.80)),
+    url("https://tt-sensei.github.io/navi-character-/assets/web/backgrounds/daily/daily-shopping-street.webp") center/cover fixed;
+}
+.home-screen,.setup-screen,.result-screen{
+  background:
+    linear-gradient(180deg,rgba(247,252,249,.34),rgba(243,249,246,.58)),
+    url("https://tt-sensei.github.io/navi-character-/assets/web/backgrounds/daily/daily-shopping-street.webp") center/cover;
+  border-radius:28px;
+}
+.home-intro{background:linear-gradient(120deg,rgba(225,242,235,.88),rgba(247,251,247,.84))}
+.mode-card{background:rgba(255,255,255,.88)}
+.mode-card.mode-map{background:linear-gradient(135deg,rgba(224,244,237,.90),rgba(247,252,249,.86))}
+.mode-card.mode-capital{background:linear-gradient(135deg,rgba(255,240,208,.90),rgba(255,250,240,.86))}
+.mode-card.mode-feature{background:linear-gradient(135deg,rgba(250,227,220,.90),rgba(255,248,244,.86))}
+.collection-card,.badge-panel,.teacher-note,.setup-title,.option-group{background:rgba(255,255,255,.90)}
+.quiz-screen{
+  background-image:
+    linear-gradient(118deg,rgba(244,251,248,.62),rgba(239,248,250,.70)),
+    url("https://tt-sensei.github.io/navi-character-/assets/web/backgrounds/daily/daily-classroom.webp");
+}
+.question-panel{background:rgba(255,255,255,.91)}
+.answer-area{background:rgba(255,255,255,.87)}
+@media (max-width:760px){
+  body{background-attachment:scroll}
+  .home-screen,.setup-screen,.result-screen{border-radius:20px}
+}
