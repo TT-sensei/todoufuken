@@ -58,6 +58,16 @@ python3 -m http.server 8000
 
 その後 `http://localhost:8000/` を開きます。
 
-## ライセンス・クレジット
+## ライセンス・利用について
 
-地図データの詳細は [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) を参照してください。
+学校・家庭での学習目的で無料で利用できます。
+
+このリポジトリのコードおよびTT-senseiオリジナルの教材・画像を、許可なく有料教材、有料サービス、販売商品として利用することはできません。アプリを複製して別サービスとして販売すること、オリジナル素材を素材集として再配布・販売することも許可していません。
+
+行政区域データ、地図データ、その他の第三者データ・ライブラリ等には、それぞれの権利者・ライセンス・利用条件が適用されます。詳細は `THIRD_PARTY_NOTICES.md` を参照してください。
+
+Software code and original educational content in this repository are licensed under the PolyForm Noncommercial License 1.0.0.
+
+https://polyformproject.org/licenses/noncommercial/1.0.0/
+
+Copyright © 2026 TT-sensei.
