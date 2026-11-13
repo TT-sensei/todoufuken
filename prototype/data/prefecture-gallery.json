@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -70,14 +70,14 @@
           "description": "茨城県は、ほしいもの生産量が全国有数の地域です。さつまいもの栽培に適した土地や、蒸して干す加工方法、保存食としての広がりを調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": {
-            "file": "Hoshi-imo.JPG",
-            "author": "Papakuro",
-            "license": "CC BY 3.0",
-            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hoshi-imo.JPG",
+            "file": "茨城名産の干し芋.jpg",
+            "author": "ジョンドウ",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E8%8C%A8%E5%9F%8E%E5%90%8D%E7%94%A3%E3%81%AE%E5%B9%B2%E3%81%97%E8%8A%8B.jpg",
             "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
-            "description": "茨城県ひたちなか市で撮影された干しいもの天日干し"
+            "reviewStatus": "Commons原ページで茨城県産の干し芋・作者・ライセンスを確認済み",
+            "description": "茨城県名産の干し芋。蒸したさつまいもを薄く切り、天日干しする様子"
           },
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
@@ -85,7 +85,7 @@
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
           "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hoshi-imo.JPG"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%8C%A8%E5%9F%8E%E5%90%8D%E7%94%A3%E3%81%AE%E5%B9%B2%E3%81%97%E8%8A%8B.jpg"
         },
         {
           "id": "08-4",
@@ -2179,7 +2179,7 @@
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
             "sourcePage": "https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg",
             "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "reviewStatus": "Commons原ページで長野市で撮影された信州そば・作者・ライセンスを確認済み",
             "description": "長野市で撮影された信州そばと山菜ご飯"
           },
           "reference": {
@@ -2188,7 +2188,7 @@
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
           "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shinshu%20soba.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shinshu_soba.jpg"
         },
         {
           "id": "20-4",
