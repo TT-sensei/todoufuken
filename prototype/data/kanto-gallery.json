@@ -578,7 +578,12 @@
           "description": "アイヌ文化は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "ウポポイ（民族共生象徴空間）",
+            "url": "https://ainu-upopoy.go.jp/",
+            "note": "アイヌの歴史・文化を学ぶ国立施設の公式情報"
+          }
         }
       ]
     },
@@ -604,7 +609,12 @@
           "description": "弘前城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "青森県の観光スポット",
+            "url": "https://www.pref.aomori.lg.jp/k-kensei/sightseeing.html",
+            "note": "弘前城・弘前公園など県内観光情報"
+          }
         },
         {
           "id": "02-3",
@@ -613,7 +623,12 @@
           "description": "りんごは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "青森県の食べ物",
+            "url": "https://www.pref.aomori.lg.jp/kids/04_food.html",
+            "note": "青森りんごなど県の食べ物を紹介"
+          }
         },
         {
           "id": "02-4",
@@ -622,7 +637,12 @@
           "description": "ねぶた祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "弘前のねぷた",
+            "url": "https://www.pref.aomori.lg.jp/soshiki/kyoiku/e-bunka/minzoku_mukei_03.html",
+            "note": "県指定・重要無形民俗文化財の解説"
+          }
         },
         {
           "id": "02-5",
@@ -631,7 +651,12 @@
           "description": "津軽塗は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "青森県の伝統工芸品（津軽塗）",
+            "url": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarunuri.html",
+            "note": "津軽塗の歴史・技法・製造工程"
+          }
         }
       ]
     },
@@ -737,7 +762,12 @@
           "description": "こけしは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "宮城の伝統的工芸品／宮城伝統こけし",
+            "url": "https://www.pref.miyagi.jp/soshiki/shinsan/01kokesi.html",
+            "note": "宮城県内のこけし5系統を紹介"
+          }
         }
       ]
     },
@@ -790,7 +820,12 @@
           "description": "川連漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "川連漆器伝統工芸館",
+            "url": "https://www.kawatsura.or.jp/",
+            "note": "川連漆器の歴史と技法を紹介する組合公式サイト"
+          }
         }
       ]
     },
@@ -807,7 +842,12 @@
           "description": "蔵王の樹氷などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "蔵王の樹氷",
+            "url": "https://www.kankou.yamagata.yamagata.jp/zao/jyuhyo/",
+            "note": "樹氷の見ごろ・観賞時の注意"
+          }
         },
         {
           "id": "06-2",
@@ -816,7 +856,12 @@
           "description": "山寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "観光情報（山形市公式）",
+            "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
+            "note": "山寺や山形市の観光情報への案内"
+          }
         },
         {
           "id": "06-3",
@@ -834,7 +879,12 @@
           "description": "花笠まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "山形市公式 観光情報",
+            "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
+            "note": "山形花笠まつりなど市内行事の案内"
+          }
         },
         {
           "id": "06-5",
@@ -843,7 +893,12 @@
           "description": "将棋駒は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "山形県のほっぺTourism",
+            "url": "https://yamagata-kouiki.info/",
+            "note": "天童市の将棋駒文化など村山地域の紹介"
+          }
         }
       ]
     },
@@ -869,7 +924,12 @@
           "description": "鶴ヶ城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "福島県内地域別の観光情報",
+            "url": "https://www.pref.fukushima.lg.jp/site/portal/tiiki-kanko.html",
+            "note": "会津地域の鶴ヶ城など県内観光資源を紹介"
+          }
         },
         {
           "id": "07-3",
@@ -2659,5 +2719,6 @@
     "中国地方",
     "四国地方",
     "九州・沖縄地方"
-  ]
+  ],
+  "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。"
 }
