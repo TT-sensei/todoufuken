@@ -36,7 +36,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "秋の公園の風景"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "reference": {
+            "title": "国営ひたち海浜公園公式 周辺の観光スポット",
+            "url": "https://www.hitachikaihin.jp/access/around-park",
+            "note": "公園の見どころや周辺地域の観光情報"
+          }
         },
         {
           "id": "08-2",
@@ -46,7 +51,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "reference": {
+            "title": "水戸市公式 偕楽園のご案内",
+            "url": "https://www.city.mito.lg.jp/page/6075.html",
+            "note": "徳川斉昭による造園、梅の品種や園内の見どころ"
+          }
         },
         {
           "id": "08-3",
@@ -71,7 +81,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "reference": {
+            "title": "水戸の梅まつり公式サイト",
+            "url": "https://mitokoumon.com/ume/",
+            "note": "祭りの会場、歴史、開催行事など"
+          }
         },
         {
           "id": "08-5",
@@ -90,7 +105,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "笠間焼の作品"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "reference": {
+            "title": "笠間市公式 笠間焼について",
+            "url": "https://www.city.kasama.lg.jp/page/page002072.html",
+            "note": "笠間焼の歴史や陶炎祭、産地の歩み"
+          }
         }
       ],
       "region": "関東地方"
@@ -117,7 +137,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "華厳の滝"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "reference": {
+            "title": "環境省 日光国立公園の見どころ",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/nikko/spot/",
+            "note": "華厳滝の地形や周辺の自然を紹介"
+          }
         },
         {
           "id": "09-2",
@@ -161,7 +186,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "reference": {
+            "title": "栃木県公式 伝統・文化",
+            "url": "https://www.pref.tochigi.lg.jp/miryoku/ichiran/eizoudenntou.html",
+            "note": "山あげ祭など県内の伝統文化を紹介"
+          }
         },
         {
           "id": "09-5",
@@ -171,7 +201,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "reference": {
+            "title": "文化庁 日本遺産「かさましこ」",
+            "url": "https://www.japan-heritage.bunka.go.jp/ja/stories/story087/",
+            "note": "笠間焼と益子焼が生まれた歴史や地域のつながり"
+          }
         }
       ],
       "region": "関東地方"
@@ -189,7 +224,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "reference": {
+            "title": "群馬県観光公式サイト",
+            "url": "https://gunma-kanko.jp/",
+            "note": "尾瀬を含む県内の自然・観光情報"
+          }
         },
         {
           "id": "10-2",
@@ -208,7 +248,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "草津温泉の湯畑"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "reference": {
+            "title": "群馬県観光公式サイト",
+            "url": "https://gunma-kanko.jp/",
+            "note": "草津温泉など県内の観光情報"
+          }
         },
         {
           "id": "10-3",
@@ -233,7 +278,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "reference": {
+            "title": "高崎市公式 高崎だるまについて",
+            "url": "https://www.city.takasaki.gunma.jp/site/sightseeing/3052.html",
+            "note": "高崎だるまの特徴や願い、作り方に関する情報"
+          }
         },
         {
           "id": "10-5",
@@ -252,7 +302,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "明治時代の富岡製糸場"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "reference": {
+            "title": "群馬県観光公式サイト",
+            "url": "https://gunma-kanko.jp/",
+            "note": "富岡製糸場など県内の歴史・文化遺産情報"
+          }
         }
       ],
       "region": "関東地方"
@@ -279,7 +334,12 @@
             "description": "長瀞の岩畳"
           },
           "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagatoro%20Iwadatami.JPG",
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "reference": {
+            "title": "長瀞町観光協会 岩畳めぐりコース",
+            "url": "https://www.nagatoro.gr.jp/岩畳コース/",
+            "note": "岩畳や周辺の地形・地質に関する見どころ"
+          }
         },
         {
           "id": "11-2",
@@ -332,7 +392,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "秩父夜祭"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "reference": {
+            "title": "埼玉県観光公式 秩父夜祭",
+            "url": "https://chocotabi-saitama.jp/spot/159300/",
+            "note": "祭りの歴史、山車、屋台囃子などを紹介"
+          }
         },
         {
           "id": "11-5",
@@ -342,7 +407,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "reference": {
+            "title": "埼玉県公式 民芸品",
+            "url": "https://www.pref.saitama.lg.jp/a0803/jibasan-crafts.html",
+            "note": "岩槻人形の材料や製作方法、伝統工芸品の情報"
+          }
         }
       ],
       "region": "関東地方"
@@ -432,7 +502,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "reference": {
+            "title": "房州うちわ公式サイト",
+            "url": "https://www.bosyu-uchiwa.com/",
+            "note": "房州うちわの特徴や製造工程、歴史"
+          }
         }
       ],
       "region": "関東地方"
@@ -540,7 +615,12 @@
             "description": "芦ノ湖の景観"
           },
           "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg",
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "reference": {
+            "title": "箱根町観光協会 箱根の見どころ",
+            "url": "https://www.hakone.or.jp/6363",
+            "note": "芦ノ湖や箱根火山、周辺の自然景観を紹介"
+          }
         },
         {
           "id": "14-2",
@@ -559,7 +639,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "横浜みなとみらいの景観"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "reference": {
+            "title": "神奈川県観光公式サイト",
+            "url": "https://kanagawa-kankou.or.jp/",
+            "note": "横浜・みなとみらいなど県内の観光情報"
+          }
         },
         {
           "id": "14-3",
@@ -594,7 +679,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "reference": {
+            "title": "鎌倉市公式 伝統的工芸品「鎌倉彫」",
+            "url": "https://www.city.kamakura.kanagawa.jp/shoukou/kamakurabori.html",
+            "note": "鎌倉彫の材料、彫刻と漆塗りの工程、歴史"
+          }
         }
       ],
       "region": "関東地方"
@@ -3930,7 +4020,7 @@
     "四国地方",
     "九州・沖縄地方"
   ],
-  "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。 食べ物・特産カテゴリの全47項目には農林水産省「うちの郷土料理」の検索ページを参考リンクとして設定。各料理の掲載有無は個別確認が必要。 自然・名所・文化・工芸カテゴリの参考リンクは分野別の公的資料検索先。リンク先が各項目そのものを直接解説しているとは限らない。",
+  "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。 食べ物・特産カテゴリの全47項目には農林水産省「うちの郷土料理」の検索ページを参考リンクとして設定。各料理の掲載有無は個別確認が必要。 自然・名所・文化・工芸カテゴリの参考リンクは分野別の公的資料検索先。リンク先が各項目そのものを直接解説しているとは限らない。 関東地方の18項目に自治体・観光協会・文化庁等の個別資料を追加。",
   "scope": "全国47都道府県",
   "learningGuide": "写真や説明を手がかりに、問いを立てて資料で確かめ、自分の住む地域や他の都道府県と比べて考える。"
 }
