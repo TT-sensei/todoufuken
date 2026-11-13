@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1141,14 +1141,24 @@
           "category": "食べ物・特産",
           "description": "わんこそばは、岩手県を代表するそばの食文化です。お椀に少量ずつそばを入れて食べる独特の楽しみ方や、地域に伝わる由来を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Wanko soba at Azumaya.jpg",
+            "author": "ta@keshi kimi",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Wanko_soba_at_Azumaya.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "岩手県盛岡市の東家で撮影された、わんこそばの空の椀の積み重ね"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wanko%20soba%20at%20Azumaya.jpg"
         },
         {
           "id": "03-4",
@@ -2426,14 +2436,24 @@
           "category": "食べ物・特産",
           "description": "飛騨牛は、岐阜県の豊かな自然の中で育てられるブランド牛です。飼育環境や品質を守るための工夫について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Grilling Hida Beef (Takayama Street Food) (35910429046).jpg",
+            "author": "Ankur P",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Grilling_Hida_Beef_(Takayama_Street_Food)_(35910429046).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "飛騨牛を高山の屋台で焼いている様子"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grilling%20Hida%20Beef%20(Takayama%20Street%20Food)%20(35910429046).jpg"
         },
         {
           "id": "21-4",
