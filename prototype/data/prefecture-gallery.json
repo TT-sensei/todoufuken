@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -3543,14 +3543,24 @@
           "category": "文化・まつり",
           "description": "春日若宮おん祭は、奈良市の春日大社で受け継がれてきた祭礼です。古い時代の芸能や装束が伝えられる行事から、伝統文化の継承について考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Onmatsuri2.jpg",
+            "author": "Lovelin6th",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Onmatsuri2.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "春日若宮おん祭のお渡り式で、影向の松前に奉納される猿楽座の様子（2014年12月17日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Onmatsuri2.jpg"
         },
         {
           "id": "29-5",
@@ -4086,14 +4096,24 @@
           "category": "文化・まつり",
           "description": "広島フラワーフェスティバルは、広島市の平和大通りなどで開かれる祭りです。花や音楽、踊りを通して平和への願いを発信する取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hiroshima FF 2011.JPG",
+            "author": "Taisyo",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hiroshima_FF_2011.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "ひろしまフラワーフェスティバルの様子（2011年5月5日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hiroshima%20FF%202011.JPG"
         },
         {
           "id": "34-5",
