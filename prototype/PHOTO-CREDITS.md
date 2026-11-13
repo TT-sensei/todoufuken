@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：131点 / 全国235項目
+- 写真候補：132点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 21点、文化・まつり 24点、産業・工芸 17点
-- ライセンス別：CC BY-SA 4.0 35点、CC BY 2.0 9点、CC BY 4.0 8点、CC BY-SA 3.0 40点、パブリックドメイン（作者による公開） 13点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
-- 写真未選定：104項目
+- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 22点、文化・まつり 24点、産業・工芸 17点
+- ライセンス別：CC BY-SA 4.0 35点、CC BY 2.0 9点、CC BY 4.0 8点、CC BY-SA 3.0 40点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
+- 写真未選定：103項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -138,6 +138,7 @@
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 馬刺し | [Horse-meat.jpg](https://commons.wikimedia.org/wiki/File:Horse-meat.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大分県 | 由布岳 | [Mt. Yufu (Yufuin, Oita, Japan).jpg](https://commons.wikimedia.org/wiki/File:Mt._Yufu_(Yufuin%2C_Oita%2C_Japan).jpg) | Shubert Ciencia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
+| 大分県 | とり天 | [Toriten.JPG](https://commons.wikimedia.org/wiki/File:Toriten.JPG) | Toritencat | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 宮崎県 | 高千穂峡 | [Takachiho-gorge.jpg](https://commons.wikimedia.org/wiki/File:Takachiho-gorge.jpg) | Takasunrise0921 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮崎県 | チキン南蛮 | [Chicken nanban Original Nobeoka Japan.jpg](https://commons.wikimedia.org/wiki/File:Chicken_nanban_Original_Nobeoka_Japan.jpg) | Sanjo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 鹿児島県 | 桜島 | [Sakurajima from kagoshima.jpg](https://commons.wikimedia.org/wiki/File:Sakurajima_from_kagoshima.jpg) | Douglas Perkins | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
