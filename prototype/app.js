@@ -40,6 +40,6 @@ function renderPref(code){
   const photoCount=items.filter(x=>x.photo).length;
   return `<section class="category"><div class="category-title"><h3>${esc(cat)}</h3><span></span><small>${photoCount}/${items.length} 写真確認済み</small></div><div class="item-grid">${items.map(card).join("")}</div></section>`;
  }).join("");
- $("#detail").innerHTML=`<div class="pref-head"><div><p class="pref-kicker">PREFECTURE GUIDE / ${p.code}</p><h2>${esc(p.name)}<span>関東地方</span></h2><p class="capital">県庁所在地：${esc(p.capital)}</p></div><span class="status">図鑑の閲覧はMASTER条件に含まれません</span></div>${groups}<div class="map-note"><strong>学びのヒント：</strong>写真で見つけた場所を地図帳や日本地図で探してみよう。県のどのあたりにあるか、海や山との位置関係も確かめてみよう。</div>`;
+ $("#detail").innerHTML=`<div class="pref-head"><div><p class="pref-kicker">PREFECTURE GUIDE / ${p.code}</p><h2>${esc(p.name)}<span>関東地方</span></h2><p class="capital">${p.code==="13"?"都庁所在地":"県庁所在地"}：${esc(p.capital)}</p></div><span class="status">図鑑の閲覧はMASTER条件に含まれません</span></div>${groups}<div class="map-note"><strong>学びのヒント：</strong>写真で見つけた場所を地図帳や日本地図で探してみよう。県のどのあたりにあるか、海や山との位置関係も確かめてみよう。</div>`;
 }
 init().catch(e=>{$("#detail").textContent="図鑑データを読み込めませんでした。"+e.message});
