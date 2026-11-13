@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2689,14 +2689,24 @@
           "category": "産業・工芸",
           "description": "駿河竹千筋細工は静岡県で作られる竹工芸です。細い竹ひごを曲げて組み合わせ、かごや虫かごなどの繊細な形を作る技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Suruga Bamboo Craft 01 （駿河竹千筋細工）.jpg",
+            "author": "なまけもの人間",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Suruga%20Bamboo%20Craft%2001%20%EF%BC%88%E9%A7%BF%E6%B2%B3%E7%AB%B9%E5%8D%83%E7%AD%8B%E7%B4%B0%E5%B7%A5%EF%BC%89.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み（別途の画像目視確認は未実施）",
+            "description": "静岡市の匠宿で撮影された駿河竹千筋細工の作品"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suruga%20Bamboo%20Craft%2001%20%EF%BC%88%E9%A7%BF%E6%B2%B3%E7%AB%B9%E5%8D%83%E7%AD%8B%E7%B4%B0%E5%B7%A5%EF%BC%89.jpg"
         }
       ]
     },
@@ -4885,14 +4895,24 @@
           "category": "産業・工芸",
           "description": "波佐見焼は長崎県波佐見町で作られる磁器です。日常使いの食器を多く作ってきた産地の歴史や、成形・絵付けの工程を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Hasami porcelain.jpg",
+            "author": "Meuse inférieure",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hasami%20porcelain.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み（別途の画像目視確認は未実施）",
+            "description": "波佐見焼の磁器作品"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hasami%20porcelain.jpg"
         }
       ]
     },
