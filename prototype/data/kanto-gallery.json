@@ -11,7 +11,7 @@
   "photoPolicy": {
     "source": "Wikimedia Commons",
     "localCopyStatus": "未配置",
-    "note": "写真候補はCommons原ページとライセンスを確認済み。次工程で長辺800px程度のWebPをローカル配置し、imageを相対パスへ変更する。"
+    "note": "写真候補はCommons原ページの作者・ライセンスを確認して登録。現状はCommonsのSpecial:FilePathを参照する確認用表示であり、ローカルWebP配置・オフライン対応は未完了。"
   },
   "prefectures": [
     {
@@ -113,8 +113,17 @@
           "category": "名所・建物",
           "description": "徳川家康をまつる神社。社殿の彫刻や装飾など、江戸時代の文化を伝えています。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定"
+          "photo": {
+            "file": "Nikko toshogu shrine.jpg",
+            "author": "Koichi Sato",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nikko%20toshogu%20shrine.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "日光東照宮の鳥居と陽明門"
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikko%20toshogu%20shrine.jpg"
         },
         {
           "id": "09-3",
@@ -226,8 +235,17 @@
           "category": "自然・風景",
           "description": "荒川沿いに広がる岩の地形。川の流れや周辺の自然を観察できる場所です。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定"
+          "photo": {
+            "file": "Nagatoro Iwadatami.JPG",
+            "author": "NY066（Wikivoyage共有）",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nagatoro%20Iwadatami.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "長瀞の岩畳"
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagatoro%20Iwadatami.JPG"
         },
         {
           "id": "11-2",
@@ -296,8 +314,17 @@
           "category": "自然・風景",
           "description": "太平洋に面して長く続く砂浜。海岸の環境や漁業、観光と関わりがあります。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定"
+          "photo": {
+            "file": "Kujukuri Beach.jpg",
+            "author": "作者情報なし（PD公開者：Beroccstar）",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kujukuri%20Beach.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "九十九里浜"
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kujukuri%20Beach.jpg"
         },
         {
           "id": "12-2",
@@ -366,8 +393,17 @@
           "category": "自然・風景",
           "description": "東京都に属する島々。独自の生き物や自然環境が見られる世界自然遺産です。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定"
+          "photo": {
+            "file": "Ogasawara Islands, Tokyo, Japan.jpg",
+            "author": "Anagounagi",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "父島から見た小笠原の海岸"
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg"
         },
         {
           "id": "13-2",
@@ -427,8 +463,17 @@
           "category": "自然・風景",
           "description": "箱根町に広がる山や湖の景色。火山活動によってできた地形と観光が結び付いています。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定"
+          "photo": {
+            "file": "A view of Lake Ashi, Hakone, Japan.jpg",
+            "author": "Joli Rumi",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "芦ノ湖の景観"
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg"
         },
         {
           "id": "14-2",
