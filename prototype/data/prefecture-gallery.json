@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -622,14 +622,24 @@
           "category": "産業・工芸",
           "description": "江戸切子は、江戸時代から受け継がれてきたガラス工芸です。ガラスの表面に細かなカットを入れ、光を受けて輝く模様を作ります。手作業で模様を刻む職人の技術に注目してみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Edokiriko sold in Kanagawa - Sept 2024.jpeg",
+            "author": "Nesnad",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "江戸切子のカットガラス製品"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
           "reference": {
             "title": "江戸切子協同組合公式",
             "url": "https://edokiriko.or.jp/",
             "note": "江戸切子の定義や制作条件、職人・組合の取り組み"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edokiriko%20sold%20in%20Kanagawa%20-%20Sept%202024.jpeg"
         }
       ],
       "region": "関東地方"
@@ -940,14 +950,24 @@
           "category": "産業・工芸",
           "description": "津軽塗は青森県津軽地方に伝わる漆器です。漆を何度も塗り重ね、研ぎ出して模様を表す技法や、完成までの手間を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tsugaru lacquerware (Tsugarunuri).jpg",
+            "author": "Kaburamata",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tsugaru_lacquerware_(Tsugarunuri).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "青森県の伝統工芸・津軽塗の漆器"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "青森県の伝統工芸品（津軽塗）",
             "url": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarunuri.html",
             "note": "津軽塗の歴史・技法・製造工程"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsugaru%20lacquerware%20(Tsugarunuri).jpg"
         }
       ]
     },
@@ -3232,14 +3252,24 @@
           "category": "産業・工芸",
           "description": "備前焼は岡山県備前市周辺で作られる陶器です。釉薬を使わず高温で焼く方法や、窯の中で生まれる色・模様の違いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Jar, Bizen ware, Muromachi period, 1500s AD, ceramic - Hakone Museum of Art - Hakone, Kanagawa, Japan - DSC08183.jpg",
+            "author": "Daderot",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Jar%2C_Bizen_ware%2C_Muromachi_period%2C_1500s_AD%2C_ceramic_-_Hakone_Museum_of_Art_-_Hakone%2C_Kanagawa%2C_Japan_-_DSC08183.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "室町時代の備前焼の大壺（箱根美術館所蔵）"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jar%2C%20Bizen%20ware%2C%20Muromachi%20period%2C%201500s%20AD%2C%20ceramic%20-%20Hakone%20Museum%20of%20Art%20-%20Hakone%2C%20Kanagawa%2C%20Japan%20-%20DSC08183.jpg"
         }
       ]
     },
@@ -4016,14 +4046,24 @@
           "category": "産業・工芸",
           "description": "有田焼は佐賀県有田町を中心に作られる磁器です。白い磁器に絵付けをする技術や、海外にも輸出された焼き物の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Vase, Arita ware, Japan, c. 1875, porcelain - Peabody Essex Museum - DSC07652.jpg",
+            "author": "Daderot",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Vase%2C_Arita_ware%2C_Japan%2C_c._1875%2C_porcelain_-_Peabody_Essex_Museum_-_DSC07652.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "19世紀の有田焼の磁器（ピーボディ・エセックス博物館所蔵）"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vase%2C%20Arita%20ware%2C%20Japan%2C%20c.%201875%2C%20porcelain%20-%20Peabody%20Essex%20Museum%20-%20DSC07652.jpg"
         }
       ]
     },
