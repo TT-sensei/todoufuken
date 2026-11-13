@@ -2,10 +2,10 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した確認用台帳です。表示する際は、各カードの作者・ライセンス・原ページ・加工状態も確認してください。
 
-- 写真候補：73点 / 全国235項目
+- 写真候補：77点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、名所・建物 26点、食べ物・特産 10点、文化・まつり 6点、産業・工芸 3点
-- ライセンス別：CC BY-SA 4.0 17点、CC BY 4.0 2点、CC BY-SA 3.0 26点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 4点、CC0 1.0 3点、CC BY 3.0 5点、CC BY-SA 2.0 4点
+- カテゴリ別：自然・風景 28点、名所・建物 26点、食べ物・特産 10点、文化・まつり 6点、産業・工芸 7点
+- ライセンス別：CC BY-SA 4.0 18点、CC BY 4.0 3点、CC BY-SA 3.0 26点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 4点、CC0 1.0 5点、CC BY 3.0 5点、CC BY-SA 2.0 4点
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。画像を取得できる環境で、元ファイル・作者・ライセンスを再確認してから実施する
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用する
@@ -27,6 +27,7 @@
 | 千葉県 | 落花生 | [Bocchi in Tako town, Chiba.jpg](https://commons.wikimedia.org/wiki/File:Bocchi_in_Tako_town%2C_Chiba.jpg) | On-chan | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 東京都 | 小笠原諸島 | [Ogasawara Islands, Tokyo, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg) | Anagounagi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 東京都 | 東京スカイツリー | [TokyoSkyTree.jpg](https://commons.wikimedia.org/wiki/File:TokyoSkyTree.jpg) | Douglas P. Perkins | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
+| 東京都 | 江戸切子 | [Edokiriko sold in Kanagawa - Sept 2024.jpeg](https://commons.wikimedia.org/wiki/File:Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg) | Nesnad | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 神奈川県 | 箱根の山々と芦ノ湖 | [A view of Lake Ashi, Hakone, Japan.jpg](https://commons.wikimedia.org/wiki/File:A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg) | Joli Rumi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 神奈川県 | 横浜・みなとみらい | [Minato Mirai.jpg](https://commons.wikimedia.org/wiki/File:Minato_Mirai.jpg) | Akonnchiroll | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 北海道 | 知床 | [Shiretoko National Park.jpg](https://commons.wikimedia.org/wiki/File:Shiretoko_National_Park.jpg) | Trengarasu | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
@@ -34,6 +35,7 @@
 | 北海道 | さっぽろ雪まつり | [Sapporo Snow festival.JPG](https://commons.wikimedia.org/wiki/File:Sapporo_Snow_festival.JPG) | Daigaku2051 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 青森県 | 弘前城 | [HirosakiCastle.JPG](https://commons.wikimedia.org/wiki/File:HirosakiCastle.JPG) | Luck-one | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/File:HirosakiCastle.JPG) | 未加工（原画像を表示） |
 | 青森県 | ねぶた祭 | [Aomori Nebuta Festival.jpg](https://commons.wikimedia.org/wiki/File:Aomori_Nebuta_Festival.jpg) | Diego Molla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 青森県 | 津軽塗 | [Tsugaru lacquerware (Tsugarunuri).jpg](https://commons.wikimedia.org/wiki/File:Tsugaru_lacquerware_(Tsugarunuri).jpg) | Kaburamata | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岩手県 | 浄土ヶ浜 | [Jyoudogahama.jpg](https://commons.wikimedia.org/wiki/File:Jyoudogahama.jpg) | Junpei Satoh | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮城県 | 松島 | [Matsushima (Matsushima Bay).jpg](https://commons.wikimedia.org/wiki/File:Matsushima_(Matsushima_Bay).jpg) | Cheng-en Cheng | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 宮城県 | 牛たん | [Sendai gyutan.JPG](https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG) | Sakurai Midori | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
@@ -64,6 +66,7 @@
 | 鳥取県 | 鳥取砂丘 | [Tottori Sand Dune.jpg](https://commons.wikimedia.org/wiki/File:Tottori_Sand_Dune.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 島根県 | 宍道湖 | [Lake Shinji.jpg](https://commons.wikimedia.org/wiki/File:Lake_Shinji.jpg) | contri | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 岡山県 | 岡山城 | [Okayama Castle (Japan).jpg](https://commons.wikimedia.org/wiki/File:Okayama_Castle_(Japan).jpg) | Lynn0927 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 岡山県 | 備前焼 | [Jar, Bizen ware, Muromachi period, 1500s AD, ceramic - Hakone Museum of Art - Hakone, Kanagawa, Japan - DSC08183.jpg](https://commons.wikimedia.org/wiki/File:Jar%2C_Bizen_ware%2C_Muromachi_period%2C_1500s_AD%2C_ceramic_-_Hakone_Museum_of_Art_-_Hakone%2C_Kanagawa%2C_Japan_-_DSC08183.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 広島県 | 原爆ドーム | [Hiroshima Peace Memorial (Genbaku Dome), Japan.jpg](https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_(Genbaku_Dome)%2C_Japan.jpg) | Uhooep | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | お好み焼き | [Okonomiyaki of Hiroshima.jpg](https://commons.wikimedia.org/wiki/File:Okonomiyaki_of_Hiroshima.jpg) | ノボホショコロトソ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 山口県 | 角島大橋 | [Tsunoshima bridge 1.JPG](https://commons.wikimedia.org/wiki/File:Tsunoshima_bridge_1.JPG) | Nissy-KITAQ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
@@ -76,6 +79,7 @@
 | 福岡県 | 太宰府天満宮 | [DazaifuTenmangu.jpg](https://commons.wikimedia.org/wiki/File:DazaifuTenmangu.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 福岡県 | 博多祇園山笠 | [Hakata-gion-yamakasa-oiyama.jpg](https://commons.wikimedia.org/wiki/File:Hakata-gion-yamakasa-oiyama.jpg) | ちょちょじ | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 佐賀県 | 吉野ヶ里遺跡 | [Yoshinogari.jpg](https://commons.wikimedia.org/wiki/File:Yoshinogari.jpg) | STA3816 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 佐賀県 | 有田焼 | [Vase, Arita ware, Japan, c. 1875, porcelain - Peabody Essex Museum - DSC07652.jpg](https://commons.wikimedia.org/wiki/File:Vase%2C_Arita_ware%2C_Japan%2C_c._1875%2C_porcelain_-_Peabody_Essex_Museum_-_DSC07652.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 長崎県 | 九十九島 | [200320 Kujukushima Pearl Sea Resort Sasebo Nagasaki pref Japan10s3.jpg](https://commons.wikimedia.org/wiki/File:200320_Kujukushima_Pearl_Sea_Resort_Sasebo_Nagasaki_pref_Japan10s3.jpg) | 663highland | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 長崎県 | 長崎ちゃんぽん | [Nagasaki champon.JPG](https://commons.wikimedia.org/wiki/File:Nagasaki_champon.JPG) | Midori | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
