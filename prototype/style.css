@@ -45,3 +45,5 @@ footer{border-top:1px solid var(--line);padding:18px 0 28px;display:flex;justify
 .search-pref-open{border:1px solid #cbded6;background:#f4f9f6;color:#28666a;border-radius:9px;padding:9px 12px;font:inherit;font-size:11px;font-weight:850;cursor:pointer}
 .search-pref-open:hover{background:#e8f3ed;border-color:#8eb8a5}
 @media(max-width:440px){.search-group{padding:11px}.search-group-head h3{font-size:16px}.search-pref-open{font-size:10px;padding:8px}}
+
+.photo-verified-label{display:inline-flex;align-items:center;margin:0 0 7px;padding:4px 8px;border-radius:999px;background:#eaf4ef;color:#326b54;font-size:9px;font-weight:850;letter-spacing:.02em}
