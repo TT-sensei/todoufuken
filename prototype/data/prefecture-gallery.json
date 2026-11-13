@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -325,14 +325,24 @@
           "category": "食べ物・特産",
           "description": "群馬県は、こんにゃくいもの生産がさかんな地域です。こんにゃくいもから食品になるまでの加工や、群馬県の農業・地域産業を支える役割を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
+          "photo": {
+            "file": "Miso konnyaku by nyaa birdies perch in Nakanojo, Gunma.jpg",
+            "author": "nyaa_birdies_perch",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Miso_konnyaku_by_nyaa_birdies_perch_in_Nakanojo,_Gunma.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "群馬県中之条町で提供される味噌こんにゃく"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "関東農政局 群馬県で農とつながる",
             "url": "https://www.maff.go.jp/kanto/syo_an/seikatsu/shokuiku/gunma.html",
             "note": "こんにゃくいもの生産と群馬県の農業・地域経済との関わりを紹介"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Miso_konnyaku_by_nyaa_birdies_perch_in_Nakanojo%2C_Gunma.jpg"
         },
         {
           "id": "10-4",
