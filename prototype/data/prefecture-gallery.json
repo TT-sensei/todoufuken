@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2084,14 +2084,24 @@
           "category": "文化・まつり",
           "description": "金沢百万石まつりは、加賀藩祖・前田利家の金沢入城をしのぶ祭りです。時代行列や伝統芸能を通して、加賀藩と金沢の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Hyakumangoku_Matsuri_in_front_of_Kanazawa_station.jpg",
+            "author": "Z3144228",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyakumangoku_Matsuri_in_front_of_Kanazawa_station.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "石川県金沢市の金沢駅前で行われた金沢百万石まつりの時代行列（2017年6月3日撮影）。"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyakumangoku_Matsuri_in_front_of_Kanazawa_station.jpg"
         },
         {
           "id": "17-5",
@@ -2562,14 +2572,14 @@
           "description": "高山祭は、岐阜県高山市で春と秋に行われる祭りです。豪華な屋台やからくり人形など、飛騨の木工技術や町人文化との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "JP-takayama-festival-floats.jpg",
-            "author": "Balou46",
+            "file": "Takayama_Matsuri-2017-5.jpg",
+            "author": "Chme82",
             "license": "CC BY-SA 4.0",
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:JP-takayama-festival-floats.jpg",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Takayama_Matsuri-2017-5.jpg",
             "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページで高山祭を主題とする祭屋台・作者Balou46・CC BY-SA 4.0を確認済み。高山祭の祭屋台を示す写真として採用",
-            "description": "岐阜県高山市の高山祭で使われる祭屋台。秋祭の収穫祭に関わる屋台の写真（2008年8月1日撮影）。"
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "岐阜県高山市の街並みを巡行する高山祭の祭屋台（2017年4月30日撮影）。Commons Quality image。"
           },
           "photoStatus": "選定済み",
           "reference": {
@@ -2578,7 +2588,7 @@
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
           "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JP-takayama-festival-floats.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Takayama_Matsuri-2017-5.jpg"
         },
         {
           "id": "21-5",
@@ -4478,14 +4488,24 @@
           "category": "文化・まつり",
           "description": "新居浜太鼓祭りは、愛媛県新居浜市で行われる祭りです。豪華な太鼓台を大勢で担ぎ上げる姿が特徴で、地域の誇りや祭りの運営について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Niihamataikomatsuri001.jpg",
+            "author": "quicksilver733",
+            "license": "Public domain (PD-self)",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Niihamataikomatsuri001.jpg#Licensing",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Niihamataikomatsuri001.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "愛媛県新居浜市の新居浜太鼓祭りで運行される、上部地区・高祖太鼓台（2007年10月17日撮影）。"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Niihamataikomatsuri001.jpg"
         },
         {
           "id": "38-5",
@@ -5391,14 +5411,24 @@
           "category": "文化・まつり",
           "description": "おはら祭は、鹿児島市で行われる大規模な踊りの祭りです。「おはら節」などの音楽に合わせて踊る様子から、地域の民謡や踊りの文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Ohara_festival_in_Kagoshima.jpg",
+            "author": "鹿児島市",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ohara_festival_in_Kagoshima.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "鹿児島市オープンデータ提供のおはら祭の風景（2015年8月27日撮影）。"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ohara_festival_in_Kagoshima.jpg"
         },
         {
           "id": "46-5",
