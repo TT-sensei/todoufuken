@@ -36,7 +36,7 @@ function card(item){
   ?`<img class="item-photo" src="${esc(item.image)}" alt="${esc(item.name)}" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
   :`<div class="photo-pending" aria-label="写真を準備中"><span>PHOTO</span><strong>写真を準備中</strong></div>`;
  const status=item.photo?"":"<span class=\"pending-label\">写真候補を選定中</span>";
- return `<article class="item-card">${photo}<div class="item-body">${status}<h4>${esc(item.name)}</h4><p>${esc(item.description)}</p>${photoCredit(item)}</div></article>`;
+ return `<article class="item-card">${photo}<div class="item-body">${status}<h4>${esc(item.name)}</h4><p>${esc(item.description)}</p>${photoCredit(item)}${item.reference?`<a class="source-link" href="${esc(item.reference.url)}" target="_blank" rel="noopener">調べる：${esc(item.reference.title)} ↗</a>`:""}</div></article>`;
 }
 function renderPref(code){
  const p=data.prefectures.find(x=>x.code===code);
