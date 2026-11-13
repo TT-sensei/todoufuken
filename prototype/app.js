@@ -6,11 +6,24 @@ async function init(){
  const res=await fetch(DATA_URL);
  if(!res.ok)throw new Error("図鑑データを読み込めません");
  data=await res.json();
- const photoCount=data.prefectures.flatMap(p=>p.items||[]).filter(item=>item.photo).length;
- $("#photoCoverage").textContent=`写真出典確認 ${photoCount}/${data.prefectures.reduce((n,p)=>n+(p.items||[]).length,0)}項目`;
+ const allItems=data.prefectures.flatMap(p=>p.items||[]);
+ const photoItems=allItems.filter(item=>item.photo);
+ const photoPrefectures=data.prefectures.filter(p=>(p.items||[]).some(item=>item.photo)).length;
+ $("#photoCoverage").textContent=`写真候補 ${photoItems.length}/${allItems.length}項目`;
+ renderPhotoProgress(allItems,photoItems,photoPrefectures);
  renderNav();
  $("#guideSearch").addEventListener("input",e=>{searchText=e.target.value.trim().toLocaleLowerCase("ja");if(searchText)renderSearchResults();else renderPref(activeCode);});
  renderPref(activeCode);
+}
+function renderPhotoProgress(allItems,photoItems,photoPrefectures){
+ const categories=data.categories||[];
+ const rows=categories.map(category=>{
+  const total=allItems.filter(item=>item.category===category).length;
+  const count=photoItems.filter(item=>item.category===category).length;
+  const percent=total?Math.round(count/total*100):0;
+  return `<div class="photo-progress-row"><div class="photo-progress-label"><span>${esc(category)}</span><strong>${count}/${total}</strong></div><div class="photo-progress-track" role="progressbar" aria-label="${esc(category)}の写真候補" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${count}"><span style="width:${percent}%"></span></div></div>`;
+ }).join("");
+ $("#photoProgress").innerHTML=`<div class="photo-progress-summary"><strong>${photoPrefectures}/47</strong><span>都道府県に写真候補あり</span><span class="photo-progress-total">${photoItems.length}/${allItems.length}項目</span></div><div class="photo-progress-grid">${rows}</div>`;
 }
 function renderNav(){
  const regions=data.regions||[...new Set(data.prefectures.map(p=>p.region))];
