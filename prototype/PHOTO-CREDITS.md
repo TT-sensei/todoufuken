@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：175点 / 全国235項目
+- 写真候補：177点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 30点、文化・まつり 35点、産業・工芸 25点
-- ライセンス別：CC BY-SA 4.0 49点、CC BY 2.0 14点、CC BY 4.0 9点、CC BY-SA 3.0 53点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 11点、パブリックドメイン（日本） 2点、CC0 1.0 12点、Public domain (PD-self) 2点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点
-- 写真未選定：60項目
+- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 30点、文化・まつり 37点、産業・工芸 25点
+- ライセンス別：CC BY-SA 4.0 50点、CC BY 2.0 14点、CC BY 4.0 9点、CC BY-SA 3.0 53点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 12点、パブリックドメイン（日本） 2点、CC0 1.0 12点、Public domain (PD-self) 2点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点
+- 写真未選定：58項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -133,6 +133,7 @@
 | 兵庫県 | 明石焼 | [Akashiyaki Tamagoyaki.JPG](https://commons.wikimedia.org/wiki/File:Akashiyaki%20Tamagoyaki.JPG) | Midori | [CC BY-SA 2.1 JP](https://creativecommons.org/licenses/by-sa/2.1/jp/) | 未加工（原画像を表示） |
 | 奈良県 | 吉野山 | [Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg](https://commons.wikimedia.org/wiki/File:Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg) | Luka Peternel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 奈良県 | 東大寺 | [Tōdai-ji Temple in Nara, Japan.jpg](https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji%20Temple%20in%20Nara%2C%20Japan.jpg) | Didier Moïse | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 奈良県 | 春日若宮おん祭 | [Onmatsuri2.jpg](https://commons.wikimedia.org/wiki/File:Onmatsuri2.jpg) | Lovelin6th | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 和歌山県 | 那智の滝 | [Nachi Falls 2025-10-13.jpg](https://commons.wikimedia.org/wiki/File:Nachi%20Falls%202025-10-13.jpg) | Alpsdake | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 和歌山県 | 高野山 | [Koyasan Okunoin 06.JPG](https://commons.wikimedia.org/wiki/File:Koyasan%20Okunoin%2006.JPG) | Reggaeman | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 鳥取県 | 鳥取砂丘 | [Tottori Sand Dune.jpg](https://commons.wikimedia.org/wiki/File:Tottori%20Sand%20Dune.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
@@ -146,6 +147,7 @@
 | 広島県 | 宮島・弥山 | [Panorama of the floating torii gate at Itsukushima Shrine.jpg](https://commons.wikimedia.org/wiki/File:Panorama%20of%20the%20floating%20torii%20gate%20at%20Itsukushima%20Shrine.jpg) | Fattony12000 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | 原爆ドーム | [Hiroshima Peace Memorial (Genbaku Dome), Japan.jpg](https://commons.wikimedia.org/wiki/File:Hiroshima%20Peace%20Memorial%20(Genbaku%20Dome)%2C%20Japan.jpg) | Uhooep | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | お好み焼き | [Okonomiyaki of Hiroshima.jpg](https://commons.wikimedia.org/wiki/File:Okonomiyaki%20of%20Hiroshima.jpg) | ノボホショコロトソ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
+| 広島県 | 広島フラワーフェスティバル | [Hiroshima FF 2011.JPG](https://commons.wikimedia.org/wiki/File:Hiroshima%20FF%202011.JPG) | Taisyo | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 広島県 | 熊野筆 | [巨大熊野筆01.jpg](https://commons.wikimedia.org/wiki/File:%E5%B7%A8%E5%A4%A7%E7%86%8A%E9%87%8E%E7%AD%8601.jpg) | Taisyo | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 山口県 | 角島大橋 | [Tsunoshima bridge 1.JPG](https://commons.wikimedia.org/wiki/File:Tsunoshima%20bridge%201.JPG) | Nissy-KITAQ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山口県 | 錦帯橋 | [20100724 Iwakuni 5235.jpg](https://commons.wikimedia.org/wiki/File:20100724%20Iwakuni%205235.jpg) | Jakub Hałun | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
