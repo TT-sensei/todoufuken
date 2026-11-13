@@ -21,6 +21,8 @@ function renderNav(){
   const b=e.target.closest("[data-code]");
   if(!b)return;
   activeCode=b.dataset.code;
+  searchText="";
+  $("#guideSearch").value="";
   renderNav();
   renderPref(activeCode);
   $("#detail").scrollIntoView({behavior:"smooth",block:"start"});
@@ -29,7 +31,7 @@ function renderNav(){
 function renderSearchResults(){
  const matches=[];
  data.prefectures.forEach(p=>(p.items||[]).forEach(item=>{
-  if([item.name,item.description,item.category,p.name,p.region].some(v=>String(v||"").toLocaleLowerCase("ja").includes(searchText)))matches.push({p,item});
+  if([item.name,item.description,item.category,p.name,p.capital,p.region].some(v=>String(v||"").toLocaleLowerCase("ja").includes(searchText)))matches.push({p,item});
  }));
  $("#searchStatus").textContent=`全国47都道府県から検索：${matches.length}件`;
  const groups=data.prefectures.map(p=>{
