@@ -11,11 +11,12 @@
 - タブレット／スマートフォン向けレイアウト
 - 県内の項目を名前・カテゴリ・説明文から絞り込める検索
 - 写真の読み込みに失敗した場合の代替表示
+- 関東7都県35項目のうち、写真候補16点の作者・ライセンスを確認
 - 図鑑の閲覧はMASTER条件に影響しない
 
 ## 写真の進捗
-- Commons原ページと作者・ライセンスを確認した写真：11点
-- 写真の選定・権利確認が残っている項目：24点
+- Commons原ページと作者・ライセンスを確認した写真：16点
+- 写真の選定・権利確認が残っている項目：19点
 - ローカルWebP配置：未実施（次の作業）
 - 写真の読み込み失敗時は代替表示するが、ネット接続なしでの閲覧には未対応
 - 現在の写真表示はCommonsのSpecial:FilePathを参照する確認用です。最終仕様のB案ではありません。
@@ -26,6 +27,11 @@
 | 都県 | 写真 | 作者 | ライセンス |
 |---|---|---|---|
 | 茨城 | Hitachi Seaside Park.jpg | Ohamberger | CC BY-SA 4.0 |
+| 栃木 | Nikko toshogu shrine.jpg | Koichi Sato | CC BY-SA 4.0 |
+| 埼玉 | Nagatoro Iwadatami.JPG | NY066（Wikivoyage共有） | CC BY-SA 3.0 |
+| 千葉 | Kujukuri Beach.jpg | 作者情報なし（PD公開者：Beroccstar） | パブリックドメイン |
+| 東京 | Ogasawara Islands, Tokyo, Japan.jpg | Anagounagi | CC BY-SA 4.0 |
+| 神奈川 | A view of Lake Ashi, Hakone, Japan.jpg | Joli Rumi | CC BY-SA 4.0 |
 | 茨城 | Kasama Ware, Ibaraki 06.jpg | Σ64 | CC BY 4.0 |
 | 栃木 | Kegon Falls.jpg | SEKIUCHI | CC BY-SA 3.0 |
 | 群馬 | Kusatsu Yubatake.jpg | 百楽兎 | CC BY-SA 3.0 |
