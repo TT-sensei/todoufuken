@@ -557,10 +557,15 @@
           "id": "01-3",
           "name": "ジンギスカン",
           "category": "食べ物・特産",
-          "description": "ジンギスカンは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "北海道では羊肉を野菜と一緒に焼くジンギスカンが広く親しまれています。羊肉を食べる文化が広がった歴史も調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "01-4",
@@ -625,14 +630,14 @@
           "id": "02-3",
           "name": "りんご",
           "category": "食べ物・特産",
-          "description": "りんごは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "青森県はりんごの生産がさかんな地域です。冷涼な気候や昼夜の気温差など、栽培に適した自然条件に注目してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "青森県の食べ物",
-            "url": "https://www.pref.aomori.lg.jp/kids/04_food.html",
-            "note": "青森りんごなど県の食べ物を紹介"
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           }
         },
         {
@@ -693,10 +698,15 @@
           "id": "03-3",
           "name": "わんこそば",
           "category": "食べ物・特産",
-          "description": "わんこそばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "わんこそばは、岩手県を代表するそばの食文化です。お椀に少量ずつそばを入れて食べる独特の楽しみ方や、地域に伝わる由来を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "03-4",
@@ -746,10 +756,15 @@
           "id": "04-3",
           "name": "牛たん",
           "category": "食べ物・特産",
-          "description": "牛たんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "牛たん焼きは、仙台を代表する料理として知られています。戦後の仙台で広まった食文化で、牛たんを厚切りにして焼く食べ方が特徴です。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "04-4",
@@ -804,10 +819,15 @@
           "id": "05-3",
           "name": "きりたんぽ",
           "category": "食べ物・特産",
-          "description": "きりたんぽは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "きりたんぽは、つぶしたご飯を棒に巻き付けて焼いた秋田県の郷土料理です。米どころの暮らしや、鍋料理として食べる地域の習慣と結び付いています。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "05-4",
@@ -872,14 +892,14 @@
           "id": "06-3",
           "name": "さくらんぼ",
           "category": "食べ物・特産",
-          "description": "さくらんぼは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "山形県はさくらんぼの栽培がさかんな地域です。水はけのよい土地や雨の少ない時期など、果樹栽培を支える自然条件を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "山形県のご紹介・さくらんぼ",
-            "url": "https://tohoku-kizunamatsuri.jp/special/introduction/yamagata/",
-            "note": "山形のさくらんぼと気候の関係を紹介"
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           }
         },
         {
@@ -945,10 +965,15 @@
           "id": "07-3",
           "name": "喜多方ラーメン",
           "category": "食べ物・特産",
-          "description": "喜多方ラーメンは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "喜多方ラーメンは、福島県喜多方市で親しまれてきたご当地ラーメンです。太めのちぢれ麺やしょうゆ味のスープなど、地域の味の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "07-4",
@@ -998,10 +1023,15 @@
           "id": "15-3",
           "name": "米",
           "category": "食べ物・特産",
-          "description": "米は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "新潟県は米づくりがさかんな地域です。雪どけ水や平野の広がり、稲作を支える人々の工夫に注目してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "15-4",
@@ -1051,10 +1081,15 @@
           "id": "16-3",
           "name": "ます寿司",
           "category": "食べ物・特産",
-          "description": "ます寿司は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "ます寿司は、富山県を代表する郷土料理の一つです。ますと酢飯を笹で包んだ押しずしで、富山の食文化や駅弁として広まった歴史も調べられます。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "16-4",
@@ -1104,10 +1139,15 @@
           "id": "17-3",
           "name": "加賀料理",
           "category": "食べ物・特産",
-          "description": "加賀料理は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "加賀料理は、石川県金沢市を中心に受け継がれてきた食文化です。加賀藩の歴史や、海・山の食材、器や盛り付けにも目を向けてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "17-4",
@@ -1157,10 +1197,15 @@
           "id": "18-3",
           "name": "越前おろしそば",
           "category": "食べ物・特産",
-          "description": "越前おろしそばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "越前おろしそばは、福井県で親しまれているそば料理です。冷たいそばに大根おろしを添える食べ方や、地域でそばが食べ継がれてきた背景を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "18-4",
@@ -1210,10 +1255,15 @@
           "id": "19-3",
           "name": "ぶどう・もも",
           "category": "食べ物・特産",
-          "description": "ぶどう・ももは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "山梨県はぶどうやももの栽培がさかんな地域です。盆地の地形や日照時間など、果物づくりを支える自然条件を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "19-4",
@@ -1263,10 +1313,15 @@
           "id": "20-3",
           "name": "信州そば",
           "category": "食べ物・特産",
-          "description": "信州そばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "信州そばは、長野県の各地で親しまれているそばです。高冷地の気候やそばの栽培、地域ごとの食べ方の違いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "20-4",
@@ -1316,10 +1371,15 @@
           "id": "21-3",
           "name": "飛騨牛",
           "category": "食べ物・特産",
-          "description": "飛騨牛は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "飛騨牛は、岐阜県の豊かな自然の中で育てられるブランド牛です。飼育環境や品質を守るための工夫について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "21-4",
@@ -1369,10 +1429,15 @@
           "id": "22-3",
           "name": "お茶",
           "category": "食べ物・特産",
-          "description": "お茶は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "静岡県はお茶の産地として知られています。温暖な気候や山の斜面、茶畑の広がりと、お茶づくりの工夫を結び付けて考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "22-4",
@@ -1422,10 +1487,15 @@
           "id": "23-3",
           "name": "みそかつ",
           "category": "食べ物・特産",
-          "description": "みそかつは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "みそかつは、八丁味噌などの豆みそを使った濃厚なたれをかける名古屋めしの一つです。愛知県の豆みそ文化と料理の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "23-4",
@@ -1475,10 +1545,15 @@
           "id": "24-3",
           "name": "伊勢うどん",
           "category": "食べ物・特産",
-          "description": "伊勢うどんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "伊勢うどんは、三重県伊勢市で親しまれてきた太くやわらかい麺と濃い色のたれが特徴の料理です。伊勢参りの人々との関わりも調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "24-4",
@@ -1528,10 +1603,15 @@
           "id": "25-3",
           "name": "近江牛",
           "category": "食べ物・特産",
-          "description": "近江牛は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "近江牛は、滋賀県で長く飼育されてきたブランド牛です。琵琶湖周辺の農業や畜産の歴史、品質を守る取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "25-4",
@@ -1581,10 +1661,15 @@
           "id": "26-3",
           "name": "京料理",
           "category": "食べ物・特産",
-          "description": "京料理は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "京料理は、京都の歴史や行事、季節感と深く結び付いた食文化です。だしや旬の食材、盛り付けに込められた工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "26-4",
@@ -1634,10 +1719,15 @@
           "id": "27-3",
           "name": "たこ焼き",
           "category": "食べ物・特産",
-          "description": "たこ焼きは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "たこ焼きは、大阪で生まれ広まった粉もの料理です。小麦粉の生地とたこを使う調理法や、大阪の食文化との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "27-4",
@@ -1687,10 +1777,15 @@
           "id": "28-3",
           "name": "明石焼",
           "category": "食べ物・特産",
-          "description": "明石焼は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "明石焼（玉子焼）は、兵庫県明石市の郷土料理です。卵を多く使ったやわらかな生地をだしにつけて食べる特徴と、明石の食文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "28-4",
@@ -1740,10 +1835,15 @@
           "id": "29-3",
           "name": "柿の葉ずし",
           "category": "食べ物・特産",
-          "description": "柿の葉ずしは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "柿の葉ずしは、奈良県などで受け継がれてきた押しずしです。柿の葉で包む知恵や、山間部で魚を保存して食べた暮らしとの関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "29-4",
@@ -1793,10 +1893,15 @@
           "id": "30-3",
           "name": "梅干し",
           "category": "食べ物・特産",
-          "description": "梅干しは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "和歌山県は梅の栽培がさかんで、梅干しづくりでも知られています。温暖な気候や南高梅の特徴、保存食としての役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "30-4",
@@ -1846,10 +1951,15 @@
           "id": "31-3",
           "name": "二十世紀梨",
           "category": "食べ物・特産",
-          "description": "二十世紀梨は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "二十世紀梨は、鳥取県を代表する果物の一つです。砂丘地帯を含む土地での栽培の工夫や、梨づくりの歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "31-4",
@@ -1899,10 +2009,15 @@
           "id": "32-3",
           "name": "出雲そば",
           "category": "食べ物・特産",
-          "description": "出雲そばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "出雲そばは、島根県東部で親しまれているそばです。そばの実を殻ごと挽く製粉方法や、黒っぽく香りの強い麺の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "32-4",
@@ -1952,10 +2067,15 @@
           "id": "33-3",
           "name": "白桃",
           "category": "食べ物・特産",
-          "description": "白桃は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "岡山県は白桃の産地として知られています。袋をかけて育てる栽培方法や、白く美しい果実を育てる工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "33-4",
@@ -2005,10 +2125,15 @@
           "id": "34-3",
           "name": "お好み焼き",
           "category": "食べ物・特産",
-          "description": "お好み焼きは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "広島のお好み焼きは、生地やキャベツ、麺などを重ねて焼くのが特徴です。戦後の広島の暮らしの中で広まった食文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "34-4",
@@ -2058,10 +2183,15 @@
           "id": "35-3",
           "name": "ふぐ料理",
           "category": "食べ物・特産",
-          "description": "ふぐ料理は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "山口県はふぐ料理で知られています。ふぐを安全に食べるための専門的な処理や、下関を中心とした水産業との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "35-4",
@@ -2111,10 +2241,15 @@
           "id": "36-3",
           "name": "鳴門わかめ",
           "category": "食べ物・特産",
-          "description": "鳴門わかめは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "鳴門わかめは、徳島県鳴門海峡周辺で養殖・収穫されるわかめです。潮の流れや海の環境が、わかめの育ち方や品質にどう関係するか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "36-4",
@@ -2164,10 +2299,15 @@
           "id": "37-3",
           "name": "讃岐うどん",
           "category": "食べ物・特産",
-          "description": "讃岐うどんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "讃岐うどんは、香川県を代表する食文化です。小麦や塩、だしの使い方に加え、雨が少ない気候と水の利用、うどん文化の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "37-4",
@@ -2217,10 +2357,15 @@
           "id": "38-3",
           "name": "みかん",
           "category": "食べ物・特産",
-          "description": "みかんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "愛媛県はかんきつ類の栽培がさかんな地域です。日当たりのよい斜面や温暖な気候など、みかんづくりを支える条件を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "38-4",
@@ -2270,10 +2415,15 @@
           "id": "39-3",
           "name": "かつおのたたき",
           "category": "食べ物・特産",
-          "description": "かつおのたたきは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "かつおのたたきは、高知県を代表する郷土料理です。かつお漁や、表面をあぶって薬味と食べる調理法が生まれた背景を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "39-4",
@@ -2323,10 +2473,15 @@
           "id": "40-3",
           "name": "博多ラーメン",
           "category": "食べ物・特産",
-          "description": "博多ラーメンは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "博多ラーメンは、福岡県福岡市を代表する豚骨ラーメンです。白く濁ったスープや細い麺、替え玉の習慣など、地域の食文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "40-4",
@@ -2376,10 +2531,15 @@
           "id": "41-3",
           "name": "呼子のいか",
           "category": "食べ物・特産",
-          "description": "呼子のいかは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "呼子のいかは、佐賀県唐津市呼子の名物です。玄界灘の漁業や、いかの鮮度を生かした料理・観光との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "41-4",
@@ -2429,10 +2589,15 @@
           "id": "42-3",
           "name": "長崎ちゃんぽん",
           "category": "食べ物・特産",
-          "description": "長崎ちゃんぽんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "長崎ちゃんぽんは、長崎市で生まれた麺料理です。中国の食文化との交流や、肉・魚介・野菜を組み合わせる料理の成り立ちを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "42-4",
@@ -2482,10 +2647,15 @@
           "id": "43-3",
           "name": "馬刺し",
           "category": "食べ物・特産",
-          "description": "馬刺しは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "熊本県では馬肉を使った料理が食文化の一つとして親しまれています。馬肉を食べるようになった歴史や、地域での食べ方を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "43-4",
@@ -2535,10 +2705,15 @@
           "id": "44-3",
           "name": "とり天",
           "category": "食べ物・特産",
-          "description": "とり天は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "とり天は、大分県で親しまれている鶏肉の天ぷら料理です。家庭や飲食店に広がった背景や、からし・ポン酢などの食べ方を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "44-4",
@@ -2588,10 +2763,15 @@
           "id": "45-3",
           "name": "チキン南蛮",
           "category": "食べ物・特産",
-          "description": "チキン南蛮は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "チキン南蛮は、宮崎県延岡市で生まれたとされる料理です。鶏肉を揚げて甘酢にくぐらせる調理法や、タルタルソースとの組み合わせの広がりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "45-4",
@@ -2641,10 +2821,15 @@
           "id": "46-3",
           "name": "黒豚",
           "category": "食べ物・特産",
-          "description": "黒豚は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "鹿児島県の黒豚は、長い飼育の歴史をもつ特産品です。さつまいもなどを活用した飼育や、肉質の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "46-4",
@@ -2694,10 +2879,15 @@
           "id": "47-3",
           "name": "沖縄そば",
           "category": "食べ物・特産",
-          "description": "沖縄そばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "description": "沖縄そばは、小麦粉の麺に豚骨やかつお節などのだしを合わせる沖縄の郷土料理です。琉球王国時代から続く食文化や、地域ごとの違いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "47-4",
@@ -2730,5 +2920,5 @@
     "四国地方",
     "九州・沖縄地方"
   ],
-  "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。"
+  "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。 食べ物・特産カテゴリの全47項目には農林水産省「うちの郷土料理」の検索ページを参考リンクとして設定。各料理の掲載有無は個別確認が必要。"
 }
