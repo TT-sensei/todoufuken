@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1619,14 +1619,24 @@
           "category": "名所・建物",
           "description": "兼六園は石川県金沢市にある日本三名園の一つです。池や築山、橋などを組み合わせた庭園の工夫と、加賀藩の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kenrokuen garden 1.jpg",
+            "author": "Motokoka",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kenrokuen_garden_1.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "石川県金沢市の兼六園に広がる日本庭園"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenrokuen%20garden%201.jpg"
         },
         {
           "id": "17-3",
@@ -1868,14 +1878,24 @@
           "category": "名所・建物",
           "description": "松本城は長野県松本市にある国宝の城です。黒い外観や天守の構造に注目し、戦国時代から江戸時代にかけての城の役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Matsumoto castle in nagano.jpg",
+            "author": "Oooooko",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Matsumoto_castle_in_nagano.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "長野県松本市の松本城"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matsumoto%20castle%20in%20nagano.jpg"
         },
         {
           "id": "20-3",
@@ -2117,14 +2137,24 @@
           "category": "名所・建物",
           "description": "名古屋城は愛知県名古屋市に築かれた城で、金のしゃちほこがよく知られています。徳川家康が築いた城の役割や、城下町の発展を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Nagoya Castle2026.jpg",
+            "author": "加茂川の民",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "愛知県名古屋市の名古屋城"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagoya%20Castle2026.jpg"
         },
         {
           "id": "23-3",
@@ -3211,14 +3241,24 @@
           "category": "自然・風景",
           "description": "鳴門の渦潮は、徳島県と兵庫県の間の鳴門海峡で見られる大きな渦です。潮の満ち引きや海峡の地形が、速い潮流を生むしくみを調べましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Observing Naruto whirlpools.jpg",
+            "author": "Pauloleong2002",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Observing_Naruto_whirlpools.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "徳島県と兵庫県の間の鳴門海峡に発生する渦潮"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Observing%20Naruto%20whirlpools.jpg"
         },
         {
           "id": "36-2",
@@ -3309,14 +3349,24 @@
           "category": "名所・建物",
           "description": "栗林公園は香川県高松市にある大名庭園です。池や築山、背景の紫雲山を生かした景色づくりと、庭園を造った人々の工夫を見てみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Ritsurin Garden.jpg",
+            "author": "Mason tang photography",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ritsurin_Garden.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "香川県高松市の栗林公園"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ritsurin%20Garden.jpg"
         },
         {
           "id": "37-3",
@@ -3460,14 +3510,24 @@
           "category": "自然・風景",
           "description": "四万十川は高知県を流れる川で、自然の姿が多く残ることで知られます。川の流れや沈下橋、川とともに暮らす人々の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Nishitosa Shimanto river.jpg",
+            "author": "Cherrysherbet",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nishitosa_Shimanto_river.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "高知県四万十市西土佐を流れる四万十川"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nishitosa%20Shimanto%20river.jpg"
         },
         {
           "id": "39-2",
@@ -3968,14 +4028,24 @@
           "category": "自然・風景",
           "description": "高千穂峡は宮崎県北部にある峡谷で、柱状節理の岩壁と川の景色が特徴です。火山活動と川の浸食がつくった地形を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Takachiho-gorge.jpg",
+            "author": "Takasunrise0921",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Takachiho-gorge.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "宮崎県高千穂町の高千穂峡と真名井の滝"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Takachiho-gorge.jpg"
         },
         {
           "id": "45-2",
@@ -4051,14 +4121,24 @@
           "category": "自然・風景",
           "description": "桜島は鹿児島湾にある活火山で、今も噴煙を上げることがあります。火山灰への備えや、火山とともに暮らす人々の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Sakurajima from kagoshima.jpg",
+            "author": "Douglas Perkins",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Sakurajima_from_kagoshima.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "鹿児島市側から望む桜島"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sakurajima%20from%20kagoshima.jpg"
         },
         {
           "id": "46-2",
