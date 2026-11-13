@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1116,14 +1116,24 @@
           "category": "名所・建物",
           "description": "中尊寺は岩手県平泉町にある寺院で、金色堂など平安時代の文化財で知られます。奥州藤原氏がこの地に築いた文化について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Landscape - Chusonji, Hiraizumi, Iwate - DSC05033.jpg",
+            "author": "Daderot",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Landscape_-_Chusonji,_Hiraizumi,_Iwate_-_DSC05033.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "岩手県平泉町の中尊寺の風景"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20-%20Chusonji%2C%20Hiraizumi%2C%20Iwate%20-%20DSC05033.jpg"
         },
         {
           "id": "03-3",
@@ -1293,14 +1303,24 @@
           "category": "産業・工芸",
           "description": "宮城県のこけしは、木を削って作る郷土玩具です。地域ごとに形や顔、模様が異なる理由や、木地師の技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Yajiro Kokeshi-mura.JPG",
+            "author": "Kei hashi",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yajiro_Kokeshi-mura.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "宮城県白石市の弥治郎こけし村"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "宮城の伝統的工芸品／宮城伝統こけし",
             "url": "https://www.pref.miyagi.jp/soshiki/shinsan/01kokesi.html",
             "note": "宮城県内のこけし5系統を紹介"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yajiro%20Kokeshi-mura.JPG"
         }
       ]
     },
