@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：172点 / 全国235項目
+- 写真候補：175点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 30点、文化・まつり 32点、産業・工芸 25点
-- ライセンス別：CC BY-SA 4.0 49点、CC BY 2.0 14点、CC BY 4.0 9点、CC BY-SA 3.0 51点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 11点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点、Public domain (PD-self) 1点
-- 写真未選定：63項目
+- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 30点、文化・まつり 35点、産業・工芸 25点
+- ライセンス別：CC BY-SA 4.0 49点、CC BY 2.0 14点、CC BY 4.0 9点、CC BY-SA 3.0 53点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 11点、パブリックドメイン（日本） 2点、CC0 1.0 12点、Public domain (PD-self) 2点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点
+- 写真未選定：60項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -40,10 +40,11 @@
 | 千葉県 | 房州うちわ | [Boushuu uchiwa.jpg](https://commons.wikimedia.org/wiki/File:Boushuu%20uchiwa.jpg) | zenkota (talk) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 東京都 | 小笠原諸島 | [Ogasawara Islands, Tokyo, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg) | Anagounagi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 東京都 | 東京スカイツリー | [TokyoSkyTree.jpg](https://commons.wikimedia.org/wiki/File:TokyoSkyTree.jpg) | Douglas P. Perkins | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
-| 東京都 | 三社祭 | [Children carry mikoshi Sanja Matsuri 2006.JPG](https://commons.wikimedia.org/wiki/File:Children%20carry%20mikoshi%20Sanja%20Matsuri%202006.JPG) | Torsodog | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 東京都 | 三社祭 | [Mikoshi in streets Sanja Matsuri 2006.JPG](https://commons.wikimedia.org/wiki/File:Mikoshi%20in%20streets%20Sanja%20Matsuri%202006.JPG) | Torsodog | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 東京都 | 江戸切子 | [Edokiriko sold in Kanagawa - Sept 2024.jpeg](https://commons.wikimedia.org/wiki/File:Edokiriko%20sold%20in%20Kanagawa%20-%20Sept%202024.jpeg) | Nesnad | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 神奈川県 | 箱根の山々と芦ノ湖 | [A view of Lake Ashi, Hakone, Japan.jpg](https://commons.wikimedia.org/wiki/File:A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg) | Joli Rumi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 神奈川県 | 横浜・みなとみらい | [Minato Mirai.jpg](https://commons.wikimedia.org/wiki/File:Minato%20Mirai.jpg) | Akonnchiroll | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 神奈川県 | 鶴岡八幡宮の流鏑馬 | [Yabusame Kamakura.jpg](https://commons.wikimedia.org/wiki/File:Yabusame%20Kamakura.jpg) | Urashimataro | [Public domain (PD-self)](https://commons.wikimedia.org/wiki/File:Yabusame_Kamakura.jpg#Licensing) | 未加工（原画像を表示） |
 | 神奈川県 | 鎌倉彫 | [KamakuraBori.jpg](https://commons.wikimedia.org/wiki/File:KamakuraBori.jpg) | Pqks758 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 北海道 | 知床 | [Shiretoko National Park.jpg](https://commons.wikimedia.org/wiki/File:Shiretoko%20National%20Park.jpg) | Trengarasu | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 北海道 | 函館山 | [Aerial view of Hakodate at night.jpg](https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Hakodate%20at%20night.jpg) | Fumikas Sagisavas | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
@@ -140,6 +141,7 @@
 | 島根県 | 出雲大社 | [Haiden of Izumo-taisha-1.JPG](https://commons.wikimedia.org/wiki/File:Haiden%20of%20Izumo-taisha-1.JPG) | Saigen Jiro | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 島根県 | 石見神楽 | [IwamiKagura-ShioHarai.png](https://commons.wikimedia.org/wiki/File:IwamiKagura-ShioHarai.png) | Pattio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岡山県 | 岡山城 | [Okayama Castle (Japan).jpg](https://commons.wikimedia.org/wiki/File:Okayama%20Castle%20(Japan).jpg) | Lynn0927 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 岡山県 | 西大寺会陽 | [Hadaka Matsuri (-Naked Festival-) in Saidaiji, Japan.jpg](https://commons.wikimedia.org/wiki/File:Hadaka%20Matsuri%20(-Naked%20Festival-)%20in%20Saidaiji%2C%20Japan.jpg) | Mstyslav Chernov/Unframe/http://www.unframe.com/ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 岡山県 | 備前焼 | [Jar, Bizen ware, Muromachi period, 1500s AD, ceramic - Hakone Museum of Art - Hakone, Kanagawa, Japan - DSC08183.jpg](https://commons.wikimedia.org/wiki/File:Jar%2C%20Bizen%20ware%2C%20Muromachi%20period%2C%201500s%20AD%2C%20ceramic%20-%20Hakone%20Museum%20of%20Art%20-%20Hakone%2C%20Kanagawa%2C%20Japan%20-%20DSC08183.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 広島県 | 宮島・弥山 | [Panorama of the floating torii gate at Itsukushima Shrine.jpg](https://commons.wikimedia.org/wiki/File:Panorama%20of%20the%20floating%20torii%20gate%20at%20Itsukushima%20Shrine.jpg) | Fattony12000 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | 原爆ドーム | [Hiroshima Peace Memorial (Genbaku Dome), Japan.jpg](https://commons.wikimedia.org/wiki/File:Hiroshima%20Peace%20Memorial%20(Genbaku%20Dome)%2C%20Japan.jpg) | Uhooep | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -173,6 +175,7 @@
 | 大分県 | 由布岳 | [Mt. Yufu (Yufuin, Oita, Japan).jpg](https://commons.wikimedia.org/wiki/File:Mt.%20Yufu%20(Yufuin%2C%20Oita%2C%20Japan).jpg) | Shubert Ciencia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 大分県 | 別府温泉 | [180131 Umi-Jigoku.jpg](https://commons.wikimedia.org/wiki/File:180131%20Umi-Jigoku.jpg) | Totti | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 大分県 | とり天 | [Toriten.JPG](https://commons.wikimedia.org/wiki/File:Toriten.JPG) | Toritencat | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 大分県 | 日田祇園祭 | [Gionn Festival Hita Ooita.jpg](https://commons.wikimedia.org/wiki/File:Gionn%20Festival%20Hita%20Ooita.jpg) | Mukai | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大分県 | 小鹿田焼 | [Ondayoshie.JPG](https://commons.wikimedia.org/wiki/File:Ondayoshie.JPG) | fitm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮崎県 | 高千穂峡 | [Takachiho-gorge.jpg](https://commons.wikimedia.org/wiki/File:Takachiho-gorge.jpg) | Takasunrise0921 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮崎県 | 青島 | [Aoshima.jpg](https://commons.wikimedia.org/wiki/File:Aoshima.jpg) | STA 3816 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
