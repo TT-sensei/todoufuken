@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -3436,14 +3436,24 @@
           "category": "名所・建物",
           "description": "高野山は和歌山県にある山上の宗教都市で、弘法大師空海が開いた真言密教の聖地です。寺院が集まる町の成り立ちや信仰を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Koyasan Okunoin 06.JPG",
+            "author": "Reggaeman",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Koyasan_Okunoin_06.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認し、画像の実物も目視確認済み",
+            "description": "高野山奥の院と御廟橋。杉木立に囲まれた参道と橋の風景"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koyasan%20Okunoin%2006.JPG"
         },
         {
           "id": "30-3",
