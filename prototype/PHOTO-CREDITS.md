@@ -5,7 +5,7 @@
 - 写真候補：187点 / 全国235項目
 - 写真候補がある都道府県：47/47
 - カテゴリ別：自然・風景 47点、名所・建物 47点、食べ物・特産 30点、文化・まつり 38点、産業・工芸 25点
-- ライセンス別：CC BY-SA 3.0 59点、CC BY-SA 4.0 53点、CC BY 2.0 14点、パブリックドメイン（作者による公開） 14点、CC0 1.0 13点、CC BY 3.0 12点、CC BY 4.0 9点、CC BY-SA 2.0 7点、パブリックドメイン（日本） 2点、Public domain (PD-self) 2点、CC BY-SA 2.1 JP 2点
+- ライセンス別：CC BY-SA 3.0 58点、CC BY-SA 4.0 54点、CC BY 2.0 14点、パブリックドメイン（作者による公開） 14点、CC0 1.0 13点、CC BY 3.0 12点、CC BY 4.0 9点、CC BY-SA 2.0 7点、パブリックドメイン（日本） 2点、Public domain (PD-self) 2点、CC BY-SA 2.1 JP 2点
 - 写真未選定：48項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
@@ -96,14 +96,14 @@
 | 福井県 | 三国祭 | [Mikuni festival 2022.jpg](https://commons.wikimedia.org/wiki/File:Mikuni_festival_2022.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福井県 | 越前和紙 | [Japanese paper making 03.jpg](https://commons.wikimedia.org/wiki/File:Japanese_paper_making_03.jpg) | TR15336300101 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 山梨県 | 富士山と河口湖 | [Mount Fuji from Lake Kawaguchi (2015-10-26).jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Kawaguchi_(2015-10-26).jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
-| 山梨県 | 昇仙峡 | [Kakuenpou-1.jpg](https://commons.wikimedia.org/wiki/File:Kakuenpou-1.jpg) | 江戸村のとくぞう | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 山梨県 | 昇仙峡 | [Shosenkyo-1.jpg](https://commons.wikimedia.org/wiki/File:Shosenkyo-1.jpg) | 江戸村のとくぞう | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 山梨県 | 信玄公祭り | [Shingen-ko Festival 201904c1.jpg](https://commons.wikimedia.org/wiki/File:Shingen-ko_Festival_201904c1.jpg) | 江戸村のとくぞう | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 長野県 | 上高地 | [Kamikochi from Mount Yake 2002-08-06.jpg](https://commons.wikimedia.org/wiki/File:Kamikochi_from_Mount_Yake_2002-08-06.jpg) | Alpsdake | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 長野県 | 松本城 | [Matsumoto castle in nagano.jpg](https://commons.wikimedia.org/wiki/File:Matsumoto_castle_in_nagano.jpg) | Oooooko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 長野県 | 信州そば | [Shinshu soba.jpg](https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 長野県 | 御柱祭 | [Onbasira Festival Tateonbasira.JPG](https://commons.wikimedia.org/wiki/File:Onbasira_Festival_Tateonbasira.JPG) | C1815 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 岐阜県 | 白川郷 | [Ogi Shirakawa-gō, Gifu, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
-| 岐阜県 | 岐阜城 | [Gifu Castle Japan03-r.jpg](https://commons.wikimedia.org/wiki/File:Gifu_Castle_Japan03-r.jpg) | Oilstreet | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 岐阜県 | 岐阜城 | [Gifu Castle (2019-01-13).jpg](https://commons.wikimedia.org/wiki/File:Gifu_Castle_(2019-01-13).jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岐阜県 | 飛騨牛 | [Grilling Hida Beef (Takayama Street Food) (35910429046).jpg](https://commons.wikimedia.org/wiki/File:Grilling_Hida_Beef_(Takayama_Street_Food)_(35910429046).jpg) | Ankur P | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 岐阜県 | 高山祭 | [Takayama_Matsuri-2017-5.jpg](https://commons.wikimedia.org/wiki/File:Takayama_Matsuri-2017-5.jpg) | Chme82 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 静岡県 | 富士山 | [Mount Fuji and Fujinomiya.jpg](https://commons.wikimedia.org/wiki/File:Mount%20Fuji%20and%20Fujinomiya.jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -139,7 +139,7 @@
 | 奈良県 | 東大寺 | [Tōdai-ji Temple in Nara, Japan.jpg](https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Temple_in_Nara%2C_Japan.jpg) | Didier Moïse | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 奈良県 | 春日若宮おん祭 | [Onmatsuri2.jpg](https://commons.wikimedia.org/wiki/File:Onmatsuri2.jpg) | Lovelin6th | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 和歌山県 | 那智の滝 | [Nachi Falls 2025-10-13.jpg](https://commons.wikimedia.org/wiki/File:Nachi_Falls_2025-10-13.jpg) | Alpsdake | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
-| 和歌山県 | 高野山 | [Koyasan Okunoin 06.JPG](https://commons.wikimedia.org/wiki/File:Koyasan_Okunoin_06.JPG) | Reggaeman | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 和歌山県 | 高野山 | [Konpondaitou01.jpg](https://commons.wikimedia.org/wiki/File:Konpondaitou01.jpg) | Dokudami | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 鳥取県 | 鳥取砂丘 | [Tottori Sand Dune.jpg](https://commons.wikimedia.org/wiki/File:Tottori_Sand_Dune.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 鳥取県 | 三徳山三佛寺 | [Mitokusan Nageiredo 02.JPG](https://commons.wikimedia.org/wiki/File:Mitokusan_Nageiredo_02.JPG) | Reggaeman | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 島根県 | 宍道湖 | [Lake Shinji.jpg](https://commons.wikimedia.org/wiki/File:Lake_Shinji.jpg) | contri | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
