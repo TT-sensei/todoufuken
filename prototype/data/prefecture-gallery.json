@@ -1656,14 +1656,24 @@
           "category": "名所・建物",
           "description": "黒部ダムは富山県の黒部川上流に建設された大きなダムです。水力発電の役割や、険しい山の中で建設するために使われた技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "KurobeDam.JPG",
+            "author": "Ippukucho",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:KurobeDam.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンス・説明を確認済み",
+            "description": "黒部ダムの全景（2014年撮影）"
+          },
+          "photoStatus": "候補あり",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KurobeDam.JPG"
         },
         {
           "id": "16-3",
