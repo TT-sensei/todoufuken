@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：132点 / 全国235項目
+- 写真候補：133点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 22点、文化・まつり 24点、産業・工芸 17点
-- ライセンス別：CC BY-SA 4.0 35点、CC BY 2.0 9点、CC BY 4.0 8点、CC BY-SA 3.0 40点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
-- 写真未選定：103項目
+- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 23点、文化・まつり 24点、産業・工芸 17点
+- ライセンス別：CC BY-SA 4.0 35点、CC BY 2.0 10点、CC BY 4.0 8点、CC BY-SA 3.0 40点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
+- 写真未選定：102項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -26,6 +26,7 @@
 | 栃木県 | 益子焼 | [MashikoDaiseiGama202410.jpg](https://commons.wikimedia.org/wiki/File:MashikoDaiseiGama202410.jpg) | FukuroWaraw | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 群馬県 | 尾瀬 | [Forest in Oze 14.jpg](https://commons.wikimedia.org/wiki/File:Forest_in_Oze_14.jpg) | Σ64 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 群馬県 | 草津温泉・湯畑 | [Kusatsu Yubatake.jpg](https://commons.wikimedia.org/wiki/File:Kusatsu_Yubatake.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 群馬県 | こんにゃく | [Miso konnyaku by nyaa birdies perch in Nakanojo, Gunma.jpg](https://commons.wikimedia.org/wiki/File:Miso_konnyaku_by_nyaa_birdies_perch_in_Nakanojo,_Gunma.jpg) | nyaa_birdies_perch | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 群馬県 | 高崎だるま | [Small collection of Daruma dolls - Takasaki - August 2014.jpg](https://commons.wikimedia.org/wiki/File:Small_collection_of_Daruma_dolls_-_Takasaki_-_August_2014.jpg) | nesnad | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 群馬県 | 富岡製糸場 | [Tomioka Silk Mill.JPG](https://commons.wikimedia.org/wiki/File:Tomioka_Silk_Mill.JPG) | 宮内省（現・宮内庁） | [パブリックドメイン（日本）](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Japan) | 未加工（原画像を表示） |
 | 埼玉県 | 長瀞の岩畳 | [Nagatoro Iwadatami.JPG](https://commons.wikimedia.org/wiki/File:Nagatoro%20Iwadatami.JPG) | NY066（Wikivoyage共有） | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
