@@ -8,11 +8,7 @@
     "文化・まつり",
     "産業・工芸"
   ],
-  "photoPolicy": {
-    "source": "Wikimedia Commons",
-    "localCopyStatus": "未配置",
-    "note": "関東の既存写真候補16点以外は未選定。全国展開では各写真の作者・ライセンスを確認し、ローカルWebP配置を行う。説明文も自治体・公的機関の情報と照合する。"
-  },
+  "photoPolicy": "写真はWikimedia Commonsの原ページで作者・ライセンス・対象との一致を確認した候補のみ登録。画像は現在CommonsのSpecial:FilePathを参照する確認用表示で、ローカルWebP化は未実施。CC BY/CC BY-SAは作者・ライセンス・変更内容を近接表示し、SA条件を維持する。",
   "prefectures": [
     {
       "code": "08",
@@ -796,14 +792,24 @@
           "category": "文化・まつり",
           "description": "さっぽろ雪まつりは、札幌市で開かれる冬の祭りです。大きな雪像や氷像が並び、雪国の技術や冬の観光の工夫を知ることができます。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Sapporo Snow festival.JPG",
+            "author": "Daigaku2051",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Sapporo_Snow_festival.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・CC BY-SA 3.0を確認済み。ローカル化待ち",
+            "description": "さっぽろ雪まつりの大通会場に設けられたジャンプ台"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "さっぽろ雪まつり公式サイト",
             "url": "https://www.snowfes.com/",
             "note": "開催会場・開催日など公式案内"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sapporo%20Snow%20festival.JPG"
         },
         {
           "id": "01-5",
@@ -849,14 +855,24 @@
           "category": "名所・建物",
           "description": "弘前城は青森県弘前市にある城で、現在も江戸時代に建てられた天守が残っています。城の役割や、城下町のつくりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "HirosakiCastle.JPG",
+            "author": "Luck-one",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:HirosakiCastle.JPG",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:HirosakiCastle.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者によるパブリックドメイン公開を確認済み。ローカル化待ち",
+            "description": "青森県弘前市の弘前城"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "青森県の観光スポット",
             "url": "https://www.pref.aomori.lg.jp/k-kensei/sightseeing.html",
             "note": "弘前城・弘前公園など県内観光情報"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HirosakiCastle.JPG"
         },
         {
           "id": "02-3",
@@ -917,14 +933,24 @@
           "category": "自然・風景",
           "description": "浄土ヶ浜は、岩手県宮古市にある三陸海岸を代表する景勝地です。白くとがった流紋岩の岩と青い海、松の緑がつくる景色が特徴です。波や風が長い時間をかけて岩の形をつくった過程を考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Jyoudogahama.jpg",
+            "author": "Junpei Satoh",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Jyoudogahama.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・CC BY-SA 3.0を確認済み。ローカル化待ち",
+            "description": "岩手県宮古市の浄土ヶ浜"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jyoudogahama.jpg"
         },
         {
           "id": "03-2",
@@ -1181,14 +1207,24 @@
           "category": "名所・建物",
           "description": "山寺（立石寺）は山形市の山あいにある寺院です。険しい石段を上った先に堂や景色が広がり、自然の地形と信仰が結び付いています。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "View of Yamadera.jpg",
+            "author": "Japanexperterna.se",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Yamadera.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・CC BY-SA 3.0を確認済み。ローカル化待ち",
+            "description": "山形県の山寺を山の斜面から見た景色"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "山形市公式 観光情報",
             "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
             "note": "山寺など市内観光情報への案内"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Yamadera.jpg"
         },
         {
           "id": "06-3",
