@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2318,13 +2318,13 @@
           "description": "昇仙峡は山梨県甲府市近くにある渓谷で、奇岩や滝が見られます。花こう岩が川や風雨によって削られてできた景観を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "Kakuenpou-1.jpg",
+            "file": "Shosenkyo-1.jpg",
             "author": "江戸村のとくぞう",
             "license": "CC BY-SA 4.0",
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kakuenpou-1.jpg",
-            "description": "昇仙峡の覚円峰の断崖と荒川沿いの渓谷（2018年5月16日撮影）",
-            "reviewStatus": "Commons原ページで昇仙峡・覚円峰の対象物、作者、CC BY-SA 4.0、撮影日を確認。掲載サムネイルを目視確認済み",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shosenkyo-1.jpg",
+            "description": "山梨県甲府市の昇仙峡。長潭橋（ながとろばし）周辺の渓谷風景（2017年10月21日撮影）",
+            "reviewStatus": "Commons原ページで昇仙峡・長潭橋の対象物、作者、CC BY-SA 4.0、撮影日を確認。原画像3761×2973pxの横長写真を確認",
             "changes": "未加工（原画像を表示）"
           },
           "photoStatus": "登録済み",
@@ -2334,7 +2334,7 @@
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
           "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kakuenpou-1.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shosenkyo-1.jpg"
         },
         {
           "id": "19-3",
@@ -2552,23 +2552,23 @@
           "description": "岐阜城は岐阜市の金華山山頂にある城跡で、織田信長が拠点としたことで知られます。山の上に城を築いた理由や、天下統一への動きを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "Gifu Castle Japan03-r.jpg",
-            "author": "Oilstreet",
+            "file": "Gifu Castle (2019-01-13).jpg",
+            "author": "Alpsdake",
             "license": "CC BY-SA 4.0",
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Gifu_Castle_Japan03-r.jpg",
-            "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページで岐阜城の復興天守・撮影日（2023年3月24日）・作者・CC BY-SA 4.0を確認。原画像は容量制限により直接取得できず、画像全体の追加目視確認は未実施",
-            "description": "金華山山頂に建つ岐阜城の復興天守（2023年3月24日撮影）"
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Gifu_Castle_(2019-01-13).jpg",
+            "description": "岐阜県岐阜市の金華山山頂にそびえる岐阜城の復興天守（2019年1月13日撮影）",
+            "reviewStatus": "Commons原ページで岐阜城・金華山山頂の対象物、作者、CC BY-SA 4.0、撮影日を確認。原画像4800×3800px",
+            "changes": "未加工（原画像を表示）"
           },
-          "photoStatus": "選定済み",
+          "photoStatus": "登録済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
           "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gifu_Castle_Japan03-r.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gifu%20Castle%20(2019-01-13).jpg"
         },
         {
           "id": "21-3",
@@ -3657,23 +3657,23 @@
           "description": "高野山は和歌山県にある山上の宗教都市で、弘法大師空海が開いた真言密教の聖地です。寺院が集まる町の成り立ちや信仰を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "Koyasan Okunoin 06.JPG",
-            "author": "Reggaeman",
-            "license": "CC BY-SA 3.0",
-            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Koyasan_Okunoin_06.JPG",
-            "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認し、画像の実物も目視確認済み",
-            "description": "高野山奥の院と御廟橋。杉木立に囲まれた参道と橋の風景"
+            "file": "Konpondaitou01.jpg",
+            "author": "Dokudami",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Konpondaitou01.jpg",
+            "description": "和歌山県高野町の高野山・壇上伽藍に建つ朱塗りの根本大塔（2017年7月30日撮影）",
+            "reviewStatus": "Commons原ページで高野山壇上伽藍の根本大塔、作者、CC BY-SA 4.0、撮影日を確認。原画像1600×1178px",
+            "changes": "未加工（原画像を表示）"
           },
-          "photoStatus": "未選定",
+          "photoStatus": "登録済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
           "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koyasan%20Okunoin%2006.JPG"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Konpondaitou01.jpg"
         },
         {
           "id": "30-3",
