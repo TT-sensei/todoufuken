@@ -574,10 +574,15 @@
           "id": "01-1",
           "name": "知床",
           "category": "自然・風景",
-          "description": "知床などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "知床は北海道東部の半島で、海・森・山が近くに集まる自然豊かな地域です。流氷や野生動物など、海と陸のつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "01-2",
@@ -642,10 +647,15 @@
           "id": "02-1",
           "name": "白神山地",
           "category": "自然・風景",
-          "description": "白神山地などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "白神山地には、ブナの原生的な森林が広がっています。人の手があまり入っていない森が、どのような生き物を育んでいるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "02-2",
@@ -715,10 +725,15 @@
           "id": "03-1",
           "name": "浄土ヶ浜",
           "category": "自然・風景",
-          "description": "浄土ヶ浜などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "浄土ヶ浜は、岩手県宮古市にある白い岩と青い海が美しい海岸です。波や風がつくった岩の形に注目してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "03-2",
@@ -773,10 +788,15 @@
           "id": "04-1",
           "name": "松島",
           "category": "自然・風景",
-          "description": "松島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "松島は、宮城県の海に大小の島々が浮かぶ景勝地です。島の形や松の木がつくる景観と、湾の地形の関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "04-2",
@@ -836,10 +856,15 @@
           "id": "05-1",
           "name": "田沢湖",
           "category": "自然・風景",
-          "description": "田沢湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "田沢湖は秋田県にある深い湖で、澄んだ青い水が特徴です。湖の深さや周囲の山々など、地形の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "05-2",
@@ -899,14 +924,14 @@
           "id": "06-1",
           "name": "蔵王の樹氷",
           "category": "自然・風景",
-          "description": "蔵王の樹氷などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "蔵王では、冬に樹氷と呼ばれる雪と氷の造形が見られます。強い風や気温など、自然条件がどのように樹氷をつくるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "蔵王の樹氷",
-            "url": "https://www.kankou.yamagata.yamagata.jp/zao/jyuhyo/",
-            "note": "樹氷の見ごろ・観賞時の注意"
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           }
         },
         {
@@ -977,10 +1002,15 @@
           "id": "07-1",
           "name": "磐梯山",
           "category": "自然・風景",
-          "description": "磐梯山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "磐梯山は福島県を代表する山の一つです。火山活動によって生まれた地形や、周辺に広がる湖沼との関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "07-2",
@@ -1040,10 +1070,15 @@
           "id": "15-1",
           "name": "佐渡島",
           "category": "自然・風景",
-          "description": "佐渡島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "佐渡島は新潟県沖の日本海に浮かぶ島です。海岸線や山地、金山の歴史など、自然と人々の暮らしのつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "15-2",
@@ -1098,10 +1133,15 @@
           "id": "16-1",
           "name": "立山連峰",
           "category": "自然・風景",
-          "description": "立山連峰などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "立山連峰は富山県東部にそびえる山々です。標高の高い場所に見られる雪渓や高山植物など、山の環境の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "16-2",
@@ -1156,10 +1196,15 @@
           "id": "17-1",
           "name": "白米千枚田",
           "category": "自然・風景",
-          "description": "白米千枚田などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "白米千枚田は、石川県輪島市の海岸近くに広がる小さな田んぼの集まりです。斜面を利用した米づくりの工夫を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "17-2",
@@ -1214,10 +1259,15 @@
           "id": "18-1",
           "name": "東尋坊",
           "category": "自然・風景",
-          "description": "東尋坊などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "東尋坊は福井県坂井市の海岸にある断崖です。岩の割れ方や柱のような形に注目し、長い時間をかけてできた地形を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "18-2",
@@ -1272,10 +1322,15 @@
           "id": "19-1",
           "name": "富士山と河口湖",
           "category": "自然・風景",
-          "description": "富士山と河口湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "山梨県側から望む富士山と河口湖は、山と湖がつくる景観です。火山としての富士山と、周辺の湖の成り立ちを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "19-2",
@@ -1330,10 +1385,15 @@
           "id": "20-1",
           "name": "上高地",
           "category": "自然・風景",
-          "description": "上高地などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "上高地は長野県の山あいに広がる景勝地で、梓川や穂高連峰の眺めで知られます。山や川がつくる地形と自然環境を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "20-2",
@@ -1388,10 +1448,15 @@
           "id": "21-1",
           "name": "白川郷",
           "category": "自然・風景",
-          "description": "白川郷などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "白川郷は岐阜県の山あいにある集落で、合掌造りの家並みが知られています。豪雪地帯の自然と、人々の住まいの工夫を結び付けて考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "21-2",
@@ -1446,10 +1511,15 @@
           "id": "22-1",
           "name": "富士山",
           "category": "自然・風景",
-          "description": "富士山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "富士山は静岡県と山梨県にまたがる日本を代表する火山です。山の形や噴火の歴史、周辺の湧水など、火山が地域に与える影響を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "22-2",
@@ -1504,10 +1574,15 @@
           "id": "23-1",
           "name": "渥美半島",
           "category": "自然・風景",
-          "description": "渥美半島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "渥美半島は愛知県の南部にのびる半島です。太平洋と三河湾に囲まれた海岸や、温暖な気候を生かした農業について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "23-2",
@@ -1562,10 +1637,15 @@
           "id": "24-1",
           "name": "英虞湾",
           "category": "自然・風景",
-          "description": "英虞湾などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "英虞湾は三重県志摩市にある入り組んだ海岸が特徴の湾です。リアス海岸の地形や、真珠養殖など海と人々の暮らしの関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "24-2",
@@ -1620,10 +1700,15 @@
           "id": "25-1",
           "name": "琵琶湖",
           "category": "自然・風景",
-          "description": "琵琶湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "琵琶湖は滋賀県にある日本最大の湖です。多くの川が流れ込む水のめぐりや、湖の生き物、人々の生活とのつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "25-2",
@@ -1678,10 +1763,15 @@
           "id": "26-1",
           "name": "天橋立",
           "category": "自然・風景",
-          "description": "天橋立などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "天橋立は京都府宮津市の海にのびる砂州で、松並木が続く景勝地です。砂が運ばれて地形ができるしくみを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "26-2",
@@ -1736,10 +1826,15 @@
           "id": "27-1",
           "name": "箕面の滝",
           "category": "自然・風景",
-          "description": "箕面の滝などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "箕面の滝は大阪府箕面市の山あいにある滝です。周囲の森林や川の流れに注目し、都市の近くに残る自然環境について考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "27-2",
@@ -1794,10 +1889,15 @@
           "id": "28-1",
           "name": "六甲山",
           "category": "自然・風景",
-          "description": "六甲山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "六甲山は兵庫県神戸市の北側に連なる山地です。山と海が近い地形や、神戸の町から見える景色との関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "28-2",
@@ -1852,10 +1952,15 @@
           "id": "29-1",
           "name": "吉野山",
           "category": "自然・風景",
-          "description": "吉野山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "吉野山は奈良県にある山地で、春には山をおおう桜で知られます。桜が植えられてきた歴史や、山の自然と信仰の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "29-2",
@@ -1910,10 +2015,15 @@
           "id": "30-1",
           "name": "那智の滝",
           "category": "自然・風景",
-          "description": "那智の滝などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "那智の滝は和歌山県那智勝浦町にある落差の大きな滝です。周囲の森林や水の流れ、古くから続く信仰との関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "30-2",
@@ -1968,10 +2078,15 @@
           "id": "31-1",
           "name": "鳥取砂丘",
           "category": "自然・風景",
-          "description": "鳥取砂丘などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "鳥取砂丘は日本海沿岸に広がる大きな砂丘です。風が砂を運んで地形をつくるしくみや、砂丘に生きる植物について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "31-2",
@@ -2026,10 +2141,15 @@
           "id": "32-1",
           "name": "宍道湖",
           "category": "自然・風景",
-          "description": "宍道湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "宍道湖は島根県東部にある汽水湖で、海水と淡水が混じり合います。しじみなどの生き物や、湖と海をつなぐ水の流れを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "32-2",
@@ -2084,10 +2204,15 @@
           "id": "33-1",
           "name": "瀬戸内海の島々",
           "category": "自然・風景",
-          "description": "瀬戸内海の島々などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "瀬戸内海には多くの島々が点在し、波の穏やかな海域が広がります。島と島を結ぶ交通や、海を生かした産業について考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "33-2",
@@ -2142,10 +2267,15 @@
           "id": "34-1",
           "name": "宮島・弥山",
           "category": "自然・風景",
-          "description": "宮島・弥山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "宮島の弥山は広島県廿日市市の宮島にある山です。山頂からの眺めや原生林など、島の自然と信仰のつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "34-2",
@@ -2200,10 +2330,15 @@
           "id": "35-1",
           "name": "角島大橋",
           "category": "自然・風景",
-          "description": "角島大橋などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "角島大橋は山口県下関市の海に架かる橋で、周囲の青い海と橋の景観で知られます。島と本州を結ぶ交通の役割を考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "35-2",
@@ -2258,10 +2393,15 @@
           "id": "36-1",
           "name": "鳴門の渦潮",
           "category": "自然・風景",
-          "description": "鳴門の渦潮などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "鳴門の渦潮は、徳島県と兵庫県の間の鳴門海峡で見られる大きな渦です。潮の満ち引きや海峡の地形が、速い潮流を生むしくみを調べましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "36-2",
@@ -2316,10 +2456,15 @@
           "id": "37-1",
           "name": "父母ヶ浜",
           "category": "自然・風景",
-          "description": "父母ヶ浜などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "父母ヶ浜は香川県三豊市にある海岸で、干潮時に水面が鏡のように見えることがあります。潮の満ち引きや風の弱さが景色にどう関係するか考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "37-2",
@@ -2374,10 +2519,15 @@
           "id": "38-1",
           "name": "しまなみ海道",
           "category": "自然・風景",
-          "description": "しまなみ海道などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "しまなみ海道は、愛媛県と広島県を島々や橋で結ぶルートです。瀬戸内海の島の地形や、橋が人々の移動に果たす役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "38-2",
@@ -2432,10 +2582,15 @@
           "id": "39-1",
           "name": "四万十川",
           "category": "自然・風景",
-          "description": "四万十川などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "四万十川は高知県を流れる川で、自然の姿が多く残ることで知られます。川の流れや沈下橋、川とともに暮らす人々の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "39-2",
@@ -2490,10 +2645,15 @@
           "id": "40-1",
           "name": "糸島の海岸",
           "category": "自然・風景",
-          "description": "糸島の海岸などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "糸島の海岸は福岡県北西部にあり、海と岩、砂浜がつくる景色が広がります。玄界灘に面した海岸の特徴や、漁業・観光との関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "40-2",
@@ -2548,10 +2708,15 @@
           "id": "41-1",
           "name": "虹の松原",
           "category": "自然・風景",
-          "description": "虹の松原などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "虹の松原は佐賀県唐津市の海岸に広がる松林です。砂浜を守る松林の役割や、長く保全されてきた歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "41-2",
@@ -2606,10 +2771,15 @@
           "id": "42-1",
           "name": "九十九島",
           "category": "自然・風景",
-          "description": "九十九島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "九十九島は長崎県佐世保市周辺の海に島々が連なる景勝地です。複雑な海岸線や島の多さが、海の生き物や漁業にどう関わるか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "42-2",
@@ -2664,10 +2834,15 @@
           "id": "43-1",
           "name": "阿蘇山",
           "category": "自然・風景",
-          "description": "阿蘇山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "阿蘇山は熊本県にある火山で、世界有数の規模のカルデラ地形で知られます。火山活動がつくった地形と、草原を利用する人々の暮らしを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "43-2",
@@ -2722,10 +2897,15 @@
           "id": "44-1",
           "name": "由布岳",
           "category": "自然・風景",
-          "description": "由布岳などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "由布岳は大分県由布市にそびえる火山です。山の形や周辺の温泉など、火山活動と地域の自然・観光の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "44-2",
@@ -2780,10 +2960,15 @@
           "id": "45-1",
           "name": "高千穂峡",
           "category": "自然・風景",
-          "description": "高千穂峡などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "高千穂峡は宮崎県北部にある峡谷で、柱状節理の岩壁と川の景色が特徴です。火山活動と川の浸食がつくった地形を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "45-2",
@@ -2838,10 +3023,15 @@
           "id": "46-1",
           "name": "桜島",
           "category": "自然・風景",
-          "description": "桜島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "桜島は鹿児島湾にある活火山で、今も噴煙を上げることがあります。火山灰への備えや、火山とともに暮らす人々の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "46-2",
@@ -2896,10 +3086,15 @@
           "id": "47-1",
           "name": "慶良間諸島",
           "category": "自然・風景",
-          "description": "慶良間諸島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "description": "慶良間諸島は沖縄県の島々で、透明度の高い海やサンゴ礁で知られます。サンゴ礁の生態系や、海の環境を守る取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "環境省「国立公園に、行ってみよう！」",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/",
+            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+          }
         },
         {
           "id": "47-2",
