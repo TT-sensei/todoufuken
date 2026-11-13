@@ -1,4 +1,4 @@
-const DATA_URL="./data/kanto-gallery.json";
+const DATA_URL="./data/prefecture-gallery.json";
 const $=(s,r=document)=>r.querySelector(s);
 let data,activeCode="08",searchText="";
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
