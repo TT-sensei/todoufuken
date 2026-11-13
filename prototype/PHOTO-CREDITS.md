@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：139点 / 全国235項目
+- 写真候補：142点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 35点、名所・建物 37点、食べ物・特産 24点、文化・まつり 25点、産業・工芸 18点
-- ライセンス別：CC BY-SA 4.0 36点、CC BY 2.0 10点、CC BY 4.0 8点、CC BY-SA 3.0 42点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 8点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
-- 写真未選定：96項目
+- カテゴリ別：自然・風景 36点、名所・建物 39点、食べ物・特産 24点、文化・まつり 25点、産業・工芸 18点
+- ライセンス別：CC BY-SA 4.0 37点、CC BY 2.0 10点、CC BY 4.0 8点、CC BY-SA 3.0 43点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
+- 写真未選定：93項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -124,6 +124,7 @@
 | 島根県 | 石見神楽 | [IwamiKagura-ShioHarai.png](https://commons.wikimedia.org/wiki/File:IwamiKagura-ShioHarai.png) | Pattio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岡山県 | 岡山城 | [Okayama Castle (Japan).jpg](https://commons.wikimedia.org/wiki/File:Okayama_Castle_(Japan).jpg) | Lynn0927 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岡山県 | 備前焼 | [Jar, Bizen ware, Muromachi period, 1500s AD, ceramic - Hakone Museum of Art - Hakone, Kanagawa, Japan - DSC08183.jpg](https://commons.wikimedia.org/wiki/File:Jar%2C_Bizen_ware%2C_Muromachi_period%2C_1500s_AD%2C_ceramic_-_Hakone_Museum_of_Art_-_Hakone%2C_Kanagawa%2C_Japan_-_DSC08183.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
+| 広島県 | 宮島・弥山 | [Panorama of the floating torii gate at Itsukushima Shrine.jpg](https://commons.wikimedia.org/wiki/File:Panorama_of_the_floating_torii_gate_at_Itsukushima_Shrine.jpg) | Fattony12000 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | 原爆ドーム | [Hiroshima Peace Memorial (Genbaku Dome), Japan.jpg](https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_(Genbaku_Dome)%2C_Japan.jpg) | Uhooep | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | お好み焼き | [Okonomiyaki of Hiroshima.jpg](https://commons.wikimedia.org/wiki/File:Okonomiyaki_of_Hiroshima.jpg) | ノボホショコロトソ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 山口県 | 角島大橋 | [Tsunoshima bridge 1.JPG](https://commons.wikimedia.org/wiki/File:Tsunoshima_bridge_1.JPG) | Nissy-KITAQ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
@@ -149,7 +150,9 @@
 | 宮崎県 | 高千穂峡 | [Takachiho-gorge.jpg](https://commons.wikimedia.org/wiki/File:Takachiho-gorge.jpg) | Takasunrise0921 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮崎県 | チキン南蛮 | [Chicken nanban Original Nobeoka Japan.jpg](https://commons.wikimedia.org/wiki/File:Chicken_nanban_Original_Nobeoka_Japan.jpg) | Sanjo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 鹿児島県 | 桜島 | [Sakurajima from kagoshima.jpg](https://commons.wikimedia.org/wiki/File:Sakurajima_from_kagoshima.jpg) | Douglas Perkins | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 鹿児島県 | 屋久島 | [Shiratani Unsui Gorge 17.jpg](https://commons.wikimedia.org/wiki/File:Shiratani_Unsui_Gorge_17.jpg) | Σ64 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 沖縄県 | 慶良間諸島 | [Kerama Island.jpg](https://commons.wikimedia.org/wiki/File:Kerama_Island.jpg) | SteFou! | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
+| 沖縄県 | 首里城 | [Naha Shuri Castle51s3s4200.jpg](https://commons.wikimedia.org/wiki/File:Naha_Shuri_Castle51s3s4200.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 沖縄県 | 沖縄そば | [Okinawa soba noodle (42195524970).jpg](https://commons.wikimedia.org/wiki/File:Okinawa_soba_noodle_(42195524970).jpg) | pelican（東京） | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 沖縄県 | エイサー | [Eisa, a traditional Okinawan dance.jpg](https://commons.wikimedia.org/wiki/File:Eisa%2C_a_traditional_Okinawan_dance.jpg) | xiquinhosilva | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 沖縄県 | 琉球びんがた | [Bingata.jpg](https://commons.wikimedia.org/wiki/File:Bingata.jpg) | Bruno Cordioli（Bingata a Milano） | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
