@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：129点 / 全国235項目
+- 写真候補：131点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 21点、文化・まつり 22点、産業・工芸 17点
-- ライセンス別：CC BY-SA 4.0 34点、CC BY 2.0 9点、CC BY 4.0 8点、CC BY-SA 3.0 39点、パブリックドメイン（作者による公開） 13点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
-- 写真未選定：106項目
+- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 21点、文化・まつり 24点、産業・工芸 17点
+- ライセンス別：CC BY-SA 4.0 35点、CC BY 2.0 9点、CC BY 4.0 8点、CC BY-SA 3.0 40点、パブリックドメイン（作者による公開） 13点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
+- 写真未選定：104項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -52,6 +52,7 @@
 | 岩手県 | 浄土ヶ浜 | [Jyoudogahama.jpg](https://commons.wikimedia.org/wiki/File:Jyoudogahama.jpg) | Junpei Satoh | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 岩手県 | 中尊寺 | [Landscape - Chusonji, Hiraizumi, Iwate - DSC05033.jpg](https://commons.wikimedia.org/wiki/File:Landscape_-_Chusonji,_Hiraizumi,_Iwate_-_DSC05033.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 岩手県 | わんこそば | [Wanko soba at Azumaya.jpg](https://commons.wikimedia.org/wiki/File:Wanko_soba_at_Azumaya.jpg) | ta@keshi kimi | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
+| 岩手県 | チャグチャグ馬コ | [Chagu-chagu Umakko parade in front of Morioka Station 2023a.jpg](https://commons.wikimedia.org/wiki/File:Chagu-chagu_Umakko_parade_in_front_of_Morioka_Station_2023a.jpg) | 掬茶 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岩手県 | 南部鉄器 | [Nambu Tetsubin.jpg](https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg) | Misakubo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮城県 | 松島 | [Matsushima (Matsushima Bay).jpg](https://commons.wikimedia.org/wiki/File:Matsushima_(Matsushima_Bay).jpg) | Cheng-en Cheng | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 宮城県 | 仙台城跡 | [Tsume-mon gate of Sendai Castle.jpg](https://commons.wikimedia.org/wiki/File:Tsume-mon_gate_of_Sendai_Castle.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -70,6 +71,7 @@
 | 山形県 | 将棋駒 | [Giant Shogi Piece in Tendo.jpg](https://commons.wikimedia.org/wiki/File:Giant_Shogi_Piece_in_Tendo.jpg) | Gorilla Jones | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福島県 | 磐梯山 | [Mt.Bandai.jpg](https://commons.wikimedia.org/wiki/File:Mt.Bandai.jpg) | EXECUTOR | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 福島県 | 鶴ヶ城 | [AizuWakamatsuTsurugaCastle.jpg](https://commons.wikimedia.org/wiki/File:AizuWakamatsuTsurugaCastle.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 福島県 | 相馬野馬追 | [The Soma Nomaoi 2005-6.jpg](https://commons.wikimedia.org/wiki/File:The_Soma_Nomaoi_2005-6.jpg) | PekePON | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 新潟県 | 佐渡島 | [SadoGaShima.jpg](https://commons.wikimedia.org/wiki/File:SadoGaShima.jpg) | BehBeh at Japanese Wikipedia | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 新潟県 | 清津峡 | [Kiyotsu Gorge 2020-08-09 (1) sa.jpg](https://commons.wikimedia.org/wiki/File:Kiyotsu_Gorge_2020-08-09_(1)_sa.jpg) | Araisyohei | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 新潟県 | 長岡まつり大花火大会 | [Find47 Niigata-The Nagaoka Fireworks Festival-m.jpg](https://commons.wikimedia.org/wiki/File:Find47_Niigata-The_Nagaoka_Fireworks_Festival-m.jpg) | Koichi_Hayakawa | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
