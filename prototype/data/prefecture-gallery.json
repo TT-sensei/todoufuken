@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2265,14 +2265,24 @@
           "category": "自然・風景",
           "description": "上高地は長野県の山あいに広がる景勝地で、梓川や穂高連峰の眺めで知られます。山や川がつくる地形と自然環境を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Kamikochi from Mount Yake 2002-08-06.jpg",
+            "author": "Alpsdake",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kamikochi_from_Mount_Yake_2002-08-06.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons個別原ページで対象物・作者・ライセンスを確認済み",
+            "description": "焼岳から望む長野県の上高地"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamikochi%20from%20Mount%20Yake%202002-08-06.jpg"
         },
         {
           "id": "20-2",
@@ -3012,14 +3022,24 @@
           "category": "自然・風景",
           "description": "箕面の滝は大阪府箕面市の山あいにある滝です。周囲の森林や川の流れに注目し、都市の近くに残る自然環境について考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Minoh falls.JPG",
+            "author": "Hiroyuki0904",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Minoh_falls.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons個別原ページで対象物・作者・ライセンスを確認済み",
+            "description": "大阪府箕面市の箕面滝"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minoh%20falls.JPG"
         },
         {
           "id": "27-2",
@@ -3208,14 +3228,24 @@
           "category": "自然・風景",
           "description": "吉野山は奈良県にある山地で、春には山をおおう桜で知られます。桜が植えられてきた歴史や、山の自然と信仰の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg",
+            "author": "Luka Peternel",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons個別原ページで対象物・作者・ライセンスを確認済み",
+            "description": "奈良県吉野山の桜と山並み"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg"
         },
         {
           "id": "29-2",
