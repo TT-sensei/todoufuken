@@ -17,7 +17,7 @@
 - 23項目の説明文を追加改稿し、地域の自然・歴史・産業の具体的な説明を補強
 - 検索範囲を全国47都道府県に拡張し、県別に検索結果をまとめて表示
 - 写真の読み込みに失敗した場合の代替表示
-- Wikimedia Commonsの原ページで作者・ライセンス情報を確認した写真候補を91点登録（47都道府県すべてに1点以上）。写真未選定は144項目
+- Wikimedia Commonsの原ページで対象物・作者・ライセンス情報を確認した写真候補を96点登録（47都道府県すべてに1点以上）。写真未選定は139項目
 - 図鑑の閲覧はMASTER条件に影響しない
 
 ## 全国データの進捗
@@ -34,16 +34,23 @@
 - 参考資料リンクには、そのページで確認できる内容を短く添えている
 
 ## 写真の進捗
-- 写真候補：91点 / 全国235項目
+- 写真候補：96点 / 全国235項目
 - 写真候補がある都道府県：47/47（全都道府県に1点以上）
-- カテゴリ別：自然・風景 28点、産業・工芸 12点、名所・建物 27点、文化・まつり 11点、食べ物・特産 13点
-- ライセンス別：CC BY-SA 4.0 22点、CC BY 4.0 3点、CC BY-SA 3.0 32点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 6点、CC0 1.0 5点、CC BY 3.0 6点、CC BY-SA 2.0 5点
-- 写真未選定：144項目
-- 画像はWikimedia CommonsのSpecial:FilePathを参照する確認用表示。ローカルWebP化・オフライン対応は未実施
+- カテゴリ別：自然・風景 28点、産業・工芸 13点、名所・建物 29点、文化・まつり 13点、食べ物・特産 13点
+- ライセンス別：CC BY-SA 4.0 22点、CC BY 2.0 7点、CC BY 4.0 4点、CC BY-SA 3.0 33点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC0 1.0 6点、CC BY-SA 2.0 5点nsのSpecial:FilePathを参照する確認用表示。ローカルWebP化・オフライン対応は未実施
 - 写真メタデータにはファイル名、作者、ライセンス、ライセンスURL、原ページ、加工状態、確認状態を登録
 - すべての写真について、公開前に対象物との一致・作者表記・ライセンス条件・原ページを再確認すること
 
 写真の出典・作者・ライセンスは `data/prefecture-gallery.json` と `PHOTO-CREDITS.md` に項目単位で保持しています。画像をローカル配置する際は、元ファイルを保存し、リサイズ・変換などの加工内容を `changes` に記録します。CC BY-SA画像の改変物は同一または互換ライセンスで提供する必要があります。
+
+## 今回追加した写真候補
+| 都道府県 | 項目 | ファイル | 作者 | ライセンス |
+|---|---|---|---|---|
+| 茨城県 | 偕楽園 | [Kairakuen Mito.jpg](https://commons.wikimedia.org/wiki/File:Kairakuen_Mito.jpg) | Lukas from Munich, Germany | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| 北海道 | 函館山 | [Aerial view of Hakodate at night.jpg](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Hakodate_at_night.jpg) | Fumikas Sagisavas | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| 群馬県 | 高崎だるま | [Small collection of Daruma dolls - Takasaki - August 2014.jpg](https://commons.wikimedia.org/wiki/File:Small_collection_of_Daruma_dolls_-_Takasaki_-_August_2014.jpg) | nesnad | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| 千葉県 | 佐原の大祭 | [Sawara festival in Autumn,Katori-city,Japan.jpg](https://commons.wikimedia.org/wiki/File:Sawara_festival_in_Autumn,Katori-city,Japan.jpg) | katorisi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
+| 栃木県 | 益子焼 | [MashikoDaiseiGama202410.jpg](https://commons.wikimedia.org/wiki/File:MashikoDaiseiGama202410.jpg) | FukuroWaraw | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 ## 関東の写真候補（原ページで確認済み）
 | 都県 | 写真 | 作者 | ライセンス |
