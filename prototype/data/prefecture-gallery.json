@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -905,14 +905,24 @@
           "category": "文化・まつり",
           "description": "青森ねぶた祭は、色鮮やかな大型のねぶたが町を練り歩く夏祭りです。ねぶたの題材や掛け声、地域の人々が祭りを支える様子を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Aomori Nebuta Festival.jpg",
+            "author": "Diego Molla",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Aomori_Nebuta_Festival.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "青森県青森市の青森ねぶた祭の大型ねぶた"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "弘前のねぷた",
             "url": "https://www.pref.aomori.lg.jp/soshiki/kyoiku/e-bunka/minzoku_mukei_03.html",
             "note": "県指定・重要無形民俗文化財の解説"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aomori%20Nebuta%20Festival.jpg"
         },
         {
           "id": "02-5",
@@ -3476,14 +3486,24 @@
           "category": "文化・まつり",
           "description": "阿波おどりは、徳島県を代表する盆踊りです。「踊る阿呆に見る阿呆」の掛け声や、連ごとの踊りの違い、地域に広まった歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Awa-odori in Tokushima City.jpg",
+            "author": "Kounosu",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Awa-odori_in_Tokushima_City.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "徳島県徳島市の阿波おどり"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Awa-odori%20in%20Tokushima%20City.jpg"
         },
         {
           "id": "36-5",
@@ -3848,14 +3868,24 @@
           "category": "文化・まつり",
           "description": "博多祇園山笠は、福岡市の櫛田神社に奉納される祭りです。舁き山を担いで町を駆け抜ける行事や、博多の町に受け継がれる伝統を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hakata-gion-yamakasa-oiyama.jpg",
+            "author": "ちょちょじ",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hakata-gion-yamakasa-oiyama.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "福岡県福岡市の博多祇園山笠「追い山」"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hakata-gion-yamakasa-oiyama.jpg"
         },
         {
           "id": "40-5",
@@ -4524,14 +4554,24 @@
           "category": "産業・工芸",
           "description": "琉球びんがたは沖縄県に伝わる染色技法です。型紙や顔料を使って鮮やかな模様を染める方法や、琉球王国の衣装文化との関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Bingata.jpg",
+            "author": "Bruno Cordioli（Bingata a Milano）",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Bingata.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "沖縄の伝統的な染色技法・琉球紅型の染め布"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bingata.jpg"
         }
       ]
     }
