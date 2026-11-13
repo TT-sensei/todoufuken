@@ -2,8 +2,9 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した確認用台帳です。表示する際は、各カードの作者・ライセンス・原ページ・加工状態も確認してください。
 
-- 写真候補：45点 / 全国235項目
-- ライセンス別：CC BY-SA 4.0 12点、CC BY 4.0 1点、CC BY-SA 3.0 15点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 9点、CC BY 2.0 2点、CC0 1.0 2点、CC BY 3.0 1点、CC BY-SA 2.0 1点
+- 写真候補：51点 / 全国235項目
+- 写真候補がある都道府県：38/47
+- ライセンス別：CC BY-SA 4.0 13点、CC BY 4.0 1点、CC BY-SA 3.0 18点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 2点、CC0 1.0 2点、CC BY 3.0 2点、CC BY-SA 2.0 1点
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。画像を取得できる環境で、元ファイル・作者・ライセンスを再確認してから実施する
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用する
@@ -41,17 +42,23 @@
 | 石川県 | 兼六園 | [Kenrokuen garden 1.jpg](https://commons.wikimedia.org/wiki/File:Kenrokuen_garden_1.jpg) | Motokoka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 長野県 | 松本城 | [Matsumoto castle in nagano.jpg](https://commons.wikimedia.org/wiki/File:Matsumoto_castle_in_nagano.jpg) | Oooooko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岐阜県 | 白川郷 | [Ogi Shirakawa-gō, Gifu, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 静岡県 | 三保松原 | [Miho no Matsubara 01.jpg](https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_01.jpg) | Σ64 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 愛知県 | 名古屋城 | [Nagoya Castle2026.jpg](https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg) | 加茂川の民 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 三重県 | 伊勢神宮 | [IseShrine.jpg](https://commons.wikimedia.org/wiki/File:IseShrine.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 京都府 | 清水寺 | [Kiyomizu dera, Kyoto.JPG](https://commons.wikimedia.org/wiki/File:Kiyomizu_dera%2C_Kyoto.JPG) | 螺钉 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大阪府 | 大阪城 | [OSAKA CASTLE.jpg](https://commons.wikimedia.org/wiki/File:OSAKA_CASTLE.jpg) | Tokumeigakarinoaoshima | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 兵庫県 | 姫路城 | [Himeji castle hyogo jpn.jpg](https://commons.wikimedia.org/wiki/File:Himeji_castle_hyogo_jpn.jpg) | Goony663 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 奈良県 | 東大寺 | [Tōdai-ji Temple in Nara, Japan.jpg](https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Temple_in_Nara%2C_Japan.jpg) | Didier Moïse | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 鳥取県 | 鳥取砂丘 | [Tottori Sand Dune.jpg](https://commons.wikimedia.org/wiki/File:Tottori_Sand_Dune.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 岡山県 | 岡山城 | [Okayama Castle (Japan).jpg](https://commons.wikimedia.org/wiki/File:Okayama_Castle_(Japan).jpg) | Lynn0927 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | 原爆ドーム | [Hiroshima Peace Memorial (Genbaku Dome), Japan.jpg](https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_(Genbaku_Dome)%2C_Japan.jpg) | Uhooep | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 山口県 | 角島大橋 | [Tsunoshima bridge 1.JPG](https://commons.wikimedia.org/wiki/File:Tsunoshima_bridge_1.JPG) | Nissy-KITAQ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 徳島県 | 鳴門の渦潮 | [Observing Naruto whirlpools.jpg](https://commons.wikimedia.org/wiki/File:Observing_Naruto_whirlpools.jpg) | Pauloleong2002 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 香川県 | 栗林公園 | [Ritsurin Garden.jpg](https://commons.wikimedia.org/wiki/File:Ritsurin_Garden.jpg) | Mason tang photography | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 愛媛県 | 道後温泉 | [Dogo onsen.JPG](https://commons.wikimedia.org/wiki/File:Dogo_onsen.JPG) | Tordu01 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 高知県 | 四万十川 | [Nishitosa Shimanto river.jpg](https://commons.wikimedia.org/wiki/File:Nishitosa_Shimanto_river.jpg) | Cherrysherbet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 福岡県 | 太宰府天満宮 | [DazaifuTenmangu.jpg](https://commons.wikimedia.org/wiki/File:DazaifuTenmangu.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 佐賀県 | 吉野ヶ里遺跡 | [Yoshinogari.jpg](https://commons.wikimedia.org/wiki/File:Yoshinogari.jpg) | STA3816 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮崎県 | 高千穂峡 | [Takachiho-gorge.jpg](https://commons.wikimedia.org/wiki/File:Takachiho-gorge.jpg) | Takasunrise0921 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 鹿児島県 | 桜島 | [Sakurajima from kagoshima.jpg](https://commons.wikimedia.org/wiki/File:Sakurajima_from_kagoshima.jpg) | Douglas Perkins | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
@@ -59,7 +66,7 @@
 
 ## 確認上の注意
 
-- Commonsのライセンス表示は各ファイルページの記載を基準にしています。Commons自身も、再利用者がファイルごとの権利状態を確認するよう案内しています。
+- Commonsのライセンス表示は各ファイルページの記載を基準にしています。Commonsは、再利用者自身がファイルごとの権利状態を確認するよう案内しています。
 - 写真に写る美術作品・彫刻・人物などには、写真そのものの著作権とは別の権利が関係する場合があります。
 - 画像をリサイズ・WebP変換・トリミングした場合は、`changes` と本台帳を更新してください。
 - 現段階では原画像のまま外部参照しており、ローカル保存やオフライン表示には対応していません。
