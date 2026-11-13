@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1254,14 +1254,24 @@
           "category": "文化・まつり",
           "description": "なまはげは、秋田県男鹿地方に伝わる行事で、仮面を着けた人が家々を訪れます。地域で受け継がれてきた意味や、年中行事としての役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Namahage comes up now.jpg",
+            "author": "掬茶",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Namahage_comes_up_now.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "秋田県男鹿市のなまはげ柴灯まつり"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Namahage%20comes%20up%20now.jpg"
         },
         {
           "id": "05-5",
@@ -1646,14 +1656,24 @@
           "category": "文化・まつり",
           "description": "おわら風の盆は、富山県富山市八尾地域で行われる伝統行事です。編み笠をかぶった踊り手や三味線・胡弓の音色など、踊りと音楽の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kazenobon02.jpg",
+            "author": "Jinzuu",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kazenobon02.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "富山県富山市八尾町のおわら風の盆で踊る人々"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazenobon02.jpg"
         },
         {
           "id": "16-5",
@@ -3835,14 +3855,24 @@
           "category": "文化・まつり",
           "description": "よさこい祭りは、高知市で開かれる踊りの祭りです。鳴子を手に、チームごとに工夫した衣装や音楽で踊る特徴と、全国に広がった理由を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Yosakoi Festival in Kochi Japan 2010.jpg",
+            "author": "Kounosu",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yosakoi_Festival_in_Kochi_Japan_2010.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "高知県高知市のよさこい祭り前夜祭"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yosakoi%20Festival%20in%20Kochi%20Japan%202010.jpg"
         },
         {
           "id": "39-5",
@@ -4144,14 +4174,24 @@
           "category": "文化・まつり",
           "description": "長崎くんちは、長崎市の諏訪神社の祭礼です。龍踊りや異国文化の影響を受けた演し物などから、海外との交流が長崎の文化に与えた影響を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Nagasaki Kunchi.jpg",
+            "author": "Marufish",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nagasaki_Kunchi.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "長崎県長崎市の長崎くんち"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagasaki%20Kunchi.jpg"
         },
         {
           "id": "42-5",
@@ -4629,14 +4669,24 @@
           "category": "文化・まつり",
           "description": "エイサーは、沖縄県で旧盆の時期などに踊られる伝統芸能です。太鼓や歌に合わせた踊りや、地域ごとの型の違い、祖先を供養する意味を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Eisa, a traditional Okinawan dance.jpg",
+            "author": "xiquinhosilva",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Eisa%2C_a_traditional_Okinawan_dance.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "沖縄県の伝統芸能・エイサー"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eisa%2C%20a%20traditional%20Okinawan%20dance.jpg"
         },
         {
           "id": "47-5",
