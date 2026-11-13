@@ -630,14 +630,14 @@
           "id": "01-5",
           "name": "アイヌ文化",
           "category": "産業・工芸",
-          "description": "アイヌ文化は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "アイヌ文化には、木や樹皮、動物の皮など自然の素材を生かした道具や衣服、文様があります。素材の選び方や模様に込められた意味を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "ウポポイ（民族共生象徴空間）",
-            "url": "https://ainu-upopoy.go.jp/",
-            "note": "アイヌの歴史・文化を学ぶ国立施設の公式情報"
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           }
         }
       ]
@@ -708,14 +708,14 @@
           "id": "02-5",
           "name": "津軽塗",
           "category": "産業・工芸",
-          "description": "津軽塗は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "津軽塗は青森県津軽地方に伝わる漆器です。漆を何度も塗り重ね、研ぎ出して模様を表す技法や、完成までの手間を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "青森県の伝統工芸品（津軽塗）",
-            "url": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarunuri.html",
-            "note": "津軽塗の歴史・技法・製造工程"
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           }
         }
       ]
@@ -786,10 +786,15 @@
           "id": "03-5",
           "name": "南部鉄器",
           "category": "産業・工芸",
-          "description": "南部鉄器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "南部鉄器は岩手県の盛岡市や奥州市などで作られる鉄器です。鉄を溶かして型に流し込む鋳造の技術や、鉄瓶の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -859,14 +864,14 @@
           "id": "04-5",
           "name": "こけし",
           "category": "産業・工芸",
-          "description": "こけしは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "宮城県のこけしは、木を削って作る郷土玩具です。地域ごとに形や顔、模様が異なる理由や、木地師の技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "宮城の伝統的工芸品／宮城伝統こけし",
-            "url": "https://www.pref.miyagi.jp/soshiki/shinsan/01kokesi.html",
-            "note": "宮城県内のこけし5系統を紹介"
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           }
         }
       ]
@@ -937,14 +942,14 @@
           "id": "05-5",
           "name": "川連漆器",
           "category": "産業・工芸",
-          "description": "川連漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "川連漆器は秋田県湯沢市で作られる漆器です。木地づくりから漆塗りまでの工程や、日常で使う器として受け継がれてきた工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "湯沢市公式 川連漆器",
-            "url": "https://www.city-yuzawa.jp/site/yuzawatrip/1949.html",
-            "note": "約800年の歴史や技法を紹介"
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           }
         }
       ]
@@ -1015,14 +1020,14 @@
           "id": "06-5",
           "name": "将棋駒",
           "category": "産業・工芸",
-          "description": "将棋駒は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "天童の将棋駒は山形県天童市の特産品です。木を使った駒づくりや、文字を彫る技術、将棋の駒づくりが地域に広がった歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "天童市公式 天童と将棋駒",
-            "url": "https://www.city.tendo.yamagata.jp/tourism/shogi/syougikoma.html",
-            "note": "将棋駒の材料・製造工程・産地について"
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           }
         }
       ]
@@ -1093,10 +1098,15 @@
           "id": "07-5",
           "name": "会津漆器",
           "category": "産業・工芸",
-          "description": "会津漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "会津漆器は福島県会津地方で作られる漆器です。漆を塗り重ねる技法や蒔絵などの装飾、丈夫で使いやすい器づくりの工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1166,10 +1176,15 @@
           "id": "15-5",
           "name": "小千谷縮",
           "category": "産業・工芸",
-          "description": "小千谷縮は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "小千谷縮は新潟県小千谷市周辺で作られる麻織物です。雪国の湿度を生かした工程や、独特のしぼが生まれる技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1239,10 +1254,15 @@
           "id": "16-5",
           "name": "高岡銅器",
           "category": "産業・工芸",
-          "description": "高岡銅器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "高岡銅器は富山県高岡市を中心に作られる金属工芸品です。鋳造や着色などの技術を使い、仏具や花器、美術品などが作られています。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1312,10 +1332,15 @@
           "id": "17-5",
           "name": "輪島塗",
           "category": "産業・工芸",
-          "description": "輪島塗は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "輪島塗は石川県輪島市で作られる漆器です。木地づくりや下地塗りを丁寧に重ねる工程、丈夫さを生む技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1385,10 +1410,15 @@
           "id": "18-5",
           "name": "越前和紙",
           "category": "産業・工芸",
-          "description": "越前和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "越前和紙は福井県越前市などで作られる和紙です。植物の繊維を使った紙すきの工程や、長く受け継がれてきた産地の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1458,10 +1488,15 @@
           "id": "19-5",
           "name": "甲州印伝",
           "category": "産業・工芸",
-          "description": "甲州印伝は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "甲州印伝は山梨県に伝わる革工芸です。鹿革に漆で模様を付ける技法や、模様の種類、袋物や小物として使われてきた歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1531,10 +1566,15 @@
           "id": "20-5",
           "name": "木曽漆器",
           "category": "産業・工芸",
-          "description": "木曽漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "木曽漆器は長野県木曽地域で作られる漆器です。木曽の木材を生かした木地づくりや、漆を塗り重ねる技法を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1604,10 +1644,15 @@
           "id": "21-5",
           "name": "美濃和紙",
           "category": "産業・工芸",
-          "description": "美濃和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "美濃和紙は岐阜県美濃市周辺で作られる和紙です。良質な水や原料を生かした紙すきの技術、薄くて丈夫な紙の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1677,10 +1722,15 @@
           "id": "22-5",
           "name": "駿河竹千筋細工",
           "category": "産業・工芸",
-          "description": "駿河竹千筋細工は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "駿河竹千筋細工は静岡県で作られる竹工芸です。細い竹ひごを曲げて組み合わせ、かごや虫かごなどの繊細な形を作る技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1750,10 +1800,15 @@
           "id": "23-5",
           "name": "瀬戸焼",
           "category": "産業・工芸",
-          "description": "瀬戸焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "瀬戸焼は愛知県瀬戸市を中心に作られる陶磁器です。良質な粘土や釉薬を生かした器づくりと、長い歴史をもつ窯業の町の様子を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1823,10 +1878,15 @@
           "id": "24-5",
           "name": "伊賀くみひも",
           "category": "産業・工芸",
-          "description": "伊賀くみひもは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "伊賀くみひもは三重県伊賀地域に伝わる組紐です。絹糸などを組み合わせて帯締めなどを作る技術や、色・模様の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1896,10 +1956,15 @@
           "id": "25-5",
           "name": "信楽焼",
           "category": "産業・工芸",
-          "description": "信楽焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "信楽焼は滋賀県甲賀市信楽町で作られる陶器です。土の風合いや火色、たぬきの置物など、焼き上がりの特徴と産地の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -1969,10 +2034,15 @@
           "id": "26-5",
           "name": "西陣織",
           "category": "産業・工芸",
-          "description": "西陣織は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "西陣織は京都市の西陣地域で作られる絹織物です。多くの色糸を使って模様を織り出す技術や、分業で支えられるものづくりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2042,10 +2112,15 @@
           "id": "27-5",
           "name": "堺打刃物",
           "category": "産業・工芸",
-          "description": "堺打刃物は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "堺打刃物は大阪府堺市で作られる刃物です。鍛造や刃付けなどの工程、料理人にも使われる包丁の切れ味を支える職人の技を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2115,10 +2190,15 @@
           "id": "28-5",
           "name": "播州織",
           "category": "産業・工芸",
-          "description": "播州織は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "播州織は兵庫県西脇市周辺で作られる先染めの綿織物です。糸を先に染めてから織る方法や、色柄の豊かさを生む技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2188,10 +2268,15 @@
           "id": "29-5",
           "name": "奈良筆",
           "category": "産業・工芸",
-          "description": "奈良筆は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "奈良筆は奈良県で作られる筆です。動物の毛を選び、毛先をそろえて筆に仕上げる工程や、書道・文化との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2261,10 +2346,15 @@
           "id": "30-5",
           "name": "紀州漆器",
           "category": "産業・工芸",
-          "description": "紀州漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "紀州漆器は和歌山県海南市の黒江地区を中心に作られる漆器です。木地づくりや塗りの技法、日常使いの器として広まった歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2334,10 +2424,15 @@
           "id": "31-5",
           "name": "因州和紙",
           "category": "産業・工芸",
-          "description": "因州和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "因州和紙は鳥取県東部で作られる和紙です。和紙の原料や紙すきの工程、書道用紙や工芸品など用途の広がりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2407,10 +2502,15 @@
           "id": "32-5",
           "name": "石州和紙",
           "category": "産業・工芸",
-          "description": "石州和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "石州和紙は島根県西部の石見地方で作られる和紙です。原料や水を生かした紙すきの技術、丈夫で保存性に優れた紙の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2480,10 +2580,15 @@
           "id": "33-5",
           "name": "備前焼",
           "category": "産業・工芸",
-          "description": "備前焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "備前焼は岡山県備前市周辺で作られる陶器です。釉薬を使わず高温で焼く方法や、窯の中で生まれる色・模様の違いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2553,10 +2658,15 @@
           "id": "34-5",
           "name": "熊野筆",
           "category": "産業・工芸",
-          "description": "熊野筆は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "熊野筆は広島県熊野町で作られる筆です。毛の選び方や穂先を整える職人の技術、書道用・化粧用など用途の広がりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2626,10 +2736,15 @@
           "id": "35-5",
           "name": "萩焼",
           "category": "産業・工芸",
-          "description": "萩焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "萩焼は山口県萩市周辺で作られる陶器です。土や釉薬、焼き方によって生まれる柔らかな色合いや、使うほどに変化する器の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2699,10 +2814,15 @@
           "id": "36-5",
           "name": "阿波藍",
           "category": "産業・工芸",
-          "description": "阿波藍は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "阿波藍は徳島県で受け継がれてきた藍染めの文化です。藍を育てて染料を作る工程や、布を何度も染めて色を深める技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2772,10 +2892,15 @@
           "id": "37-5",
           "name": "丸亀うちわ",
           "category": "産業・工芸",
-          "description": "丸亀うちわは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "丸亀うちわは香川県丸亀市で作られるうちわです。竹の骨組みや紙を貼る工程、軽くて丈夫な形を作る職人の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2845,10 +2970,15 @@
           "id": "38-5",
           "name": "砥部焼",
           "category": "産業・工芸",
-          "description": "砥部焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "砥部焼は愛媛県砥部町を中心に作られる磁器です。白い器に藍色などで描かれる模様や、丈夫で日常使いしやすい器づくりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2918,10 +3048,15 @@
           "id": "39-5",
           "name": "土佐和紙",
           "category": "産業・工芸",
-          "description": "土佐和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "土佐和紙は高知県で作られる和紙です。清らかな水や植物の繊維を生かした紙すきの技術、薄くて丈夫な紙の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -2991,10 +3126,15 @@
           "id": "40-5",
           "name": "博多織",
           "category": "産業・工芸",
-          "description": "博多織は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "博多織は福岡県福岡市に伝わる絹織物です。太い経糸を使って織り上げる技法や、帯として使われてきた歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -3064,10 +3204,15 @@
           "id": "41-5",
           "name": "有田焼",
           "category": "産業・工芸",
-          "description": "有田焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "有田焼は佐賀県有田町を中心に作られる磁器です。白い磁器に絵付けをする技術や、海外にも輸出された焼き物の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -3137,10 +3282,15 @@
           "id": "42-5",
           "name": "波佐見焼",
           "category": "産業・工芸",
-          "description": "波佐見焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "波佐見焼は長崎県波佐見町で作られる磁器です。日常使いの食器を多く作ってきた産地の歴史や、成形・絵付けの工程を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -3210,10 +3360,15 @@
           "id": "43-5",
           "name": "小代焼",
           "category": "産業・工芸",
-          "description": "小代焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "小代焼は熊本県北部で作られる陶器です。釉薬が流れて生まれる模様や、窯の中で変化する色合いなど、焼き物の表情を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -3283,10 +3438,15 @@
           "id": "44-5",
           "name": "小鹿田焼",
           "category": "産業・工芸",
-          "description": "小鹿田焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "小鹿田焼は大分県日田市の皿山地区で作られる陶器です。唐臼で土を砕く音や、飛び鉋などの模様を生む技法、地域で守られる共同作業を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -3356,10 +3516,15 @@
           "id": "45-5",
           "name": "都城大弓",
           "category": "産業・工芸",
-          "description": "都城大弓は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "都城大弓は宮崎県都城市周辺で作られる竹弓です。竹や木などの材料を組み合わせる工程や、弓のしなりを生む職人の技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -3429,10 +3594,15 @@
           "id": "46-5",
           "name": "薩摩焼",
           "category": "産業・工芸",
-          "description": "薩摩焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "薩摩焼は鹿児島県で作られる陶器です。白もん・黒もんと呼ばれる種類や、島津氏の時代から続く焼き物の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     },
@@ -3502,10 +3672,15 @@
           "id": "47-5",
           "name": "琉球びんがた",
           "category": "産業・工芸",
-          "description": "琉球びんがたは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "description": "琉球びんがたは沖縄県に伝わる染色技法です。型紙や顔料を使って鮮やかな模様を染める方法や、琉球王国の衣装文化との関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "経済産業省「伝統的工芸品」",
+            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
+            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+          }
         }
       ]
     }
