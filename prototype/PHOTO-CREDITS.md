@@ -2,10 +2,10 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した確認用台帳です。表示する際は、各カードの作者・ライセンス・原ページ・加工状態も確認してください。
 
-- 写真候補：77点 / 全国235項目
+- 写真候補：82点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、名所・建物 26点、食べ物・特産 10点、文化・まつり 6点、産業・工芸 7点
-- ライセンス別：CC BY-SA 4.0 18点、CC BY 4.0 3点、CC BY-SA 3.0 26点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 4点、CC0 1.0 5点、CC BY 3.0 5点、CC BY-SA 2.0 4点
+- カテゴリ別：自然・風景 28点、名所・建物 26点、食べ物・特産 10点、文化・まつり 11点、産業・工芸 7点
+- ライセンス別：CC BY-SA 4.0 19点、CC BY 4.0 3点、CC BY-SA 3.0 28点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 5点、CC0 1.0 5点、CC BY 3.0 5点、CC BY-SA 2.0 5点
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。画像を取得できる環境で、元ファイル・作者・ライセンスを再確認してから実施する
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用する
@@ -42,12 +42,14 @@
 | 宮城県 | 仙台七夕まつり | [The Sendai Tanabata Festival.JPG](https://commons.wikimedia.org/wiki/File:The_Sendai_Tanabata_Festival.JPG) | Haseyu- | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 秋田県 | 田沢湖 | [View of Mt. Akita-Komagatake from Lake Tazawa.jpg](https://commons.wikimedia.org/wiki/File:View_of_Mt._Akita-Komagatake_from_Lake_Tazawa.jpg) | 掬茶 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 秋田県 | 角館の武家屋敷 | [Kakunodate.jpg](https://commons.wikimedia.org/wiki/File:Kakunodate.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 秋田県 | なまはげ | [Namahage comes up now.jpg](https://commons.wikimedia.org/wiki/File:Namahage_comes_up_now.jpg) | 掬茶 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 山形県 | 山寺 | [View of Yamadera.jpg](https://commons.wikimedia.org/wiki/File:View_of_Yamadera.jpg) | Japanexperterna.se | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山形県 | さくらんぼ | [YamagataCherries.jpg](https://commons.wikimedia.org/wiki/File:YamagataCherries.jpg) | Rei | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 福島県 | 磐梯山 | [Mt.Bandai.jpg](https://commons.wikimedia.org/wiki/File:Mt.Bandai.jpg) | EXECUTOR | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 福島県 | 鶴ヶ城 | [AizuWakamatsuTsurugaCastle.jpg](https://commons.wikimedia.org/wiki/File:AizuWakamatsuTsurugaCastle.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 新潟県 | 佐渡島 | [SadoGaShima.jpg](https://commons.wikimedia.org/wiki/File:SadoGaShima.jpg) | BehBeh at Japanese Wikipedia | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 富山県 | 立山連峰 | [Tateyama Mountains viewed from Toyama City 20190416124122.jpg](https://commons.wikimedia.org/wiki/File:Tateyama_Mountains_viewed_from_Toyama_City_20190416124122.jpg) | shiro524 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 富山県 | おわら風の盆 | [Kazenobon02.jpg](https://commons.wikimedia.org/wiki/File:Kazenobon02.jpg) | Jinzuu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 石川県 | 兼六園 | [Kenrokuen garden 1.jpg](https://commons.wikimedia.org/wiki/File:Kenrokuen_garden_1.jpg) | Motokoka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福井県 | 東尋坊 | [081101 Tojinbo Sakai Fukui pref Japan02bs10.jpg](https://commons.wikimedia.org/wiki/File:081101_Tojinbo_Sakai_Fukui_pref_Japan02bs10.jpg) | 663highland | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 山梨県 | 富士山と河口湖 | [Mount Fuji from Lake Kawaguchi (2015-10-26).jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Kawaguchi_(2015-10-26).jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -76,12 +78,14 @@
 | 香川県 | 讃岐うどん | [Japanese Sanuki Udon.jpg](https://commons.wikimedia.org/wiki/File:Japanese_Sanuki_Udon.jpg) | Shene81 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 愛媛県 | 道後温泉 | [Dogo onsen.JPG](https://commons.wikimedia.org/wiki/File:Dogo_onsen.JPG) | Tordu01 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 高知県 | 四万十川 | [Nishitosa Shimanto river.jpg](https://commons.wikimedia.org/wiki/File:Nishitosa_Shimanto_river.jpg) | Cherrysherbet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 高知県 | よさこい祭り | [Yosakoi Festival in Kochi Japan 2010.jpg](https://commons.wikimedia.org/wiki/File:Yosakoi_Festival_in_Kochi_Japan_2010.jpg) | Kounosu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 福岡県 | 太宰府天満宮 | [DazaifuTenmangu.jpg](https://commons.wikimedia.org/wiki/File:DazaifuTenmangu.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 福岡県 | 博多祇園山笠 | [Hakata-gion-yamakasa-oiyama.jpg](https://commons.wikimedia.org/wiki/File:Hakata-gion-yamakasa-oiyama.jpg) | ちょちょじ | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 佐賀県 | 吉野ヶ里遺跡 | [Yoshinogari.jpg](https://commons.wikimedia.org/wiki/File:Yoshinogari.jpg) | STA3816 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 佐賀県 | 有田焼 | [Vase, Arita ware, Japan, c. 1875, porcelain - Peabody Essex Museum - DSC07652.jpg](https://commons.wikimedia.org/wiki/File:Vase%2C_Arita_ware%2C_Japan%2C_c._1875%2C_porcelain_-_Peabody_Essex_Museum_-_DSC07652.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 長崎県 | 九十九島 | [200320 Kujukushima Pearl Sea Resort Sasebo Nagasaki pref Japan10s3.jpg](https://commons.wikimedia.org/wiki/File:200320_Kujukushima_Pearl_Sea_Resort_Sasebo_Nagasaki_pref_Japan10s3.jpg) | 663highland | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 長崎県 | 長崎ちゃんぽん | [Nagasaki champon.JPG](https://commons.wikimedia.org/wiki/File:Nagasaki_champon.JPG) | Midori | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 長崎県 | 長崎くんち | [Nagasaki Kunchi.jpg](https://commons.wikimedia.org/wiki/File:Nagasaki_Kunchi.jpg) | Marufish | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 馬刺し | [Horse-meat.jpg](https://commons.wikimedia.org/wiki/File:Horse-meat.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大分県 | 由布岳 | [Mt. Yufu (Yufuin, Oita, Japan).jpg](https://commons.wikimedia.org/wiki/File:Mt._Yufu_(Yufuin%2C_Oita%2C_Japan).jpg) | Shubert Ciencia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
@@ -89,6 +93,7 @@
 | 鹿児島県 | 桜島 | [Sakurajima from kagoshima.jpg](https://commons.wikimedia.org/wiki/File:Sakurajima_from_kagoshima.jpg) | Douglas Perkins | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 沖縄県 | 慶良間諸島 | [Kerama Island.jpg](https://commons.wikimedia.org/wiki/File:Kerama_Island.jpg) | SteFou! | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 沖縄県 | 沖縄そば | [Okinawa soba noodle (42195524970).jpg](https://commons.wikimedia.org/wiki/File:Okinawa_soba_noodle_(42195524970).jpg) | pelican（東京） | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
+| 沖縄県 | エイサー | [Eisa, a traditional Okinawan dance.jpg](https://commons.wikimedia.org/wiki/File:Eisa%2C_a_traditional_Okinawan_dance.jpg) | xiquinhosilva | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 沖縄県 | 琉球びんがた | [Bingata.jpg](https://commons.wikimedia.org/wiki/File:Bingata.jpg) | Bruno Cordioli（Bingata a Milano） | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 
 ## 確認上の注意
