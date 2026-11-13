@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1239,14 +1239,24 @@
           "category": "食べ物・特産",
           "description": "きりたんぽは、つぶしたご飯を棒に巻き付けて焼いた秋田県の郷土料理です。米どころの暮らしや、鍋料理として食べる地域の習慣と結び付いています。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kiritanpo soup.jpg",
+            "author": "Douglas P Perkins",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kiritanpo_soup.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "秋田県の郷土料理・きりたんぽ鍋"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiritanpo%20soup.jpg"
         },
         {
           "id": "05-4",
@@ -2611,14 +2621,24 @@
           "category": "食べ物・特産",
           "description": "京料理は、京都の歴史や行事、季節感と深く結び付いた食文化です。だしや旬の食材、盛り付けに込められた工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Yatsuhashi nama.jpg",
+            "author": "Moja",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yatsuhashi_nama.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "京都の和菓子・生八つ橋"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yatsuhashi%20nama.jpg"
         },
         {
           "id": "26-4",
@@ -4478,14 +4498,24 @@
           "category": "食べ物・特産",
           "description": "チキン南蛮は、宮崎県延岡市で生まれたとされる料理です。鶏肉を揚げて甘酢にくぐらせる調理法や、タルタルソースとの組み合わせの広がりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Chicken nanban Original Nobeoka Japan.jpg",
+            "author": "Sanjo",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Chicken_nanban_Original_Nobeoka_Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "宮崎県延岡市で生まれた元祖チキン南蛮"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken%20nanban%20Original%20Nobeoka%20Japan.jpg"
         },
         {
           "id": "45-4",
