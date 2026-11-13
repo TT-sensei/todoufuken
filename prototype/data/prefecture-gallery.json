@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2785,14 +2785,24 @@
           "category": "自然・風景",
           "description": "英虞湾は三重県志摩市にある入り組んだ海岸が特徴の湾です。リアス海岸の地形や、真珠養殖など海と人々の暮らしの関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Ago Bay.JPG",
+            "author": "Alpsdake",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ago%20Bay.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで三重県志摩市の横山展望台から撮影された英虞湾・撮影日・作者・CC BY-SA 4.0を確認済み。原画像5184×3456",
+            "description": "三重県志摩市の横山展望台から望む英虞湾と賢島（2014年12月15日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ago%20Bay.JPG"
         },
         {
           "id": "24-2",
@@ -4112,14 +4122,24 @@
           "category": "名所・建物",
           "description": "祖谷のかずら橋は徳島県三好市の祖谷渓に架かるつり橋です。シラクチカズラなどの植物を使った橋の材料や、山深い地域の交通の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Iya waddle bridge(Kazurabashi) 01.jpg",
+            "author": "Motokoka",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Iya%20waddle%20bridge(Kazurabashi)%2001.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで徳島県三好市の祖谷のかずら橋・撮影日・作者・CC BY-SA 4.0を確認済み。原画像3968×2232",
+            "description": "徳島県三好市の祖谷のかずら橋（2010年9月25日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iya%20waddle%20bridge(Kazurabashi)%2001.jpg"
         },
         {
           "id": "36-3",
@@ -4411,14 +4431,24 @@
           "category": "名所・建物",
           "description": "桂浜は高知市の太平洋に面した海岸で、坂本龍馬像が立つ場所としても知られます。海岸の景観や、土佐の歴史との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Katsurahama beach through pine trees, Kochi, March 2014.jpg",
+            "author": "NevinThompson",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Katsurahama%20beach%20through%20pine%20trees%2C%20Kochi%2C%20March%202014.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで高知県高知市の桂浜・撮影日・作者・CC BY-SA 4.0を確認済み。原画像2048×1536",
+            "description": "高知県高知市の桂浜。松林越しに海岸を望む風景（2014年3月29日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Katsurahama%20beach%20through%20pine%20trees%2C%20Kochi%2C%20March%202014.jpg"
         },
         {
           "id": "39-3",
@@ -5079,14 +5109,24 @@
           "category": "名所・建物",
           "description": "青島は宮崎市の海岸近くにある小さな島で、周囲を「鬼の洗濯板」と呼ばれる波状の岩が囲みます。波が岩を削ってできた地形を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Aoshima.jpg",
+            "author": "STA 3816",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Aoshima.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで宮崎県宮崎市の青島・撮影日・作者・CC BY 3.0を確認済み。GFDLとの複数ライセンスのうちCC BY 3.0を選択",
+            "description": "宮崎県宮崎市の青島を弥生橋から望む風景（2009年8月3日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aoshima.jpg"
         },
         {
           "id": "45-3",
