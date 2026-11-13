@@ -7,7 +7,7 @@ async function init(){
  if(!res.ok)throw new Error("図鑑データを読み込めません");
  data=await res.json();
  renderNav();
- $("#guideSearch").addEventListener("input",e=>{searchText=e.target.value.trim().toLocaleLowerCase("ja");renderPref(activeCode);});
+ $("#guideSearch").addEventListener("input",e=>{searchText=e.target.value.trim().toLocaleLowerCase("ja");if(searchText)renderSearchResults();else renderPref(activeCode);});
  renderPref(activeCode);
 }
 function renderNav(){
@@ -25,6 +25,30 @@ function renderNav(){
   renderPref(activeCode);
   $("#detail").scrollIntoView({behavior:"smooth",block:"start"});
  };
+}
+function renderSearchResults(){
+ const matches=[];
+ data.prefectures.forEach(p=>(p.items||[]).forEach(item=>{
+  if([item.name,item.description,item.category,p.name,p.region].some(v=>String(v||"").toLocaleLowerCase("ja").includes(searchText)))matches.push({p,item});
+ }));
+ $("#searchStatus").textContent=`全国47都道府県から検索：${matches.length}件`;
+ const groups=data.prefectures.map(p=>{
+  const found=matches.filter(x=>x.p.code===p.code);
+  if(!found.length)return "";
+  return `<section class="search-group"><div class="search-group-head"><div><p>${esc(p.region)}</p><h3>${esc(p.name)}</h3></div><button type="button" class="search-pref-open" data-code="${p.code}">この県の図鑑へ</button></div><div class="item-grid">${found.map(x=>card(x.item)).join("")}</div></section>`;
+ }).join("");
+ $("#detail").innerHTML=`<div class="pref-head"><div><p class="pref-kicker">SEARCH ALL PREFECTURES</p><h2>全国から検索</h2><p class="capital">「${esc($("#guideSearch").value)}」の検索結果</p></div></div>${matches.length?groups:'<div class="empty-state">見つかりませんでした。別の言葉で検索してみよう。</div>'}`;
+ $("#detail").querySelectorAll(".search-pref-open").forEach(button=>button.addEventListener("click",()=>{
+  activeCode=button.dataset.code;
+  searchText="";
+  $("#guideSearch").value="";
+  renderNav();
+  renderPref(activeCode);
+  $("#detail").scrollIntoView({behavior:"smooth",block:"start"});
+ }));
+ $("#detail").querySelectorAll("img.item-photo").forEach(img=>img.addEventListener("error",()=>{
+  const fallback=document.createElement("div");fallback.className="photo-pending image-error";fallback.textContent="写真を読み込めませんでした";img.replaceWith(fallback);
+ },{once:true}));
 }
 function photoCredit(item){
  const p=item.photo;
