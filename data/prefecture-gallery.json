@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1813,12 +1813,21 @@
         },
         {
           "id": "07-5",
-          "name": "会津漆器",
+          "name": "大堀相馬焼",
           "category": "産業・工芸",
-          "description": "会津漆器は福島県会津地方で作られる漆器です。漆を塗り重ねる技法や蒔絵などの装飾、丈夫で使いやすい器づくりの工夫を調べてみましょう。",
+          "description": "大堀相馬焼は福島県相馬地方で作られてきた陶器です。器を二重に重ねた二重焼や、走る馬の絵柄、青磁のひび模様が特徴です。どんな工夫や技法があるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "大堀相馬焼 急須 (1).jpg",
+            "author": "Takuya Matunaga",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%A0%80%E7%9B%B8%E9%A6%AC%E7%84%BC%20%E6%80%A5%E9%A0%88%20%281%29.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで相馬地方の陶磁器・作者・CC BY-SA 4.0を確認済み。原画像1130×727。第61版で会津漆器から項目を差し替えて新規登録",
+            "description": "大堀相馬焼の急須。青磁のひび模様（貫入）と、走る馬の絵柄が特徴（2020年3月27日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -3766,12 +3775,21 @@
         },
         {
           "id": "29-5",
-          "name": "奈良筆",
+          "name": "高山茶筅",
           "category": "産業・工芸",
-          "description": "奈良筆は奈良県で作られる筆です。動物の毛を選び、毛先をそろえて筆に仕上げる工程や、書道・文化との関わりを調べてみましょう。",
+          "description": "高山茶筅は奈良県生駒市高山で作られる、抹茶を点てるための竹の道具です。国内で作られる茶筅のほとんどが高山で作られています。竹を細く割って編む技法を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Chasen-top oblique-fs PNr°0500.jpg",
+            "author": "D-Kuru",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Chasen-top%20oblique-fs%20PNr%C2%B00500.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで茶の湯の茶筅・作者・CC BY-SA 4.0を確認済み。原画像3405×2327。第61版で奈良筆から項目を差し替えて新規登録",
+            "description": "抹茶を点てるための茶筅。奈良県生駒市高山は、国内の茶筅のほとんどを作る産地（2019年9月10日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -3863,12 +3881,21 @@
         },
         {
           "id": "30-4",
-          "name": "那智の扇祭り",
+          "name": "御燈祭り",
           "category": "文化・まつり",
-          "description": "那智の扇祭りは、和歌山県那智勝浦町の熊野那智大社で行われる祭礼です。扇神輿や那智の滝に関わる神事から、熊野の自然と信仰のつながりを調べてみましょう。",
+          "description": "御燈祭りは和歌山県新宮市の神倉神社で2月6日に行われる火祭りです。白装束の男たちが大きな松明を持って急な石段を駆け下ります。なぜ火を使うのか、地域の信仰との結び付きを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "519wakayama-Kumano Oto Festival-xl.jpg",
+            "author": "panpanzupan",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:519wakayama-Kumano%20Oto%20Festival-xl.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで和歌山県新宮の御燈祭・作者・CC BY 4.0を確認済み（FIND/47プロジェクトの写真）。原画像4928×3280。第61版で那智の扇祭りから項目を差し替えて新規登録",
+            "description": "神倉神社の御燈祭り。松明を持った男たちが鳥居の前に集まる様子（2016年2月6日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -4008,12 +4035,21 @@
         },
         {
           "id": "31-5",
-          "name": "因州和紙",
+          "name": "弓浜絣",
           "category": "産業・工芸",
-          "description": "因州和紙は鳥取県東部で作られる和紙です。和紙の原料や紙すきの工程、書道用紙や工芸品など用途の広がりを調べてみましょう。",
+          "description": "弓浜絣は鳥取県西部の弓ヶ浜で作られてきた木綿の絣織物です。藍染めの糸で、海や暮らしにちなんだ絵柄を織り出します。絣の柄がどうやってできるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Yumihama-gasuri 01.jpg",
+            "author": "Bioika0201",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yumihama-gasuri%2001.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで弓浜絣の展示・作者・CC BY-SA 4.0を確認済み。原画像3648×2736。第61版で因州和紙から項目を差し替えて新規登録",
+            "description": "弓浜絣の着物。米子市の博物館の特別展で撮影（2017年7月29日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -4499,12 +4535,21 @@
         },
         {
           "id": "35-4",
-          "name": "山口七夕ちょうちんまつり",
+          "name": "下関海峡まつり",
           "category": "文化・まつり",
-          "description": "山口七夕ちょうちんまつりは、山口市で開かれる夏祭りです。赤い提灯を飾る風景や、大内氏の時代にさかのぼるとされる由来を調べてみましょう。",
+          "description": "下関海峡まつりは山口県下関市でゴールデンウィークに行われる祭りです。源平の合戦を再現する船合戦のパレードなどが関門海峡で開かれます。海峡の町と祭りの結び付きを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Shimonoseki 3MAY2010 1450 Yamaguchi Japan.jpg",
+            "author": "Ka23 13",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shimonoseki%203MAY2010%201450%20Yamaguchi%20Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで「しものせき海峡まつり」の源平船合戦海上パレード・作者・CC BY-SA 4.0を確認済み。原画像2784×1568。第61版で山口七夕ちょうちんまつりから項目を差し替えて新規登録",
+            "description": "下関海峡まつりの源平船合戦海上パレード（2010年5月3日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
