@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -787,14 +787,24 @@
           "category": "食べ物・特産",
           "description": "北海道では羊肉を野菜と一緒に焼くジンギスカンが広く親しまれています。羊肉を食べる文化が広がった歴史も調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Sapporo miso ramen.jpg",
+            "author": "Schellack",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Sapporo_miso_ramen.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "北海道札幌市の味噌ラーメン"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sapporo%20miso%20ramen.jpg"
         },
         {
           "id": "01-4",
@@ -1302,14 +1312,24 @@
           "category": "食べ物・特産",
           "description": "山形県はさくらんぼの栽培がさかんな地域です。水はけのよい土地や雨の少ない時期など、果樹栽培を支える自然条件を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "YamagataCherries.jpg",
+            "author": "Rei",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:YamagataCherries.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "山形県のさくらんぼ"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "山形県のご紹介・さくらんぼ",
             "url": "https://tohoku-kizunamatsuri.jp/special/introduction/yamagata/",
             "note": "山形のさくらんぼと気候の関係を紹介"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YamagataCherries.jpg"
         },
         {
           "id": "06-4",
@@ -3574,14 +3594,24 @@
           "category": "食べ物・特産",
           "description": "讃岐うどんは、香川県を代表する食文化です。小麦や塩、だしの使い方に加え、雨が少ない気候と水の利用、うどん文化の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Japanese Sanuki Udon.jpg",
+            "author": "Shene81",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Sanuki_Udon.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "香川県の讃岐うどん"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Sanuki%20Udon.jpg"
         },
         {
           "id": "37-4",
@@ -4152,14 +4182,24 @@
           "category": "食べ物・特産",
           "description": "熊本県では馬肉を使った料理が食文化の一つとして親しまれています。馬肉を食べるようになった歴史や、地域での食べ方を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Horse-meat.jpg",
+            "author": "Igorberger",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Horse-meat.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "熊本県の郷土料理・馬刺し"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Horse-meat.jpg"
         },
         {
           "id": "43-4",
@@ -4524,14 +4564,24 @@
           "category": "食べ物・特産",
           "description": "沖縄そばは、小麦粉の麺に豚骨やかつお節などのだしを合わせる沖縄の郷土料理です。琉球王国時代から続く食文化や、地域ごとの違いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Okinawa soba noodle (42195524970).jpg",
+            "author": "pelican（東京）",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Okinawa_soba_noodle_(42195524970).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "沖縄県の沖縄そば"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Okinawa%20soba%20noodle%20(42195524970).jpg"
         },
         {
           "id": "47-4",
