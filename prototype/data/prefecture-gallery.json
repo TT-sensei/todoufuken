@@ -172,14 +172,14 @@
           "id": "09-3",
           "name": "宇都宮のぎょうざ",
           "category": "食べ物・特産",
-          "description": "宇都宮市で親しまれている食文化の一つ。市内には餃子を提供する店が多くあります。",
+          "description": "宇都宮のぎょうざは、焼き・揚げ・水ぎょうざなど、店ごとに皮や具、焼き方に工夫があります。戦後に広まった背景や、宇都宮の人々に親しまれてきた理由を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "農林水産省「うちの郷土料理」",
-            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
-            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+            "title": "宇都宮市公式 餃子のまち",
+            "url": "https://www.city.utsunomiya.lg.jp/citypromotion/1007188.html",
+            "note": "宇都宮ぎょうざの特徴や、まちに広まった歴史を紹介"
           },
           "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
@@ -264,14 +264,14 @@
           "id": "10-3",
           "name": "こんにゃく",
           "category": "食べ物・特産",
-          "description": "群馬県ではこんにゃくいもの栽培がさかんで、こんにゃくづくりにつながっています。",
+          "description": "群馬県は、こんにゃくいもの生産がさかんな地域です。こんにゃくいもから食品になるまでの加工や、群馬県の農業・地域産業を支える役割を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "農林水産省「うちの郷土料理」",
-            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
-            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+            "title": "関東農政局 群馬県で農とつながる",
+            "url": "https://www.maff.go.jp/kanto/syo_an/seikatsu/shokuiku/gunma.html",
+            "note": "こんにゃくいもの生産と群馬県の農業・地域経済との関わりを紹介"
           },
           "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
@@ -374,14 +374,14 @@
           "id": "11-3",
           "name": "狭山茶",
           "category": "食べ物・特産",
-          "description": "埼玉県西部を中心につくられるお茶。茶葉を育て、加工する仕事が行われています。",
+          "description": "狭山茶は、埼玉県西部を中心に生産されるお茶です。寒い地域で育つ茶葉の特徴や、仕上げにじっくり熱を加える「狭山火入れ」が味や香りに与える工夫を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "農林水産省「うちの郷土料理」",
-            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
-            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+            "title": "埼玉県公式 狭山茶のはなし",
+            "url": "https://www.pref.saitama.lg.jp/b0914/hanasi/index.html",
+            "note": "狭山茶の歴史、産地、狭山火入れなどの特徴を紹介"
           },
           "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
@@ -484,7 +484,7 @@
           "id": "12-3",
           "name": "落花生",
           "category": "食べ物・特産",
-          "description": "千葉県を代表する農産物の一つ。収穫した落花生を乾燥させる「ぼっち」の風景も見られます。",
+          "description": "千葉県は落花生の生産がさかんな地域です。収穫した株を畑で乾かす「地干し」や、円筒形に積み上げて自然乾燥させる「ぼっち積み」など、千葉の秋の風景にも注目してみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bocchi%20in%20Tako%20town%2C%20Chiba.jpg",
           "photo": {
@@ -498,9 +498,9 @@
             "description": "多古町で落花生を乾燥させるぼっち"
           },
           "reference": {
-            "title": "農林水産省「うちの郷土料理」",
-            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
-            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+            "title": "千葉県公式 旬鮮図鑑「落花生」",
+            "url": "https://www.pref.chiba.lg.jp/ryuhan/pbmgm/zukan/kome/rakkase.html",
+            "note": "落花生の育ち方や収穫後の地干し・ぼっち積みを紹介"
           },
           "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
