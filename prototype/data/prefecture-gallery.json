@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1691,14 +1691,24 @@
           "category": "食べ物・特産",
           "description": "喜多方ラーメンは、福島県喜多方市で親しまれてきたご当地ラーメンです。太めのちぢれ麺やしょうゆ味のスープなど、地域の味の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Kitakata ramen - Niku soba by kimishowota in Kitakata, Fukushima.jpg",
+            "author": "kimishowota",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kitakata_ramen_-_Niku_soba_by_kimishowota_in_Kitakata,_Fukushima.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認し、画像の実物も目視確認済み",
+            "description": "福島県喜多方市の坂内食堂本店で提供される喜多方ラーメン「肉そば」"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kitakata%20ramen%20-%20Niku%20soba%20by%20kimishowota%20in%20Kitakata%2C%20Fukushima.jpg"
         },
         {
           "id": "07-4",
@@ -3034,14 +3044,24 @@
           "category": "文化・まつり",
           "description": "祇園祭は、京都市の八坂神社に関わる祭礼で、7月に多くの行事が行われます。山鉾巡行や疫病退散を願う祭りの歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Kyoto Gion Matsuri J09 049.jpg",
+            "author": "Corpse Reviver",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kyoto_Gion_Matsuri_J09_049.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認し、画像の実物も目視確認済み",
+            "description": "2009年7月17日の祇園祭山鉾巡行。京都市の四条烏丸交差点西側に並ぶ山鉾"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyoto%20Gion%20Matsuri%20J09%20049.jpg"
         },
         {
           "id": "26-5",
@@ -3602,14 +3622,24 @@
           "category": "名所・建物",
           "description": "出雲大社は島根県出雲市にある神社で、縁結びの神として知られる大国主大神をまつります。神話や古代の出雲の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Haiden of Izumo-taisha-1.JPG",
+            "author": "Saigen Jiro",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Haiden_of_Izumo-taisha-1.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認し、画像の実物も目視確認済み",
+            "description": "島根県出雲市の出雲大社拝殿。大きなしめ縄を掲げた社殿"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haiden%20of%20Izumo-taisha-1.JPG"
         },
         {
           "id": "32-3",
@@ -3910,14 +3940,24 @@
           "category": "名所・建物",
           "description": "錦帯橋は山口県岩国市の錦川に架かる木造の橋です。五つのアーチを組み合わせた構造や、洪水に備えた橋づくりの工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "20100724 Iwakuni 5235.jpg",
+            "author": "Jakub Hałun",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:20100724_Iwakuni_5235.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認し、画像の実物も目視確認済み",
+            "description": "山口県岩国市の錦帯橋。五連の木造アーチ橋を川辺から見た全景"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20100724%20Iwakuni%205235.jpg"
         },
         {
           "id": "35-3",
