@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：147点 / 全国235項目
+- 写真候補：151点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 36点、名所・建物 42点、食べ物・特産 25点、文化・まつり 26点、産業・工芸 18点
-- ライセンス別：CC BY-SA 4.0 39点、CC BY 2.0 11点、CC BY 4.0 8点、CC BY-SA 3.0 45点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
-- 写真未選定：88項目
+- カテゴリ別：自然・風景 38点、名所・建物 43点、食べ物・特産 26点、文化・まつり 26点、産業・工芸 18点
+- ライセンス別：CC BY-SA 4.0 40点、CC BY 2.0 11点、CC BY 4.0 8点、CC BY-SA 3.0 47点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 1点
+- 写真未選定：84項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -98,6 +98,7 @@
 | 岐阜県 | 白川郷 | [Ogi Shirakawa-gō, Gifu, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 岐阜県 | 岐阜城 | [Gifu Castle Japan03-r.jpg](https://commons.wikimedia.org/wiki/File:Gifu_Castle_Japan03-r.jpg) | Oilstreet | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岐阜県 | 飛騨牛 | [Grilling Hida Beef (Takayama Street Food) (35910429046).jpg](https://commons.wikimedia.org/wiki/File:Grilling_Hida_Beef_(Takayama_Street_Food)_(35910429046).jpg) | Ankur P | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
+| 静岡県 | 富士山 | [Mount Fuji and Fujinomiya.jpg](https://commons.wikimedia.org/wiki/File:Mount%20Fuji%20and%20Fujinomiya.jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 静岡県 | 三保松原 | [Miho no Matsubara 01.jpg](https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_01.jpg) | Σ64 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 静岡県 | お茶 | [Tea plantation in Shizuoka.jpg](https://commons.wikimedia.org/wiki/File:Tea_plantation_in_Shizuoka.jpg) | ajari from Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 愛知県 | 名古屋城 | [Nagoya Castle2026.jpg](https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg) | 加茂川の民 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
@@ -116,6 +117,7 @@
 | 大阪府 | 大阪城 | [OSAKA CASTLE.jpg](https://commons.wikimedia.org/wiki/File:OSAKA_CASTLE.jpg) | Tokumeigakarinoaoshima | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 大阪府 | たこ焼き | [Takoyaki in Osaka.jpg](https://commons.wikimedia.org/wiki/File:Takoyaki_in_Osaka.jpg) | ZhengZhou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 兵庫県 | 姫路城 | [Himeji castle hyogo jpn.jpg](https://commons.wikimedia.org/wiki/File:Himeji_castle_hyogo_jpn.jpg) | Goony663 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 兵庫県 | 明石焼 | [Akashiyaki Tamagoyaki.JPG](https://commons.wikimedia.org/wiki/File:Akashiyaki%20Tamagoyaki.JPG) | Midori | [CC BY-SA 2.1 JP](https://creativecommons.org/licenses/by-sa/2.1/jp/) | 未加工（原画像を表示） |
 | 奈良県 | 吉野山 | [Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg](https://commons.wikimedia.org/wiki/File:Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg) | Luka Peternel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 奈良県 | 東大寺 | [Tōdai-ji Temple in Nara, Japan.jpg](https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Temple_in_Nara%2C_Japan.jpg) | Didier Moïse | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 和歌山県 | 那智の滝 | [Nachi Falls 2025-10-13.jpg](https://commons.wikimedia.org/wiki/File:Nachi_Falls_2025-10-13.jpg) | Alpsdake | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
@@ -145,8 +147,10 @@
 | 佐賀県 | 吉野ヶ里遺跡 | [Yoshinogari.jpg](https://commons.wikimedia.org/wiki/File:Yoshinogari.jpg) | STA3816 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 佐賀県 | 有田焼 | [Vase, Arita ware, Japan, c. 1875, porcelain - Peabody Essex Museum - DSC07652.jpg](https://commons.wikimedia.org/wiki/File:Vase%2C_Arita_ware%2C_Japan%2C_c._1875%2C_porcelain_-_Peabody_Essex_Museum_-_DSC07652.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 長崎県 | 九十九島 | [200320 Kujukushima Pearl Sea Resort Sasebo Nagasaki pref Japan10s3.jpg](https://commons.wikimedia.org/wiki/File:200320_Kujukushima_Pearl_Sea_Resort_Sasebo_Nagasaki_pref_Japan10s3.jpg) | 663highland | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 長崎県 | 大浦天主堂 | [Oura Church Nagasaki.JPG](https://commons.wikimedia.org/wiki/File:Oura%20Church%20Nagasaki.JPG) | Chris 73 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 長崎県 | 長崎ちゃんぽん | [Nagasaki champon.JPG](https://commons.wikimedia.org/wiki/File:Nagasaki_champon.JPG) | Midori | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 長崎県 | 長崎くんち | [Nagasaki Kunchi.jpg](https://commons.wikimedia.org/wiki/File:Nagasaki_Kunchi.jpg) | Marufish | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
+| 熊本県 | 阿蘇山 | [Mount-Aso-Naka-dake.jpg](https://commons.wikimedia.org/wiki/File:Mount-Aso-Naka-dake.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 馬刺し | [Horse-meat.jpg](https://commons.wikimedia.org/wiki/File:Horse-meat.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大分県 | 由布岳 | [Mt. Yufu (Yufuin, Oita, Japan).jpg](https://commons.wikimedia.org/wiki/File:Mt._Yufu_(Yufuin%2C_Oita%2C_Japan).jpg) | Shubert Ciencia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
