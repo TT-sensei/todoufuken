@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1656,14 +1656,23 @@
           "category": "文化・まつり",
           "description": "長岡まつり大花火大会は、新潟県長岡市で開かれる花火大会です。戦災からの復興を願う行事として始まった背景や、平和への思いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Find47 Niigata-The Nagaoka Fireworks Festival-m.jpg",
+            "author": "Koichi_Hayakawa",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Find47_Niigata-The_Nagaoka_Fireworks_Festival-m.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "新潟県長岡市の花火大会"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Find47%20Niigata-The%20Nagaoka%20Fireworks%20Festival-m.jpg"
         },
         {
           "id": "15-5",
@@ -2154,14 +2163,23 @@
           "category": "食べ物・特産",
           "description": "信州そばは、長野県の各地で親しまれているそばです。高冷地の気候やそばの栽培、地域ごとの食べ方の違いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Shinshu soba.jpg",
+            "author": "663highland",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "長野市で撮影された信州そばと山菜ご飯"
+          },
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shinshu%20soba.jpg"
         },
         {
           "id": "20-4",
@@ -2169,14 +2187,23 @@
           "category": "文化・まつり",
           "description": "御柱祭は、長野県の諏訪大社で行われる伝統的な祭りです。大木を山から曳き出して社殿の四隅に建てる行事の意味や、地域の人々の協力を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Onbasira Festival Tateonbasira.JPG",
+            "author": "C1815",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Onbasira_Festival_Tateonbasira.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "長野県諏訪地方の御柱祭"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Onbasira%20Festival%20Tateonbasira.JPG"
         },
         {
           "id": "20-5",
@@ -3343,14 +3370,23 @@
           "category": "文化・まつり",
           "description": "石見神楽は、島根県西部の石見地方に伝わる神楽です。神話を題材にした舞や、華やかな衣装・大蛇の演目など、地域で受け継がれる芸能を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "IwamiKagura-ShioHarai.png",
+            "author": "Pattio",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:IwamiKagura-ShioHarai.png",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "島根県浜田市の松原神楽社中による石見神楽『塩祓』"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IwamiKagura-ShioHarai.png"
         },
         {
           "id": "32-5",
