@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1053,14 +1053,24 @@
           "category": "産業・工芸",
           "description": "南部鉄器は岩手県の盛岡市や奥州市などで作られる鉄器です。鉄を溶かして型に流し込む鋳造の技術や、鉄瓶の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Nambu Tetsubin.jpg",
+            "author": "Misakubo",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンス・対象との一致を確認済み。ローカル化待ち",
+            "description": "岩手県の南部鉄器の鉄瓶"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nambu%20Tetsubin.jpg"
         }
       ]
     },
@@ -1887,14 +1897,24 @@
           "category": "産業・工芸",
           "description": "越前和紙は福井県越前市などで作られる和紙です。植物の繊維を使った紙すきの工程や、長く受け継がれてきた産地の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Japanese paper making 03.jpg",
+            "author": "TR15336300101",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_paper_making_03.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンス・対象との一致を確認済み。ローカル化待ち",
+            "description": "福井県越前市の卯立の工芸館で行われる越前和紙の紙すき"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20paper%20making%2003.jpg"
         }
       ]
     },
@@ -2661,14 +2681,24 @@
           "category": "産業・工芸",
           "description": "西陣織は京都市の西陣地域で作られる絹織物です。多くの色糸を使って模様を織り出す技術や、分業で支えられるものづくりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Treadle looms, Nishijin Textile Center, Kyoto - Aug 14, 2005.jpg",
+            "author": "POHAN CHEN",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Treadle_looms,_Nishijin_Textile_Center,_Kyoto_-_Aug_14,_2005.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンス・対象との一致を確認済み。ローカル化待ち",
+            "description": "京都市の西陣織会館にある織機"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Treadle%20looms%2C%20Nishijin%20Textile%20Center%2C%20Kyoto%20-%20Aug%2014%2C%202005.jpg"
         }
       ]
     },
