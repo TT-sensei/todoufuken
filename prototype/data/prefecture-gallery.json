@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1382,14 +1382,24 @@
           "category": "産業・工芸",
           "description": "天童の将棋駒は山形県天童市の特産品です。木を使った駒づくりや、文字を彫る技術、将棋の駒づくりが地域に広がった歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Giant Shogi Piece in Tendo.jpg",
+            "author": "Gorilla Jones",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Giant_Shogi_Piece_in_Tendo.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "山形県天童市の将棋駒をかたどった大きな駒"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "天童市公式 天童と将棋駒",
             "url": "https://www.city.tendo.yamagata.jp/tourism/shogi/syougikoma.html",
             "note": "将棋駒の材料・製造工程・産地について"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant%20Shogi%20Piece%20in%20Tendo.jpg"
         }
       ]
     },
@@ -2528,14 +2538,24 @@
           "category": "産業・工芸",
           "description": "信楽焼は滋賀県甲賀市信楽町で作られる陶器です。土の風合いや火色、たぬきの置物など、焼き上がりの特徴と産地の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Big Shigaraki ware Tanuki Statue at Sawazen in Shigaraki.jpg",
+            "author": "Motokoka",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Big_Shigaraki_ware_Tanuki_Statue_at_Sawazen_in_Shigaraki.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "滋賀県甲賀市信楽町の信楽焼のたぬき像"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Big%20Shigaraki%20ware%20Tanuki%20Statue%20at%20Sawazen%20in%20Shigaraki.jpg"
         }
       ]
     },
