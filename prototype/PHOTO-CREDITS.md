@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：133点 / 全国235項目
+- 写真候補：134点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 23点、文化・まつり 24点、産業・工芸 17点
-- ライセンス別：CC BY-SA 4.0 35点、CC BY 2.0 10点、CC BY 4.0 8点、CC BY-SA 3.0 40点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
-- 写真未選定：102項目
+- カテゴリ別：自然・風景 35点、名所・建物 34点、食べ物・特産 23点、文化・まつり 24点、産業・工芸 18点
+- ライセンス別：CC BY-SA 4.0 35点、CC BY 2.0 10点、CC BY 4.0 8点、CC BY-SA 3.0 41点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 11点、CC BY-SA 2.0 6点
+- 写真未選定：101項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -37,6 +37,7 @@
 | 千葉県 | 成田山新勝寺 | [Naritasan Shinshoji Temple.jpg](https://commons.wikimedia.org/wiki/File:Naritasan_Shinshoji_Temple.jpg) | Manish Prabhune | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 千葉県 | 落花生 | [Bocchi in Tako town, Chiba.jpg](https://commons.wikimedia.org/wiki/File:Bocchi_in_Tako_town%2C_Chiba.jpg) | On-chan | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 千葉県 | 佐原の大祭 | [Sawara festival in Autumn,Katori-city,Japan.jpg](https://commons.wikimedia.org/wiki/File:Sawara_festival_in_Autumn,Katori-city,Japan.jpg) | katorisi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 千葉県 | 房州うちわ | [Boushuu uchiwa.jpg](https://commons.wikimedia.org/wiki/File:Boushuu_uchiwa.jpg) | zenkota (talk) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 東京都 | 小笠原諸島 | [Ogasawara Islands, Tokyo, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg) | Anagounagi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 東京都 | 東京スカイツリー | [TokyoSkyTree.jpg](https://commons.wikimedia.org/wiki/File:TokyoSkyTree.jpg) | Douglas P. Perkins | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 東京都 | 江戸切子 | [Edokiriko sold in Kanagawa - Sept 2024.jpeg](https://commons.wikimedia.org/wiki/File:Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg) | Nesnad | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
