@@ -6,6 +6,8 @@ async function init(){
  const res=await fetch(DATA_URL);
  if(!res.ok)throw new Error("図鑑データを読み込めません");
  data=await res.json();
+ const photoCount=data.prefectures.flatMap(p=>p.items||[]).filter(item=>item.photo).length;
+ $("#photoCoverage").textContent=`写真出典確認 ${photoCount}/${data.prefectures.reduce((n,p)=>n+(p.items||[]).length,0)}項目`;
  renderNav();
  $("#guideSearch").addEventListener("input",e=>{searchText=e.target.value.trim().toLocaleLowerCase("ja");if(searchText)renderSearchResults();else renderPref(activeCode);});
  renderPref(activeCode);
@@ -61,7 +63,7 @@ function card(item){
  const photo=item.photo
   ?`<img class="item-photo" src="${esc(item.image)}" alt="${esc(item.name)}：${esc(item.photo.description||item.description)}" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
   :`<div class="photo-pending" aria-label="写真を準備中"><span>PHOTO</span><strong>写真を準備中</strong></div>`;
- const status=item.photo?"":"<span class=\"pending-label\">写真候補を選定中</span>";
+ const status=item.photo?"<span class=\"photo-verified-label\">写真候補・出典確認済み</span>":"<span class=\"pending-label\">写真候補を選定中</span>";
  return `<article class="item-card">${photo}<div class="item-body">${status}<h4>${esc(item.name)}</h4><p>${esc(item.description)}</p><div class="inquiry"><span>調べる視点</span><p>${esc(item.inquiry||"この特色は、地域の自然や歴史、人々の暮らしとどう関係しているのだろう？")}</p><small>自分の住む地域や、ほかの都道府県と比べてみよう。</small></div>${photoCredit(item)}${item.reference?`<a class="source-link" href="${esc(item.reference.url)}" target="_blank" rel="noopener">参考資料を開く：${esc(item.reference.title)} ↗</a>${item.reference.note?`<div class="source-note">${esc(item.reference.note)}</div>`:""}`:""}</div></article>`;
 }
 function renderPref(code){
