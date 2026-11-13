@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1076,14 +1076,24 @@
           "category": "食べ物・特産",
           "description": "牛たん焼きは、仙台を代表する料理として知られています。戦後の仙台で広まった食文化で、牛たんを厚切りにして焼く食べ方が特徴です。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Sendai gyutan.JPG",
+            "author": "Sakurai Midori",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "宮城県仙台市の牛たん焼き"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sendai%20gyutan.JPG"
         },
         {
           "id": "04-4",
@@ -2129,14 +2139,24 @@
           "category": "食べ物・特産",
           "description": "静岡県はお茶の産地として知られています。温暖な気候や山の斜面、茶畑の広がりと、お茶づくりの工夫を結び付けて考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tea plantation in Shizuoka.jpg",
+            "author": "ajari from Japan",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tea_plantation_in_Shizuoka.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "静岡県の茶畑"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tea%20plantation%20in%20Shizuoka.jpg"
         },
         {
           "id": "22-4",
@@ -3245,14 +3265,24 @@
           "category": "食べ物・特産",
           "description": "広島のお好み焼きは、生地やキャベツ、麺などを重ねて焼くのが特徴です。戦後の広島の暮らしの中で広まった食文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Okonomiyaki of Hiroshima.jpg",
+            "author": "ノボホショコロトソ",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_of_Hiroshima.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "広島県の広島風お好み焼き"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Okonomiyaki%20of%20Hiroshima.jpg"
         },
         {
           "id": "34-4",
@@ -3989,14 +4019,24 @@
           "category": "食べ物・特産",
           "description": "長崎ちゃんぽんは、長崎市で生まれた麺料理です。中国の食文化との交流や、肉・魚介・野菜を組み合わせる料理の成り立ちを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Nagasaki champon.JPG",
+            "author": "Midori",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nagasaki_champon.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "長崎県長崎市の長崎ちゃんぽん"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagasaki%20champon.JPG"
         },
         {
           "id": "42-4",
