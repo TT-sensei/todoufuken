@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -747,14 +747,24 @@
           "category": "自然・風景",
           "description": "知床は北海道東部の半島で、海・森・山が近くに集まる自然豊かな地域です。流氷や野生動物など、海と陸のつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Shiretoko National Park.jpg",
+            "author": "Trengarasu",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shiretoko_National_Park.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "知床国立公園の海上から見た山並み"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiretoko%20National%20Park.jpg"
         },
         {
           "id": "01-2",
@@ -1026,14 +1036,24 @@
           "category": "自然・風景",
           "description": "松島は、宮城県の海に大小の島々が浮かぶ景勝地です。島の形や松の木がつくる景観と、湾の地形の関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Matsushima (Matsushima Bay).jpg",
+            "author": "Cheng-en Cheng",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Matsushima_(Matsushima_Bay).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "宮城県の松島湾に浮かぶ島々"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matsushima%20(Matsushima%20Bay).jpg"
         },
         {
           "id": "04-2",
@@ -1071,14 +1091,24 @@
           "category": "文化・まつり",
           "description": "仙台七夕まつりは、仙台市で開かれる七夕行事です。商店街を飾る大きな吹き流しや七つ飾りに込められた願いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "The Sendai Tanabata Festival.JPG",
+            "author": "Haseyu-",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Sendai_Tanabata_Festival.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "仙台七夕まつりの色鮮やかな飾り"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Sendai%20Tanabata%20Festival.JPG"
         },
         {
           "id": "04-5",
@@ -1109,14 +1139,24 @@
           "category": "自然・風景",
           "description": "田沢湖は秋田県にある深い湖で、澄んだ青い水が特徴です。湖の深さや周囲の山々など、地形の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "View of Mt. Akita-Komagatake from Lake Tazawa.jpg",
+            "author": "掬茶",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Mt._Akita-Komagatake_from_Lake_Tazawa.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "田沢湖と秋田駒ヶ岳"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Mt.%20Akita-Komagatake%20from%20Lake%20Tazawa.jpg"
         },
         {
           "id": "05-2",
@@ -1124,14 +1164,24 @@
           "category": "名所・建物",
           "description": "角館の武家屋敷は秋田県仙北市に残る町並みです。武士が暮らした屋敷や黒板塀、通りのつくりから、城下町の生活を想像してみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kakunodate.jpg",
+            "author": "Fg2",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kakunodate.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "秋田県仙北市の角館に残る武家屋敷"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kakunodate.jpg"
         },
         {
           "id": "05-3",
@@ -1285,14 +1335,24 @@
           "category": "自然・風景",
           "description": "磐梯山は福島県を代表する山の一つです。火山活動によって生まれた地形や、周辺に広がる湖沼との関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mt.Bandai.jpg",
+            "author": "EXECUTOR",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mt.Bandai.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "福島県の磐梯山"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt.Bandai.jpg"
         },
         {
           "id": "07-2",
@@ -1300,14 +1360,24 @@
           "category": "名所・建物",
           "description": "鶴ヶ城は福島県会津若松市にある城で、赤瓦の天守が特徴です。戊辰戦争での出来事や、会津の歴史の中で果たした役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "AizuWakamatsuTsurugaCastle.jpg",
+            "author": "Fg2",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:AizuWakamatsuTsurugaCastle.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "福島県会津若松市の鶴ヶ城"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "福島県内地域別の観光情報",
             "url": "https://www.pref.fukushima.lg.jp/site/portal/tiiki-kanko.html",
             "note": "会津地域の鶴ヶ城など県内観光資源を紹介"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AizuWakamatsuTsurugaCastle.jpg"
         },
         {
           "id": "07-3",
