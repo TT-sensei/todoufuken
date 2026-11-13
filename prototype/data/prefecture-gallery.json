@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -35,7 +35,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "秋の公園の風景"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "08-2",
@@ -44,7 +45,8 @@
           "description": "偕楽園は水戸藩主・徳川斉昭によって造られた庭園で、日本三名園の一つです。梅の名所として知られ、園内の建物や竹林などから、庭園に込められた考えを調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "08-3",
@@ -58,7 +60,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "08-4",
@@ -67,7 +70,8 @@
           "description": "水戸の梅まつりは、偕楽園や弘道館で梅の花が見頃になる時期に開かれます。水戸藩の歴史や、梅を楽しむ文化が地域に根付いた理由を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "08-5",
@@ -85,7 +89,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "笠間焼の作品"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ],
       "region": "関東地方"
@@ -111,7 +116,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "華厳の滝"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "09-2",
@@ -129,7 +135,8 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "日光東照宮の鳥居と陽明門"
           },
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikko%20toshogu%20shrine.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikko%20toshogu%20shrine.jpg",
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "09-3",
@@ -143,7 +150,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "09-4",
@@ -152,7 +160,8 @@
           "description": "烏山の山あげ行事は、栃木県那須烏山市に伝わる屋外歌舞伎の祭礼です。大きな山や舞台を町中に設ける仕組みと、地域の人々が受け継ぐ技術を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "09-5",
@@ -161,7 +170,8 @@
           "description": "益子町を中心につくられる陶器。日常使いの器から美術作品まで幅広く作られます。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ],
       "region": "関東地方"
@@ -178,7 +188,8 @@
           "description": "群馬県など4県にまたがる湿原。木道を歩きながら、季節ごとの植物や景色を観察できます。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "10-2",
@@ -196,7 +207,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "草津温泉の湯畑"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "10-3",
@@ -210,7 +222,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "10-4",
@@ -219,7 +232,8 @@
           "description": "高崎だるまは、群馬県高崎市周辺で作られる縁起だるまです。眉は鶴、ひげは亀を表すとされる顔の特徴や、だるまづくりの工程を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "10-5",
@@ -237,7 +251,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "明治時代の富岡製糸場"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ],
       "region": "関東地方"
@@ -263,7 +278,8 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "長瀞の岩畳"
           },
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagatoro%20Iwadatami.JPG"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagatoro%20Iwadatami.JPG",
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "11-2",
@@ -281,7 +297,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "川越一番街の町並み"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "11-3",
@@ -295,7 +312,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "11-4",
@@ -313,7 +331,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "秩父夜祭"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "11-5",
@@ -322,7 +341,8 @@
           "description": "さいたま市岩槻区で受け継がれてきた人形づくり。職人の技術が生かされています。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ],
       "region": "関東地方"
@@ -348,7 +368,8 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "九十九里浜"
           },
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kujukuri%20Beach.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kujukuri%20Beach.jpg",
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "12-2",
@@ -366,7 +387,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "成田山新勝寺"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "12-3",
@@ -389,7 +411,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "12-4",
@@ -398,7 +421,8 @@
           "description": "香取市佐原で行われる祭り。山車が町並みを進み、地域の伝統を伝えています。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "12-5",
@@ -407,7 +431,8 @@
           "description": "千葉県南部でつくられてきた竹製のうちわ。竹を割るところから仕上げまで手仕事が生かされています。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ],
       "region": "関東地方"
@@ -433,7 +458,8 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "父島から見た小笠原の海岸"
           },
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg",
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "13-2",
@@ -451,7 +477,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "浅草から見た東京スカイツリー"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "13-3",
@@ -465,7 +492,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "13-4",
@@ -474,7 +502,8 @@
           "description": "三社祭は、東京都台東区の浅草神社の例大祭です。神輿の渡御や町内ごとの祭礼から、浅草の町と祭りを支える人々のつながりを調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "13-5",
@@ -483,7 +512,8 @@
           "description": "ガラスに模様を刻む伝統工芸。東京都内で受け継がれている職人の技術です。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ],
       "region": "関東地方"
@@ -509,7 +539,8 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "芦ノ湖の景観"
           },
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg",
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "14-2",
@@ -527,7 +558,8 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "横浜みなとみらいの景観"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "14-3",
@@ -541,7 +573,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "14-4",
@@ -550,7 +583,8 @@
           "description": "鎌倉では寺社を中心に、歴史と結び付いた祭礼や行事が受け継がれています。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "14-5",
@@ -559,7 +593,8 @@
           "description": "鎌倉彫は、木に文様を彫り、漆を塗り重ねて仕上げる神奈川県の伝統工芸です。仏具づくりとの関わりや、彫刻と漆塗りの工程を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ],
       "region": "関東地方"
@@ -582,7 +617,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "01-2",
@@ -596,7 +632,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "01-3",
@@ -610,7 +647,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "01-4",
@@ -624,7 +662,8 @@
             "title": "さっぽろ雪まつり公式サイト",
             "url": "https://www.snowfes.com/",
             "note": "開催会場・開催日など公式案内"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "01-5",
@@ -638,7 +677,8 @@
             "title": "ウポポイ（民族共生象徴空間）",
             "url": "https://ainu-upopoy.go.jp/",
             "note": "アイヌの歴史・文化を学ぶ国立施設の公式情報"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -660,7 +700,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "02-2",
@@ -674,7 +715,8 @@
             "title": "青森県の観光スポット",
             "url": "https://www.pref.aomori.lg.jp/k-kensei/sightseeing.html",
             "note": "弘前城・弘前公園など県内観光情報"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "02-3",
@@ -688,7 +730,8 @@
             "title": "青森県の食べ物",
             "url": "https://www.pref.aomori.lg.jp/kids/04_food.html",
             "note": "青森りんごなど県の食べ物を紹介"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "02-4",
@@ -702,7 +745,8 @@
             "title": "弘前のねぷた",
             "url": "https://www.pref.aomori.lg.jp/soshiki/kyoiku/e-bunka/minzoku_mukei_03.html",
             "note": "県指定・重要無形民俗文化財の解説"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "02-5",
@@ -716,7 +760,8 @@
             "title": "青森県の伝統工芸品（津軽塗）",
             "url": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarunuri.html",
             "note": "津軽塗の歴史・技法・製造工程"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -738,7 +783,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "03-2",
@@ -752,7 +798,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "03-3",
@@ -766,7 +813,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "03-4",
@@ -780,7 +828,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "03-5",
@@ -794,7 +843,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -816,7 +866,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "04-2",
@@ -830,7 +881,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "04-3",
@@ -844,7 +896,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "04-4",
@@ -858,7 +911,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "04-5",
@@ -872,7 +926,8 @@
             "title": "宮城の伝統的工芸品／宮城伝統こけし",
             "url": "https://www.pref.miyagi.jp/soshiki/shinsan/01kokesi.html",
             "note": "宮城県内のこけし5系統を紹介"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -894,7 +949,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "05-2",
@@ -908,7 +964,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "05-3",
@@ -922,7 +979,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "05-4",
@@ -936,7 +994,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "05-5",
@@ -950,7 +1009,8 @@
             "title": "湯沢市公式 川連漆器",
             "url": "https://www.city-yuzawa.jp/site/yuzawatrip/1949.html",
             "note": "約800年の歴史や技法を紹介"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -972,7 +1032,8 @@
             "title": "蔵王の樹氷",
             "url": "https://www.kankou.yamagata.yamagata.jp/zao/jyuhyo/",
             "note": "樹氷の見ごろ・観賞時の注意"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "06-2",
@@ -986,7 +1047,8 @@
             "title": "山形市公式 観光情報",
             "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
             "note": "山寺など市内観光情報への案内"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "06-3",
@@ -1000,7 +1062,8 @@
             "title": "山形県のご紹介・さくらんぼ",
             "url": "https://tohoku-kizunamatsuri.jp/special/introduction/yamagata/",
             "note": "山形のさくらんぼと気候の関係を紹介"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "06-4",
@@ -1014,7 +1077,8 @@
             "title": "山形花笠まつり（山形県公式）",
             "url": "https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/hanagasa.html",
             "note": "祭りの由来・踊り・開催地域を紹介"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "06-5",
@@ -1028,7 +1092,8 @@
             "title": "天童市公式 天童と将棋駒",
             "url": "https://www.city.tendo.yamagata.jp/tourism/shogi/syougikoma.html",
             "note": "将棋駒の材料・製造工程・産地について"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1050,7 +1115,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "07-2",
@@ -1064,7 +1130,8 @@
             "title": "福島県内地域別の観光情報",
             "url": "https://www.pref.fukushima.lg.jp/site/portal/tiiki-kanko.html",
             "note": "会津地域の鶴ヶ城など県内観光資源を紹介"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "07-3",
@@ -1078,7 +1145,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "07-4",
@@ -1092,7 +1160,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "07-5",
@@ -1106,7 +1175,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1128,7 +1198,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "15-2",
@@ -1142,7 +1213,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "15-3",
@@ -1156,7 +1228,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "15-4",
@@ -1170,7 +1243,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "15-5",
@@ -1184,7 +1258,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1206,7 +1281,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "16-2",
@@ -1220,7 +1296,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "16-3",
@@ -1234,7 +1311,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "16-4",
@@ -1248,7 +1326,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "16-5",
@@ -1262,7 +1341,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1284,7 +1364,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "17-2",
@@ -1298,7 +1379,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "17-3",
@@ -1312,7 +1394,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "17-4",
@@ -1326,7 +1409,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "17-5",
@@ -1340,7 +1424,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1362,7 +1447,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "18-2",
@@ -1376,7 +1462,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "18-3",
@@ -1390,7 +1477,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "18-4",
@@ -1404,7 +1492,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "18-5",
@@ -1418,7 +1507,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1440,7 +1530,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "19-2",
@@ -1454,7 +1545,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "19-3",
@@ -1468,7 +1560,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "19-4",
@@ -1482,7 +1575,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "19-5",
@@ -1496,7 +1590,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1518,7 +1613,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "20-2",
@@ -1532,7 +1628,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "20-3",
@@ -1546,7 +1643,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "20-4",
@@ -1560,7 +1658,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "20-5",
@@ -1574,7 +1673,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1596,7 +1696,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "21-2",
@@ -1610,7 +1711,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "21-3",
@@ -1624,7 +1726,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "21-4",
@@ -1638,7 +1741,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "21-5",
@@ -1652,7 +1756,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1674,7 +1779,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "22-2",
@@ -1688,7 +1794,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "22-3",
@@ -1702,7 +1809,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "22-4",
@@ -1716,7 +1824,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "22-5",
@@ -1730,7 +1839,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1752,7 +1862,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "23-2",
@@ -1766,7 +1877,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "23-3",
@@ -1780,7 +1892,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "23-4",
@@ -1794,7 +1907,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "23-5",
@@ -1808,7 +1922,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1830,7 +1945,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "24-2",
@@ -1844,7 +1960,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "24-3",
@@ -1858,7 +1975,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "24-4",
@@ -1872,7 +1990,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "24-5",
@@ -1886,7 +2005,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1908,7 +2028,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "25-2",
@@ -1922,7 +2043,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "25-3",
@@ -1936,7 +2058,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "25-4",
@@ -1950,7 +2073,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "25-5",
@@ -1964,7 +2088,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -1986,7 +2111,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "26-2",
@@ -2000,7 +2126,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "26-3",
@@ -2014,7 +2141,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "26-4",
@@ -2028,7 +2156,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "26-5",
@@ -2042,7 +2171,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2064,7 +2194,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "27-2",
@@ -2078,7 +2209,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "27-3",
@@ -2092,7 +2224,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "27-4",
@@ -2106,7 +2239,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "27-5",
@@ -2120,7 +2254,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2142,7 +2277,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "28-2",
@@ -2156,7 +2292,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "28-3",
@@ -2170,7 +2307,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "28-4",
@@ -2184,7 +2322,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "28-5",
@@ -2198,7 +2337,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2220,7 +2360,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "29-2",
@@ -2234,7 +2375,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "29-3",
@@ -2248,7 +2390,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "29-4",
@@ -2262,7 +2405,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "29-5",
@@ -2276,7 +2420,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2298,7 +2443,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "30-2",
@@ -2312,7 +2458,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "30-3",
@@ -2326,7 +2473,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "30-4",
@@ -2340,7 +2488,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "30-5",
@@ -2354,7 +2503,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2376,7 +2526,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "31-2",
@@ -2390,7 +2541,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "31-3",
@@ -2404,7 +2556,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "31-4",
@@ -2418,7 +2571,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "31-5",
@@ -2432,7 +2586,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2454,7 +2609,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "32-2",
@@ -2468,7 +2624,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "32-3",
@@ -2482,7 +2639,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "32-4",
@@ -2496,7 +2654,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "32-5",
@@ -2510,7 +2669,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2532,7 +2692,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "33-2",
@@ -2546,7 +2707,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "33-3",
@@ -2560,7 +2722,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "33-4",
@@ -2574,7 +2737,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "33-5",
@@ -2588,7 +2752,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2610,7 +2775,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "34-2",
@@ -2624,7 +2790,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "34-3",
@@ -2638,7 +2805,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "34-4",
@@ -2652,7 +2820,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "34-5",
@@ -2666,7 +2835,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2688,7 +2858,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "35-2",
@@ -2702,7 +2873,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "35-3",
@@ -2716,7 +2888,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "35-4",
@@ -2730,7 +2903,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "35-5",
@@ -2744,7 +2918,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2766,7 +2941,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "36-2",
@@ -2780,7 +2956,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "36-3",
@@ -2794,7 +2971,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "36-4",
@@ -2808,7 +2986,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "36-5",
@@ -2822,7 +3001,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2844,7 +3024,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "37-2",
@@ -2858,7 +3039,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "37-3",
@@ -2872,7 +3054,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "37-4",
@@ -2886,7 +3069,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "37-5",
@@ -2900,7 +3084,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -2922,7 +3107,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "38-2",
@@ -2936,7 +3122,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "38-3",
@@ -2950,7 +3137,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "38-4",
@@ -2964,7 +3152,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "38-5",
@@ -2978,7 +3167,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3000,7 +3190,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "39-2",
@@ -3014,7 +3205,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "39-3",
@@ -3028,7 +3220,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "39-4",
@@ -3042,7 +3235,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "39-5",
@@ -3056,7 +3250,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3078,7 +3273,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "40-2",
@@ -3092,7 +3288,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "40-3",
@@ -3106,7 +3303,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "40-4",
@@ -3120,7 +3318,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "40-5",
@@ -3134,7 +3333,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3156,7 +3356,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "41-2",
@@ -3170,7 +3371,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "41-3",
@@ -3184,7 +3386,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "41-4",
@@ -3198,7 +3401,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "41-5",
@@ -3212,7 +3416,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3234,7 +3439,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "42-2",
@@ -3248,7 +3454,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "42-3",
@@ -3262,7 +3469,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "42-4",
@@ -3276,7 +3484,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "42-5",
@@ -3290,7 +3499,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3312,7 +3522,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "43-2",
@@ -3326,7 +3537,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "43-3",
@@ -3340,7 +3552,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "43-4",
@@ -3354,7 +3567,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "43-5",
@@ -3368,7 +3582,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3390,7 +3605,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "44-2",
@@ -3404,7 +3620,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "44-3",
@@ -3418,7 +3635,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "44-4",
@@ -3432,7 +3650,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "44-5",
@@ -3446,7 +3665,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3468,7 +3688,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "45-2",
@@ -3482,7 +3703,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "45-3",
@@ -3496,7 +3718,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "45-4",
@@ -3510,7 +3733,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "45-5",
@@ -3524,7 +3748,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3546,7 +3771,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "46-2",
@@ -3560,7 +3786,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "46-3",
@@ -3574,7 +3801,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "46-4",
@@ -3588,7 +3816,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "46-5",
@@ -3602,7 +3831,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     },
@@ -3624,7 +3854,8 @@
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
-          }
+          },
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
         },
         {
           "id": "47-2",
@@ -3638,7 +3869,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
-          }
+          },
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
         },
         {
           "id": "47-3",
@@ -3652,7 +3884,8 @@
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
-          }
+          },
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
         },
         {
           "id": "47-4",
@@ -3666,7 +3899,8 @@
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
-          }
+          },
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
         },
         {
           "id": "47-5",
@@ -3680,7 +3914,8 @@
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
-          }
+          },
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
         }
       ]
     }
@@ -3696,5 +3931,6 @@
     "九州・沖縄地方"
   ],
   "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。 食べ物・特産カテゴリの全47項目には農林水産省「うちの郷土料理」の検索ページを参考リンクとして設定。各料理の掲載有無は個別確認が必要。 自然・名所・文化・工芸カテゴリの参考リンクは分野別の公的資料検索先。リンク先が各項目そのものを直接解説しているとは限らない。",
-  "scope": "全国47都道府県"
+  "scope": "全国47都道府県",
+  "learningGuide": "写真や説明を手がかりに、問いを立てて資料で確かめ、自分の住む地域や他の都道府県と比べて考える。"
 }
