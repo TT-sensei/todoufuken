@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1468,14 +1468,24 @@
           "category": "自然・風景",
           "description": "蔵王では、冬に樹氷と呼ばれる雪と氷の造形が見られます。強い風や気温など、自然条件がどのように樹氷をつくるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Zao juhyo.jpg",
+            "author": "Toto-artist",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Zao_juhyo.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "山形県の蔵王温泉スキー場周辺に見られる樹氷"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "蔵王の樹氷",
             "url": "https://www.kankou.yamagata.yamagata.jp/zao/jyuhyo/",
             "note": "樹氷の見ごろ・観賞時の注意"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zao%20juhyo.jpg"
         },
         {
           "id": "06-2",
@@ -1709,14 +1719,24 @@
           "category": "名所・建物",
           "description": "清津峡は新潟県十日町市にある峡谷で、柱状節理の岩壁が見どころです。川の流れが長い時間をかけてつくった地形を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Kiyotsu Gorge 2020-08-09 (1) sa.jpg",
+            "author": "Araisyohei",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kiyotsu_Gorge_2020-08-09_(1)_sa.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・ライセンスを確認済み",
+            "description": "新潟県十日町市の清津峡"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiyotsu%20Gorge%202020-08-09%20(1)%20sa.jpg"
         },
         {
           "id": "15-3",
