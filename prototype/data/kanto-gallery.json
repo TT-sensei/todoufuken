@@ -53,7 +53,12 @@
           "description": "茨城県では、さつまいもを加工したほしいもの生産がさかんです。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "08-4",
@@ -133,7 +138,12 @@
           "description": "宇都宮市で親しまれている食文化の一つ。市内には餃子を提供する店が多くあります。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "09-4",
@@ -195,7 +205,12 @@
           "description": "群馬県ではこんにゃくいもの栽培がさかんで、こんにゃくづくりにつながっています。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "10-4",
@@ -275,7 +290,12 @@
           "description": "埼玉県西部を中心につくられるお茶。茶葉を育て、加工する仕事が行われています。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "11-4",
@@ -364,6 +384,11 @@
             "changes": "未加工（原画像を表示）",
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "多古町で落花生を乾燥させるぼっち"
+          },
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           }
         },
         {
@@ -435,7 +460,12 @@
           "description": "東京湾でとれた魚介などを生かして発展してきた食文化です。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "13-4",
@@ -506,7 +536,12 @@
           "description": "三浦半島で栽培される大根。地域の気候や農業と結び付いた特産品です。",
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "農林水産省「うちの郷土料理」",
+            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
+            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+          }
         },
         {
           "id": "14-4",
