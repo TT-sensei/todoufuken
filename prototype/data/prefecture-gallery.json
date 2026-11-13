@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2064,14 +2064,24 @@
           "category": "名所・建物",
           "description": "三保松原は静岡市の海岸に続く松林で、富士山を望む景勝地です。富士山と海、松林が一体となった景観が文化や芸術に与えた影響を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Miho no Matsubara 01.jpg",
+            "author": "Σ64",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_01.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "静岡県静岡市清水区の三保の松原"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Miho%20no%20Matsubara%2001.jpg"
         },
         {
           "id": "22-3",
@@ -2602,14 +2612,24 @@
           "category": "名所・建物",
           "description": "姫路城は兵庫県姫路市にある国宝・世界文化遺産の城です。白い外壁や複雑な通路、敵を防ぐための工夫に注目してみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Himeji castle hyogo jpn.jpg",
+            "author": "Goony663",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Himeji_castle_hyogo_jpn.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "兵庫県姫路市の姫路城"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Himeji%20castle%20hyogo%20jpn.jpg"
         },
         {
           "id": "28-3",
@@ -3037,14 +3057,24 @@
           "category": "名所・建物",
           "description": "岡山城は岡山市にある城で、黒い外観から「烏城」とも呼ばれます。旭川沿いに築かれた城の位置や、城下町の発展を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Okayama Castle (Japan).jpg",
+            "author": "Lynn0927",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Okayama_Castle_(Japan).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "岡山県岡山市の岡山城"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Okayama%20Castle%20(Japan).jpg"
         },
         {
           "id": "33-3",
@@ -3198,14 +3228,24 @@
           "category": "自然・風景",
           "description": "角島大橋は山口県下関市の海に架かる橋で、周囲の青い海と橋の景観で知られます。島と本州を結ぶ交通の役割を考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tsunoshima bridge 1.JPG",
+            "author": "Nissy-KITAQ",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tsunoshima_bridge_1.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "山口県下関市の角島大橋"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsunoshima%20bridge%201.JPG"
         },
         {
           "id": "35-2",
@@ -3668,14 +3708,24 @@
           "category": "名所・建物",
           "description": "太宰府天満宮は福岡県太宰府市にある神社で、菅原道真をまつります。学問の神様として信仰されるようになった歴史や、太宰府の古代の役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "DazaifuTenmangu.jpg",
+            "author": "Fg2",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:DazaifuTenmangu.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "福岡県太宰府市の太宰府天満宮"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DazaifuTenmangu.jpg"
         },
         {
           "id": "40-3",
@@ -3751,14 +3801,24 @@
           "category": "名所・建物",
           "description": "吉野ヶ里遺跡は佐賀県にある弥生時代の大規模な環濠集落跡です。建物や堀、出土品から、当時の人々の暮らしや社会の様子を考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Yoshinogari.jpg",
+            "author": "STA3816",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yoshinogari.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "佐賀県の吉野ヶ里遺跡に復元された物見櫓と竪穴建物"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoshinogari.jpg"
         },
         {
           "id": "41-3",
