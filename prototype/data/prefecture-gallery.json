@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -45,14 +45,23 @@
           "category": "名所・建物",
           "description": "偕楽園は水戸藩主・徳川斉昭によって造られた庭園で、日本三名園の一つです。梅の名所として知られ、園内の建物や竹林などから、庭園に込められた考えを調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kairakuen Mito.jpg",
+            "author": "Lukas from Munich, Germany",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kairakuen_Mito.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "水戸市の偕楽園の庭園風景"
+          },
           "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
           "reference": {
             "title": "水戸市公式 偕楽園のご案内",
             "url": "https://www.city.mito.lg.jp/page/6075.html",
             "note": "徳川斉昭による造園、梅の品種や園内の見どころ"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kairakuen%20Mito.jpg"
         },
         {
           "id": "08-3",
@@ -200,14 +209,23 @@
           "category": "産業・工芸",
           "description": "益子焼は、栃木県益子町を中心に作られる陶器です。江戸時代の終わりごろに始まり、日常の器から美術作品まで幅広く作られています。隣接する茨城県の笠間焼との歴史的なつながりも調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "MashikoDaiseiGama202410.jpg",
+            "author": "FukuroWaraw",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:MashikoDaiseiGama202410.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "益子町にある益子焼の窯元・大誠窯の外観"
+          },
           "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
           "reference": {
             "title": "文化庁 日本遺産「かさましこ」",
             "url": "https://www.japan-heritage.bunka.go.jp/ja/stories/story087/",
             "note": "笠間焼と益子焼の歴史・地域のつながり"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MashikoDaiseiGama202410.jpg"
         }
       ],
       "region": "関東地方"
@@ -277,14 +295,23 @@
           "category": "文化・まつり",
           "description": "高崎だるまは、群馬県高崎市周辺で作られる縁起だるまです。眉は鶴、ひげは亀を表すとされる顔の特徴や、だるまづくりの工程を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Small collection of Daruma dolls - Takasaki - August 2014.jpg",
+            "author": "nesnad",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Small_collection_of_Daruma_dolls_-_Takasaki_-_August_2014.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "高崎で撮影されただるまのコレクション"
+          },
           "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
           "reference": {
             "title": "高崎市公式 高崎だるまについて",
             "url": "https://www.city.takasaki.gunma.jp/site/sightseeing/3052.html",
             "note": "高崎だるまの特徴や願い、作り方に関する情報"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Small%20collection%20of%20Daruma%20dolls%20-%20Takasaki%20-%20August%202014.jpg"
         },
         {
           "id": "10-5",
@@ -506,14 +533,23 @@
           "category": "文化・まつり",
           "description": "佐原の大祭は、千葉県香取市佐原で夏と秋に行われる祭りです。約300年の伝統があり、彫刻や大人形で飾られた山車が、歴史ある町並みを佐原囃子に合わせて進みます。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Sawara festival in Autumn,Katori-city,Japan.jpg",
+            "author": "katorisi",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Sawara_festival_in_Autumn,Katori-city,Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "香取市・佐原の大祭の秋祭りで山車がすれ違う様子"
+          },
           "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
           "reference": {
             "title": "香取市公式 佐原の大祭",
             "url": "https://www.city.katori.lg.jp/sightseeing/matsuri/index.html",
             "note": "夏祭り・秋祭りの歴史、山車や佐原囃子について紹介"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sawara%20festival%20in%20Autumn%2CKatori-city%2CJapan.jpg"
         },
         {
           "id": "12-5",
@@ -782,14 +818,23 @@
           "category": "名所・建物",
           "description": "函館山は北海道函館市にある山で、山頂からは市街地と港を一望できます。夜景が美しい理由を、地形や町の広がりと結び付けて考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Aerial view of Hakodate at night.jpg",
+            "author": "Fumikas Sagisavas",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Hakodate_at_night.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "函館山周辺から見た函館市街の夜景"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Hakodate%20at%20night.jpg"
         },
         {
           "id": "01-3",
