@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#176b87">
+  <meta name="description" content="写真を見て都道府県を当てる写真クエストと、47都道府県の写真図鑑。">
+  <title>写真で発見！日本の47都道府県｜都道府県マスター</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><span class="brand-mark">日</span><span><small>都道府県マスター</small><strong>写真で発見！日本の47都道府県</strong></span></a>
+    <a class="back-link" href="../index.html">本編へ戻る</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">JAPAN PHOTO QUEST & PREFECTURE GUIDE</p>
+        <h1>写真から、<br><em>日本を発見しよう。</em></h1>
+        <p>景色や建物、食べ物、祭り、伝統工芸。写真と説明を結び付けながら、47都道府県の特色を見つけよう。</p>
+        <div class="hero-meta"><span>47都道府県</span><span>5カテゴリ</span><span id="photoCoverage">写真を集計中</span></div>
+        <div id="photoProgress" class="photo-progress"></div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><div class="sun"></div><div class="mountain m1"></div><div class="mountain m2"></div><div class="sea"></div><span>DISCOVER JAPAN</span></div>
+    </section>
+
+    <nav class="view-tabs" aria-label="学習方法">
+      <button type="button" class="view-tab" data-view="quest" aria-pressed="true"><span>01</span><strong>写真クエスト</strong><small>写真を見て県名を当てよう</small></button>
+      <button type="button" class="view-tab" data-view="guide" aria-pressed="false"><span>02</span><strong>都道府県図鑑</strong><small>写真と説明をじっくり読もう</small></button>
+    </nav>
+
+    <section id="questView" class="view quest-view">
+      <div class="section-heading"><div><p class="eyebrow">PHOTO QUEST</p><h2>写真を見て、どこの都道府県か考えよう</h2><p class="section-lead">正解したあとに、写真の名前や地域の特色をくわしく読めます。</p></div></div>
+      <div id="questSetup" class="quest-setup">
+        <div class="setup-field"><label for="questRegion">出題する地方</label><select id="questRegion"><option value="全国">全国</option></select></div>
+        <div class="setup-field"><label for="questCount">問題数</label><select id="questCount"><option value="10">10問</option><option value="all">選んだ範囲の写真すべて</option></select></div>
+        <div class="setup-note"><strong id="questAvailable">写真を読み込んでいます</strong><span>写真が登録されている項目から出題します。</span></div>
+        <button id="startQuest" class="primary-button" type="button">クエストを始める <span>›</span></button>
+      </div>
+
+      <div id="questPlay" class="quest-play" hidden>
+        <div class="quest-status"><span id="questRegionLabel">全国</span><div class="progress-track"><i id="questProgress"></i></div><strong id="questProgressText">1 / 10</strong></div>
+        <div class="question-heading"><p class="eyebrow" id="questionCategory">自然・風景</p><h2>この写真があるのは、どの都道府県？</h2></div>
+        <article class="question-photo-card">
+          <div class="question-photo-wrap"><img id="questionPhoto" class="question-photo" alt="" fetchpriority="high"></div>
+          <p id="questionPhotoCaption" class="photo-caption"></p>
+        </article>
+        <div id="choiceGrid" class="choice-grid" aria-label="都道府県の選択肢"></div>
+        <section id="answerReveal" class="answer-reveal" hidden aria-live="polite">
+          <div class="answer-result"><strong id="answerResultTitle">正解！</strong><span id="answerResultText"></span></div>
+          <div id="answerExplanation" class="answer-explanation"></div>
+          <button id="nextQuestion" class="primary-button" type="button">次の問題へ <span>›</span></button>
+        </section>
+      </div>
+
+      <div id="questResult" class="quest-result" hidden>
+        <p class="eyebrow">QUEST COMPLETE</p><h2>クエストクリア！</h2>
+        <p class="result-score"><strong id="questScore">0</strong><span> / <b id="questTotal">10</b> 問を正解</span></p>
+        <p id="questResultMessage"></p>
+        <div class="result-actions"><button id="retryQuest" class="primary-button" type="button">もう一度挑戦</button><button id="toGuide" class="secondary-button" type="button">都道府県図鑑を見る</button></div>
+      </div>
+    </section>
+
+    <section id="guideView" class="view guide-view" hidden>
+      <div class="section-heading"><div><p class="eyebrow">PREFECTURE GUIDE</p><h2>47都道府県の写真図鑑</h2><p class="section-lead">県ごとに、自然・名所・食・文化・産業を写真と説明で見てみよう。</p></div></div>
+      <div class="guide-tools"><label for="guideSearch">全国の図鑑を検索</label><input id="guideSearch" type="search" placeholder="例：りんご、城、祭り、焼き物…" autocomplete="off"><p id="searchStatus" aria-live="polite">県名・項目名・説明から探せます。</p></div>
+      <nav id="prefList" class="region-list" aria-label="地方から都道府県を選ぶ"></nav>
+      <section id="detail" class="detail" aria-live="polite"></section>
+    </section>
+
+    <footer><span>都道府県マスター / 写真クエスト・都道府県図鑑</span><span>図鑑の閲覧や写真クエストは既存のMASTER条件に影響しません。</span></footer>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
