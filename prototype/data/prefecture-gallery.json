@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -621,14 +621,24 @@
           "category": "産業・工芸",
           "description": "房州うちわは、千葉県南部で受け継がれてきた竹製のうちわです。竹の丸みを生かした丸い持ち手と、細く割いた竹を編んで作る骨組みが特徴です。多くの工程を手作業で仕上げる技を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
+          "photo": {
+            "file": "Boushuu uchiwa.jpg",
+            "author": "zenkota (talk)",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Boushuu_uchiwa.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "千葉県産の伝統工芸品、房州うちわ"
+          },
           "photoStatus": "未選定",
           "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
           "reference": {
             "title": "房州うちわ公式サイト",
             "url": "https://www.bosyu-uchiwa.com/",
             "note": "房州うちわの特徴や製造工程、歴史"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boushuu_uchiwa.jpg"
         }
       ],
       "region": "関東地方"
