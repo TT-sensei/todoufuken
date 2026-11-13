@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2160,14 +2160,24 @@
           "category": "食べ物・特産",
           "description": "越前おろしそばは、福井県で親しまれているそば料理です。冷たいそばに大根おろしを添える食べ方や、地域でそばが食べ継がれてきた背景を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Echozen Oroshi Soba.jpg",
+            "author": "藤谷良秀",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Echozen%20Oroshi%20Soba.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで越前おろしそば・撮影日・作者・CC BY-SA 4.0を確認済み。越前そばカテゴリと福井県坂井市の地理カテゴリを確認",
+            "description": "福井県の郷土料理・越前おろしそば。そば打ち体験で打ったそばを調理したもの（2017年3月25日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Echozen%20Oroshi%20Soba.jpg"
         },
         {
           "id": "18-4",
@@ -2531,14 +2541,24 @@
           "category": "文化・まつり",
           "description": "高山祭は、岐阜県高山市で春と秋に行われる祭りです。豪華な屋台やからくり人形など、飛騨の木工技術や町人文化との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "JP-takayama-festival-floats.jpg",
+            "author": "Balou46",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:JP-takayama-festival-floats.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで高山祭を主題とする祭屋台・作者Balou46・CC BY-SA 4.0を確認済み。高山祭の祭屋台を示す写真として採用",
+            "description": "岐阜県高山市の高山祭で使われる祭屋台。秋祭の収穫祭に関わる屋台の写真（2008年8月1日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JP-takayama-festival-floats.jpg"
         },
         {
           "id": "21-5",
@@ -2644,14 +2664,24 @@
           "category": "文化・まつり",
           "description": "浜松まつりは、静岡県浜松市で行われる祭りで、大凧を揚げる行事や御殿屋台の引き回しが知られます。子どもの誕生を祝う風習などを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hamamatsu festival a.JPG",
+            "author": "Jfr0595",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hamamatsu%20festival%20a.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページでHamamatsu Kite Festivalの主題情報・作者Jfr0595・CC BY-SA 3.0を確認済み",
+            "description": "浜松まつりの凧揚げ行事の風景（2012年撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamamatsu%20festival%20a.JPG"
         },
         {
           "id": "22-5",
@@ -2722,14 +2752,24 @@
           "category": "食べ物・特産",
           "description": "みそかつは、八丁味噌などの豆みそを使った濃厚なたれをかける名古屋めしの一つです。愛知県の豆みそ文化と料理の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Miso katsu, tsukemono and miso soup by shibainu in Nagoya.jpg",
+            "author": "shibainu",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Miso%20katsu%2C%20tsukemono%20and%20miso%20soup%20by%20shibainu%20in%20Nagoya.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで名古屋の味噌カツ定食・撮影日・作者shibainu・CC BY 2.0を確認済み。Flickr由来のライセンス確認記録あり",
+            "description": "愛知県名古屋市の味噌カツ定食（2006年6月21日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Miso%20katsu%2C%20tsukemono%20and%20miso%20soup%20by%20shibainu%20in%20Nagoya.jpg"
         },
         {
           "id": "23-4",
@@ -3217,14 +3257,24 @@
           "category": "文化・まつり",
           "description": "天神祭は、大阪天満宮の祭礼で、船渡御や奉納花火などが行われます。川とともに発展した大阪の町や、祭りを支える人々の役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tenjinmatsuri.JPG",
+            "author": "Midori",
+            "license": "CC BY-SA 2.1 JP",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tenjinmatsuri.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで大阪の天神祭・撮影日・作者Midori・CC BY-SA 2.1 JPを確認済み。GFDL・CC BY-SA 3.0等との複数ライセンスのうちCC BY-SA 2.1 JPを選択",
+            "description": "大阪市の天神祭で行われたどんどこ船の船渡御（2007年7月25日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenjinmatsuri.JPG"
         },
         {
           "id": "27-5",
