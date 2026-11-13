@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1048,14 +1048,24 @@
           "category": "食べ物・特産",
           "description": "青森県はりんごの生産がさかんな地域です。冷涼な気候や昼夜の気温差など、栽培に適した自然条件に注目してみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Rosaceae Malus pumila Malus pumila Var domestica Apples Fuji.jpg",
+            "author": "Aomorikuma",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Rosaceae%20Malus%20pumila%20Malus%20pumila%20Var%20domestica%20Apples%20Fuji.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "青森県のりんご園で収穫期を迎えたふじ（サンふじ）の実"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "青森県の食べ物",
             "url": "https://www.pref.aomori.lg.jp/kids/04_food.html",
             "note": "青森りんごなど県の食べ物を紹介"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosaceae%20Malus%20pumila%20Malus%20pumila%20Var%20domestica%20Apples%20Fuji.jpg"
         },
         {
           "id": "02-4",
@@ -1824,14 +1834,24 @@
           "category": "食べ物・特産",
           "description": "新潟県は、越後平野を中心に米づくりがさかんな地域です。山々から流れる雪どけ水や肥沃な土、稲の生育に適した気候を生かし、コシヒカリなどの米が作られています。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Rice Field Terrace, Kitaimogawa, Sanjō, Niigata, Japan, September 2022.jpg",
+            "author": "Tail furry",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Rice%20Field%20Terrace%2C%20Kitaimogawa%2C%20Sanj%C5%8D%2C%20Niigata%2C%20Japan%2C%20September%202022.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "新潟県三条市・北五百川の棚田。米づくりを支える田の風景"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20Field%20Terrace%2C%20Kitaimogawa%2C%20Sanj%C5%8D%2C%20Niigata%2C%20Japan%2C%20September%202022.jpg"
         },
         {
           "id": "15-4",
@@ -2812,14 +2832,24 @@
           "category": "産業・工芸",
           "description": "瀬戸焼は愛知県瀬戸市を中心に作られる陶磁器です。良質な粘土や釉薬を生かした器づくりと、長い歴史をもつ窯業の町の様子を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Found MUJI Setoyaki (6910176253).jpg",
+            "author": "uemura",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Found%20MUJI%20Setoyaki%20(6910176253).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "瀬戸焼（織部釉）の蕎麦猪口。器の形や釉薬の表情が分かる作品"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Found%20MUJI%20Setoyaki%20(6910176253).jpg"
         }
       ]
     },
@@ -3292,14 +3322,24 @@
           "category": "産業・工芸",
           "description": "堺打刃物は大阪府堺市で作られる刃物です。鍛造や刃付けなどの工程、料理人にも使われる包丁の切れ味を支える職人の技を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Jikko Knives, Sakai (49070649718).jpg",
+            "author": "Stephan Ridgway",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Jikko%20Knives%2C%20Sakai%20(49070649718).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "堺市の實光刃物本店。堺打刃物を扱う刃物店の外観"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jikko%20Knives%2C%20Sakai%20(49070649718).jpg"
         }
       ]
     },
@@ -4031,14 +4071,24 @@
           "category": "産業・工芸",
           "description": "熊野筆は広島県熊野町で作られる筆です。毛の選び方や穂先を整える職人の技術、書道用・化粧用など用途の広がりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "巨大熊野筆01.jpg",
+            "author": "Taisyo",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%B7%A8%E5%A4%A7%E7%86%8A%E9%87%8E%E7%AD%8601.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "広島県熊野町の巨大熊野筆。熊野筆の産地を象徴する筆"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%B7%A8%E5%A4%A7%E7%86%8A%E9%87%8E%E7%AD%8601.jpg"
         }
       ]
     },
@@ -5131,14 +5181,24 @@
           "category": "産業・工芸",
           "description": "小鹿田焼は大分県日田市の皿山地区で作られる陶器です。唐臼で土を砕く音や、飛び鉋などの模様を生む技法、地域で守られる共同作業を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Ondayoshie.JPG",
+            "author": "fitm",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ondayoshie.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "大分県日田市の小鹿田焼の大皿"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ondayoshie.JPG"
         }
       ]
     },
@@ -5346,14 +5406,24 @@
           "category": "産業・工芸",
           "description": "薩摩焼は鹿児島県で作られる陶器です。白もん・黒もんと呼ばれる種類や、島津氏の時代から続く焼き物の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Kurosatsuma.JPG",
+            "author": "fitm",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kurosatsuma.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "黒薩摩の黒ヂョカ。鹿児島に伝わる薩摩焼の器"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kurosatsuma.JPG"
         }
       ]
     },
