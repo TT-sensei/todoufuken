@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "region": "関東",
   "categories": [
     "自然・風景",
@@ -11,7 +11,7 @@
   "photoPolicy": {
     "source": "Wikimedia Commons",
     "localCopyStatus": "未配置",
-    "note": "写真候補はCommons原ページの作者・ライセンスを確認して登録。現状はCommonsのSpecial:FilePathを参照する確認用表示であり、ローカルWebP配置・オフライン対応は未完了。"
+    "note": "関東の既存写真候補16点以外は未選定。全国展開では各写真の作者・ライセンスを確認し、ローカルWebP配置を行う。説明文も自治体・公的機関の情報と照合する。"
   },
   "prefectures": [
     {
@@ -82,7 +82,8 @@
             "description": "笠間焼の作品"
           }
         }
-      ]
+      ],
+      "region": "関東地方"
     },
     {
       "code": "09",
@@ -152,7 +153,8 @@
           "photo": null,
           "photoStatus": "未選定"
         }
-      ]
+      ],
+      "region": "関東地方"
     },
     {
       "code": "10",
@@ -222,7 +224,8 @@
             "description": "明治時代の富岡製糸場"
           }
         }
-      ]
+      ],
+      "region": "関東地方"
     },
     {
       "code": "11",
@@ -301,7 +304,8 @@
           "photo": null,
           "photoStatus": "未選定"
         }
-      ]
+      ],
+      "region": "関東地方"
     },
     {
       "code": "12",
@@ -380,7 +384,8 @@
           "photo": null,
           "photoStatus": "未選定"
         }
-      ]
+      ],
+      "region": "関東地方"
     },
     {
       "code": "13",
@@ -450,7 +455,8 @@
           "photo": null,
           "photoStatus": "未選定"
         }
-      ]
+      ],
+      "region": "関東地方"
     },
     {
       "code": "14",
@@ -520,7 +526,2138 @@
           "photo": null,
           "photoStatus": "未選定"
         }
+      ],
+      "region": "関東地方"
+    },
+    {
+      "code": "01",
+      "name": "北海道",
+      "capital": "札幌市",
+      "region": "北海道地方",
+      "items": [
+        {
+          "id": "01-1",
+          "name": "知床",
+          "category": "自然・風景",
+          "description": "知床などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "01-2",
+          "name": "函館山",
+          "category": "名所・建物",
+          "description": "函館山は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "01-3",
+          "name": "ジンギスカン",
+          "category": "食べ物・特産",
+          "description": "ジンギスカンは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "01-4",
+          "name": "さっぽろ雪まつり",
+          "category": "文化・まつり",
+          "description": "さっぽろ雪まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "01-5",
+          "name": "アイヌ文化",
+          "category": "産業・工芸",
+          "description": "アイヌ文化は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "02",
+      "name": "青森県",
+      "capital": "青森市",
+      "region": "東北地方",
+      "items": [
+        {
+          "id": "02-1",
+          "name": "白神山地",
+          "category": "自然・風景",
+          "description": "白神山地などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "02-2",
+          "name": "弘前城",
+          "category": "名所・建物",
+          "description": "弘前城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "02-3",
+          "name": "りんご",
+          "category": "食べ物・特産",
+          "description": "りんごは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "02-4",
+          "name": "ねぶた祭",
+          "category": "文化・まつり",
+          "description": "ねぶた祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "02-5",
+          "name": "津軽塗",
+          "category": "産業・工芸",
+          "description": "津軽塗は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "03",
+      "name": "岩手県",
+      "capital": "盛岡市",
+      "region": "東北地方",
+      "items": [
+        {
+          "id": "03-1",
+          "name": "浄土ヶ浜",
+          "category": "自然・風景",
+          "description": "浄土ヶ浜などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "03-2",
+          "name": "中尊寺",
+          "category": "名所・建物",
+          "description": "中尊寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "03-3",
+          "name": "わんこそば",
+          "category": "食べ物・特産",
+          "description": "わんこそばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "03-4",
+          "name": "チャグチャグ馬コ",
+          "category": "文化・まつり",
+          "description": "チャグチャグ馬コは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "03-5",
+          "name": "南部鉄器",
+          "category": "産業・工芸",
+          "description": "南部鉄器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "04",
+      "name": "宮城県",
+      "capital": "仙台市",
+      "region": "東北地方",
+      "items": [
+        {
+          "id": "04-1",
+          "name": "松島",
+          "category": "自然・風景",
+          "description": "松島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "04-2",
+          "name": "仙台城跡",
+          "category": "名所・建物",
+          "description": "仙台城跡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "04-3",
+          "name": "牛たん",
+          "category": "食べ物・特産",
+          "description": "牛たんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "04-4",
+          "name": "仙台七夕まつり",
+          "category": "文化・まつり",
+          "description": "仙台七夕まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "04-5",
+          "name": "こけし",
+          "category": "産業・工芸",
+          "description": "こけしは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "05",
+      "name": "秋田県",
+      "capital": "秋田市",
+      "region": "東北地方",
+      "items": [
+        {
+          "id": "05-1",
+          "name": "田沢湖",
+          "category": "自然・風景",
+          "description": "田沢湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "05-2",
+          "name": "角館の武家屋敷",
+          "category": "名所・建物",
+          "description": "角館の武家屋敷は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "05-3",
+          "name": "きりたんぽ",
+          "category": "食べ物・特産",
+          "description": "きりたんぽは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "05-4",
+          "name": "なまはげ",
+          "category": "文化・まつり",
+          "description": "なまはげは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "05-5",
+          "name": "川連漆器",
+          "category": "産業・工芸",
+          "description": "川連漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "06",
+      "name": "山形県",
+      "capital": "山形市",
+      "region": "東北地方",
+      "items": [
+        {
+          "id": "06-1",
+          "name": "蔵王の樹氷",
+          "category": "自然・風景",
+          "description": "蔵王の樹氷などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "06-2",
+          "name": "山寺",
+          "category": "名所・建物",
+          "description": "山寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "06-3",
+          "name": "さくらんぼ",
+          "category": "食べ物・特産",
+          "description": "さくらんぼは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "06-4",
+          "name": "花笠まつり",
+          "category": "文化・まつり",
+          "description": "花笠まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "06-5",
+          "name": "将棋駒",
+          "category": "産業・工芸",
+          "description": "将棋駒は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "07",
+      "name": "福島県",
+      "capital": "福島市",
+      "region": "東北地方",
+      "items": [
+        {
+          "id": "07-1",
+          "name": "磐梯山",
+          "category": "自然・風景",
+          "description": "磐梯山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "07-2",
+          "name": "鶴ヶ城",
+          "category": "名所・建物",
+          "description": "鶴ヶ城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "07-3",
+          "name": "喜多方ラーメン",
+          "category": "食べ物・特産",
+          "description": "喜多方ラーメンは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "07-4",
+          "name": "相馬野馬追",
+          "category": "文化・まつり",
+          "description": "相馬野馬追は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "07-5",
+          "name": "会津漆器",
+          "category": "産業・工芸",
+          "description": "会津漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "15",
+      "name": "新潟県",
+      "capital": "新潟市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "15-1",
+          "name": "佐渡島",
+          "category": "自然・風景",
+          "description": "佐渡島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "15-2",
+          "name": "清津峡",
+          "category": "名所・建物",
+          "description": "清津峡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "15-3",
+          "name": "米",
+          "category": "食べ物・特産",
+          "description": "米は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "15-4",
+          "name": "長岡まつり大花火大会",
+          "category": "文化・まつり",
+          "description": "長岡まつり大花火大会は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "15-5",
+          "name": "小千谷縮",
+          "category": "産業・工芸",
+          "description": "小千谷縮は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "16",
+      "name": "富山県",
+      "capital": "富山市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "16-1",
+          "name": "立山連峰",
+          "category": "自然・風景",
+          "description": "立山連峰などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "16-2",
+          "name": "黒部ダム",
+          "category": "名所・建物",
+          "description": "黒部ダムは、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "16-3",
+          "name": "ます寿司",
+          "category": "食べ物・特産",
+          "description": "ます寿司は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "16-4",
+          "name": "おわら風の盆",
+          "category": "文化・まつり",
+          "description": "おわら風の盆は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "16-5",
+          "name": "高岡銅器",
+          "category": "産業・工芸",
+          "description": "高岡銅器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "17",
+      "name": "石川県",
+      "capital": "金沢市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "17-1",
+          "name": "白米千枚田",
+          "category": "自然・風景",
+          "description": "白米千枚田などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "17-2",
+          "name": "兼六園",
+          "category": "名所・建物",
+          "description": "兼六園は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "17-3",
+          "name": "加賀料理",
+          "category": "食べ物・特産",
+          "description": "加賀料理は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "17-4",
+          "name": "金沢百万石まつり",
+          "category": "文化・まつり",
+          "description": "金沢百万石まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "17-5",
+          "name": "輪島塗",
+          "category": "産業・工芸",
+          "description": "輪島塗は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "18",
+      "name": "福井県",
+      "capital": "福井市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "18-1",
+          "name": "東尋坊",
+          "category": "自然・風景",
+          "description": "東尋坊などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "18-2",
+          "name": "福井県立恐竜博物館",
+          "category": "名所・建物",
+          "description": "福井県立恐竜博物館は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "18-3",
+          "name": "越前おろしそば",
+          "category": "食べ物・特産",
+          "description": "越前おろしそばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "18-4",
+          "name": "三国祭",
+          "category": "文化・まつり",
+          "description": "三国祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "18-5",
+          "name": "越前和紙",
+          "category": "産業・工芸",
+          "description": "越前和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "19",
+      "name": "山梨県",
+      "capital": "甲府市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "19-1",
+          "name": "富士山と河口湖",
+          "category": "自然・風景",
+          "description": "富士山と河口湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "19-2",
+          "name": "昇仙峡",
+          "category": "名所・建物",
+          "description": "昇仙峡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "19-3",
+          "name": "ぶどう・もも",
+          "category": "食べ物・特産",
+          "description": "ぶどう・ももは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "19-4",
+          "name": "信玄公祭り",
+          "category": "文化・まつり",
+          "description": "信玄公祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "19-5",
+          "name": "甲州印伝",
+          "category": "産業・工芸",
+          "description": "甲州印伝は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "20",
+      "name": "長野県",
+      "capital": "長野市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "20-1",
+          "name": "上高地",
+          "category": "自然・風景",
+          "description": "上高地などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "20-2",
+          "name": "松本城",
+          "category": "名所・建物",
+          "description": "松本城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "20-3",
+          "name": "信州そば",
+          "category": "食べ物・特産",
+          "description": "信州そばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "20-4",
+          "name": "御柱祭",
+          "category": "文化・まつり",
+          "description": "御柱祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "20-5",
+          "name": "木曽漆器",
+          "category": "産業・工芸",
+          "description": "木曽漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "21",
+      "name": "岐阜県",
+      "capital": "岐阜市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "21-1",
+          "name": "白川郷",
+          "category": "自然・風景",
+          "description": "白川郷などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "21-2",
+          "name": "岐阜城",
+          "category": "名所・建物",
+          "description": "岐阜城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "21-3",
+          "name": "飛騨牛",
+          "category": "食べ物・特産",
+          "description": "飛騨牛は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "21-4",
+          "name": "高山祭",
+          "category": "文化・まつり",
+          "description": "高山祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "21-5",
+          "name": "美濃和紙",
+          "category": "産業・工芸",
+          "description": "美濃和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "22",
+      "name": "静岡県",
+      "capital": "静岡市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "22-1",
+          "name": "富士山",
+          "category": "自然・風景",
+          "description": "富士山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "22-2",
+          "name": "三保松原",
+          "category": "名所・建物",
+          "description": "三保松原は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "22-3",
+          "name": "お茶",
+          "category": "食べ物・特産",
+          "description": "お茶は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "22-4",
+          "name": "浜松まつり",
+          "category": "文化・まつり",
+          "description": "浜松まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "22-5",
+          "name": "駿河竹千筋細工",
+          "category": "産業・工芸",
+          "description": "駿河竹千筋細工は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "23",
+      "name": "愛知県",
+      "capital": "名古屋市",
+      "region": "中部地方",
+      "items": [
+        {
+          "id": "23-1",
+          "name": "渥美半島",
+          "category": "自然・風景",
+          "description": "渥美半島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "23-2",
+          "name": "名古屋城",
+          "category": "名所・建物",
+          "description": "名古屋城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "23-3",
+          "name": "みそかつ",
+          "category": "食べ物・特産",
+          "description": "みそかつは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "23-4",
+          "name": "犬山祭",
+          "category": "文化・まつり",
+          "description": "犬山祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "23-5",
+          "name": "瀬戸焼",
+          "category": "産業・工芸",
+          "description": "瀬戸焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "24",
+      "name": "三重県",
+      "capital": "津市",
+      "region": "近畿地方",
+      "items": [
+        {
+          "id": "24-1",
+          "name": "英虞湾",
+          "category": "自然・風景",
+          "description": "英虞湾などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "24-2",
+          "name": "伊勢神宮",
+          "category": "名所・建物",
+          "description": "伊勢神宮は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "24-3",
+          "name": "伊勢うどん",
+          "category": "食べ物・特産",
+          "description": "伊勢うどんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "24-4",
+          "name": "上野天神祭",
+          "category": "文化・まつり",
+          "description": "上野天神祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "24-5",
+          "name": "伊賀くみひも",
+          "category": "産業・工芸",
+          "description": "伊賀くみひもは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "25",
+      "name": "滋賀県",
+      "capital": "大津市",
+      "region": "近畿地方",
+      "items": [
+        {
+          "id": "25-1",
+          "name": "琵琶湖",
+          "category": "自然・風景",
+          "description": "琵琶湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "25-2",
+          "name": "彦根城",
+          "category": "名所・建物",
+          "description": "彦根城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "25-3",
+          "name": "近江牛",
+          "category": "食べ物・特産",
+          "description": "近江牛は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "25-4",
+          "name": "大津祭",
+          "category": "文化・まつり",
+          "description": "大津祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "25-5",
+          "name": "信楽焼",
+          "category": "産業・工芸",
+          "description": "信楽焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "26",
+      "name": "京都府",
+      "capital": "京都市",
+      "region": "近畿地方",
+      "items": [
+        {
+          "id": "26-1",
+          "name": "天橋立",
+          "category": "自然・風景",
+          "description": "天橋立などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "26-2",
+          "name": "清水寺",
+          "category": "名所・建物",
+          "description": "清水寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "26-3",
+          "name": "京料理",
+          "category": "食べ物・特産",
+          "description": "京料理は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "26-4",
+          "name": "祇園祭",
+          "category": "文化・まつり",
+          "description": "祇園祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "26-5",
+          "name": "西陣織",
+          "category": "産業・工芸",
+          "description": "西陣織は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "27",
+      "name": "大阪府",
+      "capital": "大阪市",
+      "region": "近畿地方",
+      "items": [
+        {
+          "id": "27-1",
+          "name": "箕面の滝",
+          "category": "自然・風景",
+          "description": "箕面の滝などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "27-2",
+          "name": "大阪城",
+          "category": "名所・建物",
+          "description": "大阪城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "27-3",
+          "name": "たこ焼き",
+          "category": "食べ物・特産",
+          "description": "たこ焼きは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "27-4",
+          "name": "天神祭",
+          "category": "文化・まつり",
+          "description": "天神祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "27-5",
+          "name": "堺打刃物",
+          "category": "産業・工芸",
+          "description": "堺打刃物は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "28",
+      "name": "兵庫県",
+      "capital": "神戸市",
+      "region": "近畿地方",
+      "items": [
+        {
+          "id": "28-1",
+          "name": "六甲山",
+          "category": "自然・風景",
+          "description": "六甲山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "28-2",
+          "name": "姫路城",
+          "category": "名所・建物",
+          "description": "姫路城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "28-3",
+          "name": "明石焼",
+          "category": "食べ物・特産",
+          "description": "明石焼は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "28-4",
+          "name": "神戸ルミナリエ",
+          "category": "文化・まつり",
+          "description": "神戸ルミナリエは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "28-5",
+          "name": "播州織",
+          "category": "産業・工芸",
+          "description": "播州織は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "29",
+      "name": "奈良県",
+      "capital": "奈良市",
+      "region": "近畿地方",
+      "items": [
+        {
+          "id": "29-1",
+          "name": "吉野山",
+          "category": "自然・風景",
+          "description": "吉野山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "29-2",
+          "name": "東大寺",
+          "category": "名所・建物",
+          "description": "東大寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "29-3",
+          "name": "柿の葉ずし",
+          "category": "食べ物・特産",
+          "description": "柿の葉ずしは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "29-4",
+          "name": "春日若宮おん祭",
+          "category": "文化・まつり",
+          "description": "春日若宮おん祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "29-5",
+          "name": "奈良筆",
+          "category": "産業・工芸",
+          "description": "奈良筆は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "30",
+      "name": "和歌山県",
+      "capital": "和歌山市",
+      "region": "近畿地方",
+      "items": [
+        {
+          "id": "30-1",
+          "name": "那智の滝",
+          "category": "自然・風景",
+          "description": "那智の滝などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "30-2",
+          "name": "高野山",
+          "category": "名所・建物",
+          "description": "高野山は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "30-3",
+          "name": "梅干し",
+          "category": "食べ物・特産",
+          "description": "梅干しは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "30-4",
+          "name": "那智の扇祭り",
+          "category": "文化・まつり",
+          "description": "那智の扇祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "30-5",
+          "name": "紀州漆器",
+          "category": "産業・工芸",
+          "description": "紀州漆器は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "31",
+      "name": "鳥取県",
+      "capital": "鳥取市",
+      "region": "中国地方",
+      "items": [
+        {
+          "id": "31-1",
+          "name": "鳥取砂丘",
+          "category": "自然・風景",
+          "description": "鳥取砂丘などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "31-2",
+          "name": "三徳山三佛寺",
+          "category": "名所・建物",
+          "description": "三徳山三佛寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "31-3",
+          "name": "二十世紀梨",
+          "category": "食べ物・特産",
+          "description": "二十世紀梨は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "31-4",
+          "name": "鳥取しゃんしゃん祭",
+          "category": "文化・まつり",
+          "description": "鳥取しゃんしゃん祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "31-5",
+          "name": "因州和紙",
+          "category": "産業・工芸",
+          "description": "因州和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "32",
+      "name": "島根県",
+      "capital": "松江市",
+      "region": "中国地方",
+      "items": [
+        {
+          "id": "32-1",
+          "name": "宍道湖",
+          "category": "自然・風景",
+          "description": "宍道湖などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "32-2",
+          "name": "出雲大社",
+          "category": "名所・建物",
+          "description": "出雲大社は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "32-3",
+          "name": "出雲そば",
+          "category": "食べ物・特産",
+          "description": "出雲そばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "32-4",
+          "name": "石見神楽",
+          "category": "文化・まつり",
+          "description": "石見神楽は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "32-5",
+          "name": "石州和紙",
+          "category": "産業・工芸",
+          "description": "石州和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "33",
+      "name": "岡山県",
+      "capital": "岡山市",
+      "region": "中国地方",
+      "items": [
+        {
+          "id": "33-1",
+          "name": "瀬戸内海の島々",
+          "category": "自然・風景",
+          "description": "瀬戸内海の島々などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "33-2",
+          "name": "岡山城",
+          "category": "名所・建物",
+          "description": "岡山城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "33-3",
+          "name": "白桃",
+          "category": "食べ物・特産",
+          "description": "白桃は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "33-4",
+          "name": "西大寺会陽",
+          "category": "文化・まつり",
+          "description": "西大寺会陽は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "33-5",
+          "name": "備前焼",
+          "category": "産業・工芸",
+          "description": "備前焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "34",
+      "name": "広島県",
+      "capital": "広島市",
+      "region": "中国地方",
+      "items": [
+        {
+          "id": "34-1",
+          "name": "宮島・弥山",
+          "category": "自然・風景",
+          "description": "宮島・弥山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "34-2",
+          "name": "原爆ドーム",
+          "category": "名所・建物",
+          "description": "原爆ドームは、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "34-3",
+          "name": "お好み焼き",
+          "category": "食べ物・特産",
+          "description": "お好み焼きは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "34-4",
+          "name": "広島フラワーフェスティバル",
+          "category": "文化・まつり",
+          "description": "広島フラワーフェスティバルは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "34-5",
+          "name": "熊野筆",
+          "category": "産業・工芸",
+          "description": "熊野筆は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "35",
+      "name": "山口県",
+      "capital": "山口市",
+      "region": "中国地方",
+      "items": [
+        {
+          "id": "35-1",
+          "name": "角島大橋",
+          "category": "自然・風景",
+          "description": "角島大橋などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "35-2",
+          "name": "錦帯橋",
+          "category": "名所・建物",
+          "description": "錦帯橋は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "35-3",
+          "name": "ふぐ料理",
+          "category": "食べ物・特産",
+          "description": "ふぐ料理は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "35-4",
+          "name": "山口七夕ちょうちんまつり",
+          "category": "文化・まつり",
+          "description": "山口七夕ちょうちんまつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "35-5",
+          "name": "萩焼",
+          "category": "産業・工芸",
+          "description": "萩焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "36",
+      "name": "徳島県",
+      "capital": "徳島市",
+      "region": "四国地方",
+      "items": [
+        {
+          "id": "36-1",
+          "name": "鳴門の渦潮",
+          "category": "自然・風景",
+          "description": "鳴門の渦潮などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "36-2",
+          "name": "祖谷のかずら橋",
+          "category": "名所・建物",
+          "description": "祖谷のかずら橋は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "36-3",
+          "name": "鳴門わかめ",
+          "category": "食べ物・特産",
+          "description": "鳴門わかめは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "36-4",
+          "name": "阿波おどり",
+          "category": "文化・まつり",
+          "description": "阿波おどりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "36-5",
+          "name": "阿波藍",
+          "category": "産業・工芸",
+          "description": "阿波藍は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "37",
+      "name": "香川県",
+      "capital": "高松市",
+      "region": "四国地方",
+      "items": [
+        {
+          "id": "37-1",
+          "name": "父母ヶ浜",
+          "category": "自然・風景",
+          "description": "父母ヶ浜などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "37-2",
+          "name": "栗林公園",
+          "category": "名所・建物",
+          "description": "栗林公園は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "37-3",
+          "name": "讃岐うどん",
+          "category": "食べ物・特産",
+          "description": "讃岐うどんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "37-4",
+          "name": "さぬき高松まつり",
+          "category": "文化・まつり",
+          "description": "さぬき高松まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "37-5",
+          "name": "丸亀うちわ",
+          "category": "産業・工芸",
+          "description": "丸亀うちわは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "38",
+      "name": "愛媛県",
+      "capital": "松山市",
+      "region": "四国地方",
+      "items": [
+        {
+          "id": "38-1",
+          "name": "しまなみ海道",
+          "category": "自然・風景",
+          "description": "しまなみ海道などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "38-2",
+          "name": "道後温泉",
+          "category": "名所・建物",
+          "description": "道後温泉は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "38-3",
+          "name": "みかん",
+          "category": "食べ物・特産",
+          "description": "みかんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "38-4",
+          "name": "新居浜太鼓祭り",
+          "category": "文化・まつり",
+          "description": "新居浜太鼓祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "38-5",
+          "name": "砥部焼",
+          "category": "産業・工芸",
+          "description": "砥部焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "39",
+      "name": "高知県",
+      "capital": "高知市",
+      "region": "四国地方",
+      "items": [
+        {
+          "id": "39-1",
+          "name": "四万十川",
+          "category": "自然・風景",
+          "description": "四万十川などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "39-2",
+          "name": "桂浜",
+          "category": "名所・建物",
+          "description": "桂浜は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "39-3",
+          "name": "かつおのたたき",
+          "category": "食べ物・特産",
+          "description": "かつおのたたきは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "39-4",
+          "name": "よさこい祭り",
+          "category": "文化・まつり",
+          "description": "よさこい祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "39-5",
+          "name": "土佐和紙",
+          "category": "産業・工芸",
+          "description": "土佐和紙は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "40",
+      "name": "福岡県",
+      "capital": "福岡市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "40-1",
+          "name": "糸島の海岸",
+          "category": "自然・風景",
+          "description": "糸島の海岸などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "40-2",
+          "name": "太宰府天満宮",
+          "category": "名所・建物",
+          "description": "太宰府天満宮は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "40-3",
+          "name": "博多ラーメン",
+          "category": "食べ物・特産",
+          "description": "博多ラーメンは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "40-4",
+          "name": "博多祇園山笠",
+          "category": "文化・まつり",
+          "description": "博多祇園山笠は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "40-5",
+          "name": "博多織",
+          "category": "産業・工芸",
+          "description": "博多織は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "41",
+      "name": "佐賀県",
+      "capital": "佐賀市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "41-1",
+          "name": "虹の松原",
+          "category": "自然・風景",
+          "description": "虹の松原などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "41-2",
+          "name": "吉野ヶ里遺跡",
+          "category": "名所・建物",
+          "description": "吉野ヶ里遺跡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "41-3",
+          "name": "呼子のいか",
+          "category": "食べ物・特産",
+          "description": "呼子のいかは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "41-4",
+          "name": "唐津くんち",
+          "category": "文化・まつり",
+          "description": "唐津くんちは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "41-5",
+          "name": "有田焼",
+          "category": "産業・工芸",
+          "description": "有田焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "42",
+      "name": "長崎県",
+      "capital": "長崎市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "42-1",
+          "name": "九十九島",
+          "category": "自然・風景",
+          "description": "九十九島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "42-2",
+          "name": "大浦天主堂",
+          "category": "名所・建物",
+          "description": "大浦天主堂は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "42-3",
+          "name": "長崎ちゃんぽん",
+          "category": "食べ物・特産",
+          "description": "長崎ちゃんぽんは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "42-4",
+          "name": "長崎くんち",
+          "category": "文化・まつり",
+          "description": "長崎くんちは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "42-5",
+          "name": "波佐見焼",
+          "category": "産業・工芸",
+          "description": "波佐見焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "43",
+      "name": "熊本県",
+      "capital": "熊本市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "43-1",
+          "name": "阿蘇山",
+          "category": "自然・風景",
+          "description": "阿蘇山などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "43-2",
+          "name": "熊本城",
+          "category": "名所・建物",
+          "description": "熊本城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "43-3",
+          "name": "馬刺し",
+          "category": "食べ物・特産",
+          "description": "馬刺しは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "43-4",
+          "name": "山鹿灯籠まつり",
+          "category": "文化・まつり",
+          "description": "山鹿灯籠まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "43-5",
+          "name": "小代焼",
+          "category": "産業・工芸",
+          "description": "小代焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "44",
+      "name": "大分県",
+      "capital": "大分市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "44-1",
+          "name": "由布岳",
+          "category": "自然・風景",
+          "description": "由布岳などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "44-2",
+          "name": "別府温泉",
+          "category": "名所・建物",
+          "description": "別府温泉は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "44-3",
+          "name": "とり天",
+          "category": "食べ物・特産",
+          "description": "とり天は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "44-4",
+          "name": "日田祇園祭",
+          "category": "文化・まつり",
+          "description": "日田祇園祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "44-5",
+          "name": "小鹿田焼",
+          "category": "産業・工芸",
+          "description": "小鹿田焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "45",
+      "name": "宮崎県",
+      "capital": "宮崎市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "45-1",
+          "name": "高千穂峡",
+          "category": "自然・風景",
+          "description": "高千穂峡などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "45-2",
+          "name": "青島",
+          "category": "名所・建物",
+          "description": "青島は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "45-3",
+          "name": "チキン南蛮",
+          "category": "食べ物・特産",
+          "description": "チキン南蛮は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "45-4",
+          "name": "宮崎神宮大祭",
+          "category": "文化・まつり",
+          "description": "宮崎神宮大祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "45-5",
+          "name": "都城大弓",
+          "category": "産業・工芸",
+          "description": "都城大弓は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "46",
+      "name": "鹿児島県",
+      "capital": "鹿児島市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "46-1",
+          "name": "桜島",
+          "category": "自然・風景",
+          "description": "桜島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "46-2",
+          "name": "屋久島",
+          "category": "名所・建物",
+          "description": "屋久島は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "46-3",
+          "name": "黒豚",
+          "category": "食べ物・特産",
+          "description": "黒豚は、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "46-4",
+          "name": "おはら祭",
+          "category": "文化・まつり",
+          "description": "おはら祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "46-5",
+          "name": "薩摩焼",
+          "category": "産業・工芸",
+          "description": "薩摩焼は、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
+      ]
+    },
+    {
+      "code": "47",
+      "name": "沖縄県",
+      "capital": "那覇市",
+      "region": "九州・沖縄地方",
+      "items": [
+        {
+          "id": "47-1",
+          "name": "慶良間諸島",
+          "category": "自然・風景",
+          "description": "慶良間諸島などの自然が広がる地域。地形や気候の特徴を地図や写真で確かめてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "47-2",
+          "name": "首里城",
+          "category": "名所・建物",
+          "description": "首里城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "47-3",
+          "name": "沖縄そば",
+          "category": "食べ物・特産",
+          "description": "沖縄そばは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "47-4",
+          "name": "エイサー",
+          "category": "文化・まつり",
+          "description": "エイサーは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "47-5",
+          "name": "琉球びんがた",
+          "category": "産業・工芸",
+          "description": "琉球びんがたは、地域の自然や歴史、人々の技術と結び付いた産業・工芸です。つくり方や材料の特徴を見てみましょう。",
+          "sourceKey": "official-source-review-pending",
+          "photo": null,
+          "photoStatus": "未選定"
+        }
       ]
     }
+  ],
+  "regions": [
+    "北海道地方",
+    "東北地方",
+    "関東地方",
+    "中部地方",
+    "近畿地方",
+    "中国地方",
+    "四国地方",
+    "九州・沖縄地方"
   ]
 }
