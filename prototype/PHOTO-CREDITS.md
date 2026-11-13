@@ -117,3 +117,7 @@
 | 神奈川県 | 鎌倉彫 | [KamakuraBori.jpg](https://commons.wikimedia.org/wiki/File:KamakuraBori.jpg) | Pqks758 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 石川県 | 輪島塗 | [Wajimanurie.JPG](https://commons.wikimedia.org/wiki/File:Wajimanurie.JPG) | fitm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 福井県 | 三国祭 | [Mikuni festival 2022.jpg](https://commons.wikimedia.org/wiki/File:Mikuni_festival_2022.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 長野県 | 御柱祭 | [Onbasira Festival Tateonbasira.JPG](https://commons.wikimedia.org/wiki/File:Onbasira_Festival_Tateonbasira.JPG) | C1815 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 新潟県 | 長岡まつり大花火大会 | [Find47 Niigata-The Nagaoka Fireworks Festival-m.jpg](https://commons.wikimedia.org/wiki/File:Find47_Niigata-The_Nagaoka_Fireworks_Festival-m.jpg) | Koichi_Hayakawa | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
+| 長野県 | 信州そば | [Shinshu soba.jpg](https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 島根県 | 石見神楽 | [IwamiKagura-ShioHarai.png](https://commons.wikimedia.org/wiki/File:IwamiKagura-ShioHarai.png) | Pattio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
