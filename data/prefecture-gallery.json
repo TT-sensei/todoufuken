@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -3130,8 +3130,17 @@
           "category": "産業・工芸",
           "description": "伊賀くみひもは三重県伊賀地域に伝わる組紐です。絹糸などを組み合わせて帯締めなどを作る技術や、色・模様の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Atang Tshikare Iga-Kumihimo Craft x Tech Tokai Project.jpg",
+            "author": "Craft x Tech",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Atang%20Tshikare%20Iga-Kumihimo%20Craft%20x%20Tech%20Tokai%20Project.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで伊賀くみひもの組台での作業・作者・CC BY-SA 4.0を確認済み。原画像5000×3328。第62版で新規登録",
+            "description": "伊賀くみひもを組む台の前で、組ひもの技法を学ぶ様子（クラフト×テック東海プロジェクト）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -4694,8 +4703,17 @@
           "category": "産業・工芸",
           "description": "阿波藍は徳島県で受け継がれてきた藍染めの文化です。藍を育てて染料を作る工程や、布を何度も染めて色を深める技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Aizumi Ai no Yakata.jpg",
+            "author": "Tamago915",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Aizumi%20Ai%20no%20Yakata.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで徳島県藍住町の藍の館（藍染資料館）・作者・CC BY-SA 3.0を確認済み。原画像640×480（2007年5月4日撮影）。第62版で新規登録",
+            "description": "徳島県藍住町の藍の館。阿波藍の歴史や藍染の技法を伝える資料館（2007年撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",

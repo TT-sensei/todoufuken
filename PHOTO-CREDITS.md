@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：233点 / 全国235項目
+- 写真候補：235点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 47点、名所・建物 47点、食べ物・特産 47点、文化・まつり 47点、産業・工芸 45点
-- ライセンス別：CC BY-SA 4.0 72点、CC BY-SA 3.0 66点、CC0 1.0 18点、CC BY 2.0 16点、パブリックドメイン（作者による公開） 16点、CC BY 3.0 15点、CC BY 4.0 15点、CC BY-SA 2.0 8点、パブリックドメイン（日本） 2点、Public domain (PD-self) 2点、CC BY-SA 2.1 JP 2点、CC BY-SA 2.5 1点
-- 写真未選定：2項目
+- カテゴリ別：自然・風景 47点、名所・建物 47点、食べ物・特産 47点、文化・まつり 47点、産業・工芸 47点
+- ライセンス別：CC BY-SA 4.0 73点、CC BY-SA 3.0 67点、CC0 1.0 18点、CC BY 2.0 16点、パブリックドメイン（作者による公開） 16点、CC BY 3.0 15点、CC BY 4.0 15点、CC BY-SA 2.0 8点、パブリックドメイン（日本） 2点、Public domain (PD-self) 2点、CC BY-SA 2.1 JP 2点、CC BY-SA 2.5 1点
+- 写真未選定：0項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -133,6 +133,7 @@
 | 三重県 | 伊勢神宮 | [IseShrine.jpg](https://commons.wikimedia.org/wiki/File:IseShrine.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 三重県 | 伊勢うどん | [Ise udon by hirotomo.jpg](https://commons.wikimedia.org/wiki/File:Ise_udon_by_hirotomo.jpg) | hirotomo | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 三重県 | 上野天神祭 | [Ueno-Tenzin festival.JPG](https://commons.wikimedia.org/wiki/File:Ueno-Tenzin_festival.JPG) | Yasutaro（靖太郎） | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 三重県 | 伊賀くみひも | [Atang Tshikare Iga-Kumihimo Craft x Tech Tokai Project.jpg](https://commons.wikimedia.org/wiki/File:Atang%20Tshikare%20Iga-Kumihimo%20Craft%20x%20Tech%20Tokai%20Project.jpg) | Craft x Tech | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 滋賀県 | 琵琶湖 | [Lake Biwa from Mount Shizu.jpg](https://commons.wikimedia.org/wiki/File:Lake_Biwa_from_Mount_Shizu.jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 滋賀県 | 彦根城 | [Hikone Castle château.jpg](https://commons.wikimedia.org/wiki/File:Hikone_Castle_château.jpg) | Hyppolyte de Saint-Rambert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 滋賀県 | 信楽焼 | [Big Shigaraki ware Tanuki Statue at Sawazen in Shigaraki.jpg](https://commons.wikimedia.org/wiki/File:Big_Shigaraki_ware_Tanuki_Statue_at_Sawazen_in_Shigaraki.jpg) | Motokoka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -192,6 +193,7 @@
 | 徳島県 | 祖谷のかずら橋 | [Iya waddle bridge(Kazurabashi) 01.jpg](https://commons.wikimedia.org/wiki/File:Iya%20waddle%20bridge(Kazurabashi)%2001.jpg) | Motokoka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 徳島県 | 阿波おどり | [Awa-odori in Tokushima City.jpg](https://commons.wikimedia.org/wiki/File:Awa-odori_in_Tokushima_City.jpg) | Kounosu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 徳島県 | 鳴門わかめ | [Salted wakame leaves.jpg](https://commons.wikimedia.org/wiki/File:Salted_wakame_leaves.jpg) | Fumikas Sagisavas | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
+| 徳島県 | 阿波藍 | [Aizumi Ai no Yakata.jpg](https://commons.wikimedia.org/wiki/File:Aizumi%20Ai%20no%20Yakata.jpg) | Tamago915 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 香川県 | 父母ヶ浜 | [Chichibugahama sunset 1.jpg](https://commons.wikimedia.org/wiki/File:Chichibugahama_sunset_1.jpg) | Photos of Japan | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 香川県 | 栗林公園 | [Ritsurin Garden.jpg](https://commons.wikimedia.org/wiki/File:Ritsurin_Garden.jpg) | Mason tang photography | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 香川県 | 讃岐うどん | [Japanese Sanuki Udon.jpg](https://commons.wikimedia.org/wiki/File:Japanese_Sanuki_Udon.jpg) | Shene81 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
