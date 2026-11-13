@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#176b87">
+  <meta name="description" content="都道府県マスター・全国47都道府県の県図鑑">
+  <title>県図鑑｜都道府県マスター 試作</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><span class="brand-mark">日</span><span><small>都道府県マスター / PROTOTYPE</small><strong>県図鑑</strong></span></a>
+    <a class="back-link" href="../index.html">本編へ戻る ↗</a>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">JAPAN FIELD GUIDE · ALL PREFECTURES</p>
+        <h1>写真で出会う、<br><em>日本の47都道府県。</em></h1>
+        <p>景色や建物、食べ物や文化から、日本各地の特色を見つけよう。</p>
+        <div class="hero-meta"><span>全国8地方</span><span>47都道府県</span><span>全235項目</span><span id="photoCoverage">写真候補を集計中</span></div>
+        <div id="photoProgress" class="photo-progress" aria-label="写真候補の選定状況"></div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><div class="sun"></div><div class="mountain m1"></div><div class="mountain m2"></div><div class="sea"></div><span>DISCOVER JAPAN</span></div>
+    </section>
+    <nav class="pref-nav" aria-label="地方と都道府県を選ぶ"><div class="section-heading"><div><p class="eyebrow">EXPLORE JAPAN</p><h2>地方から都道府県を選ぼう</h2></div><span class="count">08 REGIONS · 47 PREFECTURES</span></div><div id="prefList" class="region-list"></div></nav>
+    <section class="guide-tools" aria-label="図鑑を検索"><label for="guideSearch">全国の都道府県・図鑑項目を検索</label><input id="guideSearch" type="search" placeholder="例：りんご、雪、城、祭り…" autocomplete="off"><p id="searchStatus" aria-live="polite">47都道府県の名前・カテゴリ・説明から探せます。</p></section>
+    <section id="detail" class="detail" aria-live="polite"></section>
+    <footer><span>都道府県マスター / 県図鑑 試作</span><span>学習記録・MASTER条件には影響しません</span></footer>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
