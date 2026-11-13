@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：90点 / 全国235項目
+- 写真候補：91点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、産業・工芸 12点、名所・建物 26点、文化・まつり 11点、食べ物・特産 13点
+- カテゴリ別：自然・風景 28点、産業・工芸 12点、名所・建物 27点、文化・まつり 11点、食べ物・特産 13点
 - ライセンス別：CC BY-SA 4.0 22点、CC BY 4.0 3点、CC BY-SA 3.0 32点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 6点、CC0 1.0 5点、CC BY 3.0 5点、CC BY-SA 2.0 5点
-- 写真未選定：145項目
+- 写真未選定：144項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -104,3 +104,5 @@
 | 沖縄県 | 沖縄そば | [Okinawa soba noodle (42195524970).jpg](https://commons.wikimedia.org/wiki/File:Okinawa_soba_noodle_(42195524970).jpg) | pelican（東京） | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 沖縄県 | エイサー | [Eisa, a traditional Okinawan dance.jpg](https://commons.wikimedia.org/wiki/File:Eisa%2C_a_traditional_Okinawan_dance.jpg) | xiquinhosilva | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 沖縄県 | 琉球びんがた | [Bingata.jpg](https://commons.wikimedia.org/wiki/File:Bingata.jpg) | Bruno Cordioli（Bingata a Milano） | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
+
+| 富山県 | 黒部ダム | [KurobeDam.JPG](https://commons.wikimedia.org/wiki/File:KurobeDam.JPG) | Ippukucho | CC BY 3.0 | 未加工（原画像を表示） |
