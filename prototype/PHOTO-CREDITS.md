@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：114点 / 全国235項目
+- 写真候補：116点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 29点、名所・建物 32点、食べ物・特産 18点、文化・まつり 19点、産業・工芸 16点
-- ライセンス別：CC BY-SA 4.0 29点、CC BY 2.0 7点、CC BY 4.0 7点、CC BY-SA 3.0 36点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 8点、CC BY-SA 2.0 6点
-- 写真未選定：121項目
+- カテゴリ別：自然・風景 29点、名所・建物 33点、食べ物・特産 18点、文化・まつり 19点、産業・工芸 17点
+- ライセンス別：CC BY-SA 4.0 29点、CC BY 2.0 7点、CC BY 4.0 7点、CC BY-SA 3.0 37点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 9点、CC BY-SA 2.0 6点
+- 写真未選定：119項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -50,11 +50,13 @@
 | 青森県 | ねぶた祭 | [Aomori Nebuta Festival.jpg](https://commons.wikimedia.org/wiki/File:Aomori_Nebuta_Festival.jpg) | Diego Molla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 青森県 | 津軽塗 | [Tsugaru lacquerware (Tsugarunuri).jpg](https://commons.wikimedia.org/wiki/File:Tsugaru_lacquerware_(Tsugarunuri).jpg) | Kaburamata | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岩手県 | 浄土ヶ浜 | [Jyoudogahama.jpg](https://commons.wikimedia.org/wiki/File:Jyoudogahama.jpg) | Junpei Satoh | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 岩手県 | 中尊寺 | [Landscape - Chusonji, Hiraizumi, Iwate - DSC05033.jpg](https://commons.wikimedia.org/wiki/File:Landscape_-_Chusonji,_Hiraizumi,_Iwate_-_DSC05033.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 岩手県 | 南部鉄器 | [Nambu Tetsubin.jpg](https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg) | Misakubo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮城県 | 松島 | [Matsushima (Matsushima Bay).jpg](https://commons.wikimedia.org/wiki/File:Matsushima_(Matsushima_Bay).jpg) | Cheng-en Cheng | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 宮城県 | 仙台城跡 | [Tsume-mon gate of Sendai Castle.jpg](https://commons.wikimedia.org/wiki/File:Tsume-mon_gate_of_Sendai_Castle.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 宮城県 | 牛たん | [Sendai gyutan.JPG](https://commons.wikimedia.org/wiki/File:Sendai_gyutan.JPG) | Sakurai Midori | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮城県 | 仙台七夕まつり | [The Sendai Tanabata Festival.JPG](https://commons.wikimedia.org/wiki/File:The_Sendai_Tanabata_Festival.JPG) | Haseyu- | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 宮城県 | こけし | [Yajiro Kokeshi-mura.JPG](https://commons.wikimedia.org/wiki/File:Yajiro_Kokeshi-mura.JPG) | Kei hashi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 秋田県 | 田沢湖 | [View of Mt. Akita-Komagatake from Lake Tazawa.jpg](https://commons.wikimedia.org/wiki/File:View_of_Mt._Akita-Komagatake_from_Lake_Tazawa.jpg) | 掬茶 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 秋田県 | 角館の武家屋敷 | [Kakunodate.jpg](https://commons.wikimedia.org/wiki/File:Kakunodate.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 秋田県 | きりたんぽ | [Kiritanpo soup.jpg](https://commons.wikimedia.org/wiki/File:Kiritanpo_soup.jpg) | Douglas P Perkins | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
