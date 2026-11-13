@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1438,14 +1438,24 @@
           "category": "自然・風景",
           "description": "佐渡島は新潟県沖の日本海に浮かぶ島です。海岸線や山地、金山の歴史など、自然と人々の暮らしのつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "SadoGaShima.jpg",
+            "author": "BehBeh at Japanese Wikipedia",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:SadoGaShima.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "新潟県沖の佐渡島と大佐渡・小佐渡の山並み"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SadoGaShima.jpg"
         },
         {
           "id": "15-2",
