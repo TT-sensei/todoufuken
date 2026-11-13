@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -502,8 +502,17 @@
           "category": "産業・工芸",
           "description": "岩槻人形は、さいたま市岩槻区で受け継がれてきた人形づくりです。木目込人形は、型に筋を彫り、布をその溝に入れて衣装の模様を表します。材料や工程に込められた職人の工夫を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "村岡茂與村岡文彥木目込人形（歌人）.jpg",
+            "author": "氏子",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E6%9D%91%E5%B2%A1%E8%8C%82%E8%88%87%E6%9D%91%E5%B2%A1%E6%96%87%E5%BD%A5%E6%9C%A8%E7%9B%AE%E8%BE%BC%E4%BA%BA%E5%BD%A2%EF%BC%88%E6%AD%8C%E4%BA%BA%EF%BC%89.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで村岡家の木目込人形・作者・CC BY-SA 4.0を確認済み。原画像3064×4592。第60版で新規登録",
+            "description": "岩槻の木目込人形「歌人」（村岡茂與・文彥作）。布を溝に木目込んで着物の文様を表している"
+          },
+          "photoStatus": "選定済み",
           "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
           "reference": {
             "title": "埼玉県公式 民芸品",
@@ -702,8 +711,17 @@
           "category": "食べ物・特産",
           "description": "江戸前のすしは、江戸時代の東京湾でとれた魚介を使い、保存の工夫を加えて発展した食文化です。酢じめや煮るなどの調理法が生まれた背景を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Edomaezushi-Hinatomaru---2025-08-28 002.jpg",
+            "author": "RuinDig/Yuki Uchida",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Edomaezushi-Hinatomaru---2025-08-28_002.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで東京駅構内の寿司店の握り寿司・作者・CC BY 4.0・撮影日を確認済み。原画像3648×2736。第60版で新規登録",
+            "description": "東京駅の寿司店「ひなと丸」で出されたサンマの握り寿司（2025年8月28日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -823,8 +841,17 @@
           "category": "食べ物・特産",
           "description": "三浦だいこんは、神奈川県三浦半島で栽培される大きく重い大根です。海に囲まれた地域の気候や土壌、冬の野菜づくりの工夫を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Miura Daikon ac.jpg",
+            "author": "Asturio Cantabrio",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Miura_Daikon_ac.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで三浦市の青果店の大根・作者・CC BY-SA 4.0を確認済み。原画像5334×4000。第60版で新規登録",
+            "description": "神奈川県三浦市の青果店に並ぶ三浦だいこん。大きく太く育った白い大根"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -995,8 +1022,17 @@
           "category": "産業・工芸",
           "description": "アイヌ文化には、木や樹皮、動物の皮など自然の素材を生かした道具や衣服、文様があります。素材の選び方や模様に込められた意味を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hokkaido, ainu, veste maschile attush, 1900-20 ca.jpg",
+            "author": "Sailko",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hokkaido%2C_ainu%2C_veste_maschile_attush%2C_1900-20_ca.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページでアイヌのアットゥシ・作者・CC BY 3.0を確認済み。原画像2388×2144。第60版で新規登録",
+            "description": "アイヌの伝統衣装「アットゥシ」。樹皮の繊維で織った布に、文様があしらわれている（博物館の展示）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "ウポポイ（民族共生象徴空間）",
             "url": "https://ainu-upopoy.go.jp/",
@@ -1903,8 +1939,17 @@
           "category": "産業・工芸",
           "description": "小千谷縮は新潟県小千谷市周辺で作られる麻織物です。雪国の湿度を生かした工程や、独特のしぼが生まれる技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Ramie fabric from Japan.jpg",
+            "author": "Yasuo Kida",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ramie_fabric_from_Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで小千谷縮の布地・作者・CC BY 2.0を確認済み。原画像3648×2736。第60版で新規登録",
+            "description": "小千谷縮の布地。麻の繊維で織られた、新潟県小千谷市の伝統的な織物"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -1976,8 +2021,17 @@
           "category": "食べ物・特産",
           "description": "ます寿司は、富山県を代表する郷土料理の一つです。ますと酢飯を笹で包んだ押しずしで、富山の食文化や駅弁として広まった歴史も調べられます。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "扇一ます寿司本舗 鱒の寿司20221106-P1006411.jpg",
+            "author": "くろふね",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E6%89%87%E4%B8%80%E3%81%BE%E3%81%99%E5%AF%BF%E5%8F%B8%E6%9C%AC%E8%88%97_%E9%B1%92%E3%81%AE%E5%AF%BF%E5%8F%B820221106-P1006411.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで扇一ます寿司本舗の鱒の寿司・作者・CC BY 4.0・撮影日を確認済み。原画像1600×1200。第60版で新規登録",
+            "description": "富山のます寿司。笹の上に、酢飯と鱒の切り身を重ねた押しずし（2022年11月6日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -2016,8 +2070,17 @@
           "category": "産業・工芸",
           "description": "高岡銅器は富山県高岡市を中心に作られる金属工芸品です。鋳造や着色などの技術を使い、仏具や花器、美術品などが作られています。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "高岡大仏 - panoramio.jpg",
+            "author": "くろふね",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%B2%A1%E5%A4%A7%E4%BB%8F_-_panoramio.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで高岡大仏・作者・CC BY 3.0・撮影日を確認済み。原画像4752×3168。第60版で新規登録",
+            "description": "高岡大仏。高岡の鋳物づくりの技術で作られた銅製の大仏（2010年5月2日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -2089,8 +2152,17 @@
           "category": "食べ物・特産",
           "description": "加賀料理は、石川県金沢市を中心に受け継がれてきた食文化です。加賀藩の歴史や、海・山の食材、器や盛り付けにも目を向けてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Local stew in Kanazawa (6265128162).jpg",
+            "author": "pelican from Tokyo, Japan",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Local_stew_in_Kanazawa_%286265128162%29.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで金沢の郷土料理の煮物・作者・CC BY-SA 2.0・撮影日を確認済み。原画像3648×2736。第60版で新規登録",
+            "description": "金沢の郷土料理・治部煮。鴨肉と麩、野菜を煮たとろみのある汁物（2011年10月20日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -2342,8 +2414,17 @@
           "category": "食べ物・特産",
           "description": "山梨県はぶどうやももの栽培がさかんな地域です。盆地の地形や日照時間など、果物づくりを支える自然条件を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Grapes in Katsunuma.jpg",
+            "author": "Douglas Perkins",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Grapes_in_Katsunuma.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで勝沼の店先のぶどう・作者・CC BY 4.0・撮影日を確認済み。原画像5312×2988。第60版で新規登録",
+            "description": "山梨県甲州市勝沼の店先に並ぶぶどう。甲斐路やシャインマスカットなど、いろいろな品種が売られている（2015年10月13日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -2382,8 +2463,17 @@
           "category": "産業・工芸",
           "description": "甲州印伝は山梨県に伝わる革工芸です。鹿革に漆で模様を付ける技法や、模様の種類、袋物や小物として使われてきた歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "印傳.jpg",
+            "author": "JGDfgdfgf1",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%8D%B0%E5%82%B3.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで甲府市の印傳屋の印傳・作者・CC BY-SA 4.0・撮影日を確認済み。原画像1920×1080。第60版で新規登録",
+            "description": "甲府市の印傳屋の印傳。鹿革に漆で文様を付けたバッグや財布（2019年3月2日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -2503,8 +2593,17 @@
           "category": "産業・工芸",
           "description": "木曽漆器は長野県木曽地域で作られる漆器です。木曽の木材を生かした木地づくりや、漆を塗り重ねる技法を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kiso-Hirasawa06s5s3200.jpg",
+            "author": "663highland",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kiso-Hirasawa06s5s3200.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで平沢の漆器・作者・ライセンスを確認済み（GFDL・CC BY-SA 3.0・CC BY 2.5のマルチライセンスから、既存の663highland作品と合わせてCC BY-SA 3.0を選択）。原画像3200×2133。第60版で新規登録",
+            "description": "木曽漆器の里・長野県塩尻市平沢の店先に並ぶ、漆器の器や盆（2009年6月6日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -2626,8 +2725,17 @@
           "category": "産業・工芸",
           "description": "美濃和紙は岐阜県美濃市周辺で作られる和紙です。良質な水や原料を生かした紙すきの技術、薄くて丈夫な紙の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mino Washi Akari Art Hall ac (2).jpg",
+            "author": "Asturio Cantabrio",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mino_Washi_Akari_Art_Hall_ac_%282%29.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで美濃和紙あかりアート館・作者・CC BY-SA 4.0を確認済み。原画像5888×3916。第60版で新規登録",
+            "description": "岐阜県美濃市の美濃和紙あかりアート館。和紙で作られたあかりの作品が並ぶ"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -2989,8 +3097,17 @@
           "category": "文化・まつり",
           "description": "上野天神祭は、三重県伊賀市で行われる祭りです。だんじりや鬼行列が町を巡る様子から、伊賀の歴史や地域に伝わる祭礼文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Ueno-Tenzin festival.JPG",
+            "author": "Yasutaro（靖太郎）",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ueno-Tenzin_festival.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで伊賀市の上野天神祭・作者・パブリックドメイン（作者による公開）を確認済み。原画像2448×3264。第60版で新規登録",
+            "description": "三重県伊賀市の上野天神祭。だんじりの上で人形が舞う（2010年10月23日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -3076,8 +3193,17 @@
           "category": "食べ物・特産",
           "description": "近江牛は、滋賀県で長く飼育されてきたブランド牛です。琵琶湖周辺の農業や畜産の歴史、品質を守る取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "近江牛.jpg",
+            "author": "Syced",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E8%BF%91%E6%B1%9F%E7%89%9B.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで近江牛の肉・作者・CC0 1.0を確認済み。原画像4032×3024。第60版で新規登録",
+            "description": "近江牛の肉。細かい霜降りが見える（2022年1月21日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -3091,8 +3217,17 @@
           "category": "文化・まつり",
           "description": "大津祭は、滋賀県大津市で行われる祭りです。からくり人形を載せた曳山が巡行し、町ごとに受け継がれてきた装飾や物語を見ることができます。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Keihan800 with OtsuMatsuri.JPG",
+            "author": "Sunen",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Keihan800_with_OtsuMatsuri.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで大津祭の曳山・作者・CC BY 3.0を確認済み。原画像2560×1920。第60版で新規登録",
+            "description": "大津祭の曳山「源氏山」と、同じ道を走る京阪電車（2009年10月11日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -3480,8 +3615,17 @@
           "category": "文化・まつり",
           "description": "神戸ルミナリエは、阪神・淡路大震災の記憶を語り継ぎ、復興への思いを込めて始まった光の行事です。光の作品に込められた願いを考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "第30回神戸ルミナリエ(1).jpg",
+            "author": "Yoyogimura",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E7%AC%AC30%E5%9B%9E%E7%A5%9E%E6%88%B8%E3%83%AB%E3%83%9F%E3%83%8A%E3%83%AA%E3%82%A8%281%29.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで神戸ルミナリエ・作者・CC BY-SA 4.0・撮影日を確認済み。原画像4032×3024。第60版で新規登録",
+            "description": "第30回神戸ルミナリエの光の壁（2025年1月28日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -3495,8 +3639,17 @@
           "category": "産業・工芸",
           "description": "播州織は兵庫県西脇市周辺で作られる先染めの綿織物です。糸を先に染めてから織る方法や、色柄の豊かさを生む技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Handkerchief made of banshuori.jpg",
+            "author": "Bio06940",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Handkerchief_made_of_banshuori.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで播州織のハンカチ・作者・CC BY-SA 4.0を確認済み。原画像2277×2199。第60版で新規登録",
+            "description": "播州織で作られたハンカチ。先に染めた糸で織るので、色鮮やかなチェック柄になる（2020年3月1日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -3568,8 +3721,17 @@
           "category": "食べ物・特産",
           "description": "柿の葉ずしは、奈良県などで受け継がれてきた押しずしです。柿の葉で包む知恵や、山間部で魚を保存して食べた暮らしとの関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kakinoha (persimmon leaf) sushi in Nara.jpg",
+            "author": "ZhengZhou",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kakinoha_%28persimmon_leaf%29_sushi_in_Nara.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで奈良の柿の葉ずし・作者・CC BY-SA 4.0を確認済み。原画像4032×3024。第60版で新規登録",
+            "description": "奈良の柿の葉ずし。葉を開くと、魚の切り身がのった押しずしが現れる（2016年8月3日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -3681,8 +3843,17 @@
           "category": "食べ物・特産",
           "description": "和歌山県は梅の栽培がさかんで、梅干しづくりでも知られています。温暖な気候や南高梅の特徴、保存食としての役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Prunus mume 20100809 1532.jpg",
+            "author": "Ka23 13",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Prunus_mume_20100809_1532.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで梅干しの土用干し・作者・CC BY-SA 4.0を確認済み。原画像2784×1568。第60版で新規登録",
+            "description": "梅干しの土用干し。竹ざるに広げて、太陽の光で干す（2010年8月9日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -3711,8 +3882,17 @@
           "category": "産業・工芸",
           "description": "紀州漆器は和歌山県海南市の黒江地区を中心に作られる漆器です。木地づくりや塗りの技法、日常使いの器として広まった歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Negoro Lackware.jpg",
+            "author": "Fraxinus2",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Negoro_Lackware.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで根来塗の漆器・作者・CC BY-SA 3.0を確認済み。原画像962×962。第60版で新規登録",
+            "description": "紀州漆器の技法「根来塗」の重ね箱。赤い漆の下から、黒い色がのぞく"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -3784,8 +3964,17 @@
           "category": "食べ物・特産",
           "description": "二十世紀梨は、鳥取県を代表する果物の一つです。砂丘地帯を含む土地での栽培の工夫や、梨づくりの歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tottori Nijisseiki Pear Museum01n4592.jpg",
+            "author": "663highland",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tottori_Nijisseiki_Pear_Museum01n4592.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで二十世紀梨記念館・作者・ライセンスを確認済み（マルチライセンスからCC BY-SA 3.0を選択）。原画像4592×3056。第60版で新規登録",
+            "description": "鳥取県倉吉市の鳥取二十世紀梨記念館。梨の形をした建物（2008年7月25日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -3799,8 +3988,17 @@
           "category": "文化・まつり",
           "description": "鳥取しゃんしゃん祭は、鳥取市で開かれる夏祭りです。鈴の付いた傘を手に踊る「しゃんしゃん傘踊り」の動きや音、祭りが生まれた背景を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Shan-Shan Gasa.jpg",
+            "author": "Flow in edgewise",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shan-Shan_Gasa.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで鳥取駅展示のしゃんしゃん傘・作者・CC BY-SA 3.0を確認済み。原画像3200×2144。第60版で新規登録",
+            "description": "鳥取駅に展示されているしゃんしゃん傘。鈴と色とりどりの飾りが付いた大きな傘（2012年12月31日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -3887,8 +4085,17 @@
           "category": "食べ物・特産",
           "description": "出雲そばは、島根県東部で親しまれているそばです。そばの実を殻ごと挽く製粉方法や、黒っぽく香りの強い麺の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "IzumoSoba WarigoSoba 5dan.jpg",
+            "author": "J.Yoshiiiiiiii",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:IzumoSoba_WarigoSoba_5dan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで出雲そばの割子そば・作者・CC BY-SA 4.0を確認済み。原画像4032×3024。第60版で新規登録",
+            "description": "出雲そばの割子そば。赤い器を5段重ねて、薬味をのせて食べる（2020年7月1日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -3926,8 +4133,17 @@
           "category": "産業・工芸",
           "description": "石州和紙は島根県西部の石見地方で作られる和紙です。原料や水を生かした紙すきの技術、丈夫で保存性に優れた紙の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Sekishukan Hall 20170503-2.jpg",
+            "author": "そらみみ",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Sekishukan_Hall_20170503-2.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで石州和紙会館・作者・CC BY-SA 4.0を確認済み。原画像4032×3024。第60版で新規登録",
+            "description": "島根県浜田市の石州館（伝統石州和紙会館）。石州和紙の伝統を伝える施設（2017年5月3日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -3999,8 +4215,17 @@
           "category": "食べ物・特産",
           "description": "岡山県は白桃の産地として知られています。袋をかけて育てる栽培方法や、白く美しい果実を育てる工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "モモ畑.jpg",
+            "author": "KENPEI",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E3%83%A2%E3%83%A2%E7%95%91.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで袋がけの桃畑・作者・CC BY-SA 3.0を確認済み。原画像922×685。袋がけの栽培方法が分かる写真として第60版で新規登録",
+            "description": "袋がけされた桃畑。一つ一つの実に袋をかけて、傷や虫から守って育てる（2006年8月5日撮影、大阪府内で撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -4254,8 +4479,17 @@
           "category": "食べ物・特産",
           "description": "山口県はふぐ料理で知られています。ふぐを安全に食べるための専門的な処理や、下関を中心とした水産業との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Fugu-no-Sashimi(Totafugu).JPG",
+            "author": "Qwert1234",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Fugu-no-Sashimi%28Totafugu%29.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページでトラフグの刺身・作者・CC BY-SA 3.0を確認済み。原画像3264×2448。第60版で新規登録",
+            "description": "トラフグの刺身（てっさ）。大きな皿に、薄い切り身が花のように並ぶ（2009年1月10日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -4284,8 +4518,17 @@
           "category": "産業・工芸",
           "description": "萩焼は山口県萩市周辺で作られる陶器です。土や釉薬、焼き方によって生まれる柔らかな色合いや、使うほどに変化する器の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hagi-yaki Yuu Okada IMG 4627 crop.jpg",
+            "author": "Kyle McDonald from Brooklyn, New York, USA",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hagi-yaki_Yuu_Okada_IMG_4627_crop.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで萩焼（岡田裕作）・作者・CC BY 2.0を確認済み。原画像2889×1734。第60版で新規登録",
+            "description": "萩焼のぐい呑み（岡田裕の作）。土と釉薬が生む、柔らかな色合い（2011年11月8日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -4357,8 +4600,17 @@
           "category": "食べ物・特産",
           "description": "鳴門わかめは、徳島県鳴門海峡周辺で養殖・収穫されるわかめです。潮の流れや海の環境が、わかめの育ち方や品質にどう関係するか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Salted wakame leaves.jpg",
+            "author": "Fumikas Sagisavas",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Salted_wakame_leaves.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで塩蔵わかめ・作者・CC0 1.0を確認済み。原画像3000×3000。第60版で新規登録",
+            "description": "塩蔵わかめの葉。鳴門海峡の速い潮の流れの中で、わかめはすくすく育つ"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -4495,8 +4747,17 @@
           "category": "文化・まつり",
           "description": "さぬき高松まつりは、香川県高松市で開かれる夏祭りです。総おどりや花火大会などを通して、地域の人々が祭りをつくる様子を見てみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Japan - Takamatsu Awa Odori Bon Festival 01.jpg",
+            "author": "Vanvelthem Cédric",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Japan_-_Takamatsu_Awa_Odori_Bon_Festival_01.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで高松の祭りの踊り・作者・CC BY-SA 4.0・撮影日を確認済み。原画像1280×853。第60版で新規登録",
+            "description": "さぬき高松まつりの踊り。夜の町で踊る人々（2014年8月14日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -4510,8 +4771,17 @@
           "category": "産業・工芸",
           "description": "丸亀うちわは香川県丸亀市で作られるうちわです。竹の骨組みや紙を貼る工程、軽くて丈夫な形を作る職人の工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Uchiwa Museum01.jpg",
+            "author": "Toto-tarou",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Uchiwa_Museum01.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで丸亀市うちわの港ミュージアム・作者・CC BY-SA 3.0を確認済み。原画像1600×1200。第60版で新規登録",
+            "description": "香川県丸亀市のうちわの港ミュージアム。丸亀うちわの歴史や作り方を伝える施設"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -4583,8 +4853,17 @@
           "category": "食べ物・特産",
           "description": "愛媛県はかんきつ類の栽培がさかんな地域です。日当たりのよい斜面や温暖な気候など、みかんづくりを支える条件を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Maana Mikans.jpg",
+            "author": "Miyuki Meinaka",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Maana_Mikans.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで真穴みかん・作者・CC BY-SA 4.0を確認済み。原画像3977×3401。第60版で新規登録",
+            "description": "愛媛県八幡浜市の名産「真穴みかん」（2018年12月22日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -4623,8 +4902,17 @@
           "category": "産業・工芸",
           "description": "砥部焼は愛媛県砥部町を中心に作られる磁器です。白い器に藍色などで描かれる模様や、丈夫で日常使いしやすい器づくりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Aichi Prefectural Ceramic Museum (56).jpg",
+            "author": "Gryffindor",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Aichi_Prefectural_Ceramic_Museum_%2856%29.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで砥部焼の壺（愛知県陶磁美術館の展示）・作者・CC0 1.0を確認済み。原画像1891×2521。第60版で新規登録",
+            "description": "砥部焼の壺。白い磁器に藍色で、葡萄とリスの絵が描かれている（江戸時代・19世紀）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -4696,8 +4984,17 @@
           "category": "食べ物・特産",
           "description": "かつおのたたきは、高知県を代表する郷土料理です。かつお漁や、表面をあぶって薬味と食べる調理法が生まれた背景を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Katsuo no tataki.jpg",
+            "author": "ノボホショコロトソ",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Katsuo_no_tataki.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページでかつおのたたき・作者・CC BY 4.0を確認済み。原画像4032×3024。第60版で新規登録",
+            "description": "かつおのたたき。表面をあぶった切り身に、玉ねぎやにんにく、ねぎを添える（2024年11月13日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -4736,8 +5033,17 @@
           "category": "産業・工芸",
           "description": "土佐和紙は高知県で作られる和紙です。清らかな水や植物の繊維を生かした紙すきの技術、薄くて丈夫な紙の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Ino Japanese Paper Museum 201303.JPG",
+            "author": "At by At",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ino_Japanese_Paper_Museum_201303.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページでいの町紙の博物館・作者・CC BY-SA 3.0を確認済み。原画像3264×2448。第60版で新規登録",
+            "description": "高知県いの町紙の博物館。土佐和紙の歴史や、紙すきの技を伝える施設"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -4859,8 +5165,17 @@
           "category": "産業・工芸",
           "description": "博多織は福岡県福岡市に伝わる絹織物です。太い経糸を使って織り上げる技法や、帯として使われてきた歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Former Miura Residence the workshop for hakata-ori Hakata-ku Hakata-ku Fukuoka 20241114 154457.jpg",
+            "author": "Hirho",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Former_Miura_Residence_the_workshop_for_hakata-ori_Hakata-ku_Hakata-ku_Fukuoka_20241114_154457.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで博多織の織場・作者・CC BY-SA 4.0を確認済み。原画像3000×4000。第60版で新規登録",
+            "description": "福岡市博多区の旧三浦家住宅にある、博多織の織場（2024年11月14日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -4932,8 +5247,17 @@
           "category": "食べ物・特産",
           "description": "呼子のいかは、佐賀県唐津市呼子の名物です。玄界灘の漁業や、いかの鮮度を生かした料理・観光との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Squid drying in Yobuko Port.JPG",
+            "author": "そらみみ",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Squid_drying_in_Yobuko_Port.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで呼子のイカ干し・作者・CC BY-SA 4.0を確認済み。原画像3186×2390。第60版で新規登録",
+            "description": "佐賀県唐津市・呼子の港で干されるイカ（2014年7月26日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
@@ -4947,8 +5271,17 @@
           "category": "文化・まつり",
           "description": "唐津くんちは、佐賀県唐津市の唐津神社の秋祭りです。豪華な曳山が町を巡る様子から、漆工芸の技術や地域の人々の協力について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hikiyama.jpg",
+            "author": "MC MasterChef",
+            "license": "CC BY-SA 2.5",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hikiyama.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで唐津くんちの曳山・CC BY-SA 2.5を確認済み（作者欄が空欄のため、アップロード者名を記録）。原画像1536×1152。第60版で新規登録",
+            "description": "唐津くんちの曳山。色鮮やかな曳山が町を巡る"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -5228,8 +5561,17 @@
           "category": "産業・工芸",
           "description": "小代焼は熊本県北部で作られる陶器です。釉薬が流れて生まれる模様や、窯の中で変化する色合いなど、焼き物の表情を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Bottle 1, Shodai ware, Edo period, 18th century, poured white glaze on brown glaze - Tokyo National Museum - DSC05290.JPG",
+            "author": "Daderot",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Bottle_1%2C_Shodai_ware%2C_Edo_period%2C_18th_century%2C_poured_white_glaze_on_brown_glaze_-_Tokyo_National_Museum_-_DSC05290.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで小代焼の徳利・作者・CC0 1.0を確認済み。原画像3510×5325。第60版で新規登録",
+            "description": "小代焼の徳利。茶色の地に、白い釉薬を流し掛けた模様（江戸時代・18世紀、東京国立博物館の展示）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -5459,8 +5801,17 @@
           "category": "文化・まつり",
           "description": "宮崎神宮大祭は、宮崎市の宮崎神宮の例祭に合わせて行われる行事です。神武天皇ゆかりの歴史や、御神幸行列などの内容を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Miyazaki Shrine Grand Festival in 2008 Gohouren 01.jpg",
+            "author": "Sanjo",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Miyazaki_Shrine_Grand_Festival_in_2008_Gohouren_01.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで宮崎神宮大祭の御鳳輦・作者・パブリックドメイン（作者による公開）を確認済み。原画像1440×810。第60版で新規登録",
+            "description": "宮崎神宮大祭の御鳳輦（ごほうれん）の行列（2008年11月1日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
@@ -5474,8 +5825,17 @@
           "category": "産業・工芸",
           "description": "都城大弓は宮崎県都城市周辺で作られる竹弓です。竹や木などの材料を組み合わせる工程や、弓のしなりを生む職人の技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Japan Day Düsseldorf 2009 - 015 - Traditional bow shooting.jpg",
+            "author": "Roland Geider (Ogre)",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Japan_Day_D%C3%BCsseldorf_2009_-_015_-_Traditional_bow_shooting.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで弓道の大弓・作者・CC BY-SA 3.0を確認済み。原画像2000×3008。都城大弓は竹弓の代表として第60版で新規登録",
+            "description": "弓道の大弓を引く姿。竹で作られた長い弓（2009年6月13日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
@@ -5546,8 +5906,17 @@
           "category": "食べ物・特産",
           "description": "鹿児島県の黒豚は、長い飼育の歴史をもつ特産品です。さつまいもなどを活用した飼育や、肉質の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "鹿児島黒豚赤ワインステーキ弁当（出水駅）20230112-P1021007.jpg",
+            "author": "くろふね",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E5%85%90%E5%B3%B6%E9%BB%92%E8%B1%9A%E8%B5%A4%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E5%BC%81%E5%BD%93%EF%BC%88%E5%87%BA%E6%B0%B4%E9%A7%85%EF%BC%8920230112-P1021007.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで鹿児島黒豚の駅弁・作者・CC BY 4.0を確認済み。原画像1600×1200。第60版で新規登録",
+            "description": "鹿児島黒豚の赤ワインステーキ弁当。出水駅で売られている駅弁（2023年1月12日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
