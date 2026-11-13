@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1166,14 +1166,24 @@
           "category": "文化・まつり",
           "description": "チャグチャグ馬コは、色とりどりの装束を着けた馬が行進する岩手県の伝統行事です。馬への感謝や農耕との関わり、鈴の音の由来を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Chagu-chagu Umakko parade in front of Morioka Station 2023a.jpg",
+            "author": "掬茶",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Chagu-chagu_Umakko_parade_in_front_of_Morioka_Station_2023a.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "盛岡駅前を進むチャグチャグ馬コの行列"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chagu-chagu%20Umakko%20parade%20in%20front%20of%20Morioka%20Station%202023a.jpg"
         },
         {
           "id": "03-5",
@@ -1676,14 +1686,24 @@
           "category": "文化・まつり",
           "description": "相馬野馬追は、福島県相馬地方で受け継がれてきた伝統行事です。甲冑を着けた騎馬武者の行列や神事から、地域の歴史とのつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "The Soma Nomaoi 2005-6.jpg",
+            "author": "PekePON",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Soma_Nomaoi_2005-6.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "相馬野馬追の神旗争奪戦で、騎馬武者が坂を駆け上がる様子"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Soma%20Nomaoi%202005-6.jpg"
         },
         {
           "id": "07-5",
