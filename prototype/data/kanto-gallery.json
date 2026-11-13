@@ -588,10 +588,15 @@
           "id": "01-2",
           "name": "函館山",
           "category": "名所・建物",
-          "description": "函館山は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "函館山は北海道函館市にある山で、山頂からは市街地と港を一望できます。夜景が美しい理由を、地形や町の広がりと結び付けて考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "01-3",
@@ -661,14 +666,14 @@
           "id": "02-2",
           "name": "弘前城",
           "category": "名所・建物",
-          "description": "弘前城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "弘前城は青森県弘前市にある城で、現在も江戸時代に建てられた天守が残っています。城の役割や、城下町のつくりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "青森県の観光スポット",
-            "url": "https://www.pref.aomori.lg.jp/k-kensei/sightseeing.html",
-            "note": "弘前城・弘前公園など県内観光情報"
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           }
         },
         {
@@ -739,10 +744,15 @@
           "id": "03-2",
           "name": "中尊寺",
           "category": "名所・建物",
-          "description": "中尊寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "中尊寺は岩手県平泉町にある寺院で、金色堂など平安時代の文化財で知られます。奥州藤原氏がこの地に築いた文化について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "03-3",
@@ -802,10 +812,15 @@
           "id": "04-2",
           "name": "仙台城跡",
           "category": "名所・建物",
-          "description": "仙台城跡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "仙台城跡は、伊達政宗が築いた城の跡です。青葉山の地形を生かした城の位置や、城下町・仙台の発展との関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "04-3",
@@ -870,10 +885,15 @@
           "id": "05-2",
           "name": "角館の武家屋敷",
           "category": "名所・建物",
-          "description": "角館の武家屋敷は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "角館の武家屋敷は秋田県仙北市に残る町並みです。武士が暮らした屋敷や黒板塀、通りのつくりから、城下町の生活を想像してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "05-3",
@@ -938,14 +958,14 @@
           "id": "06-2",
           "name": "山寺",
           "category": "名所・建物",
-          "description": "山寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "山寺（立石寺）は山形市の山あいにある寺院です。険しい石段を上った先に堂や景色が広がり、自然の地形と信仰が結び付いています。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "山形市公式 観光情報",
-            "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
-            "note": "山寺など市内観光情報への案内"
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           }
         },
         {
@@ -1016,14 +1036,14 @@
           "id": "07-2",
           "name": "鶴ヶ城",
           "category": "名所・建物",
-          "description": "鶴ヶ城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "鶴ヶ城は福島県会津若松市にある城で、赤瓦の天守が特徴です。戊辰戦争での出来事や、会津の歴史の中で果たした役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "福島県内地域別の観光情報",
-            "url": "https://www.pref.fukushima.lg.jp/site/portal/tiiki-kanko.html",
-            "note": "会津地域の鶴ヶ城など県内観光資源を紹介"
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           }
         },
         {
@@ -1084,10 +1104,15 @@
           "id": "15-2",
           "name": "清津峡",
           "category": "名所・建物",
-          "description": "清津峡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "清津峡は新潟県十日町市にある峡谷で、柱状節理の岩壁が見どころです。川の流れが長い時間をかけてつくった地形を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "15-3",
@@ -1147,10 +1172,15 @@
           "id": "16-2",
           "name": "黒部ダム",
           "category": "名所・建物",
-          "description": "黒部ダムは、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "黒部ダムは富山県の黒部川上流に建設された大きなダムです。水力発電の役割や、険しい山の中で建設するために使われた技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "16-3",
@@ -1210,10 +1240,15 @@
           "id": "17-2",
           "name": "兼六園",
           "category": "名所・建物",
-          "description": "兼六園は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "兼六園は石川県金沢市にある日本三名園の一つです。池や築山、橋などを組み合わせた庭園の工夫と、加賀藩の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "17-3",
@@ -1273,10 +1308,15 @@
           "id": "18-2",
           "name": "福井県立恐竜博物館",
           "category": "名所・建物",
-          "description": "福井県立恐竜博物館は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "福井県立恐竜博物館は福井県勝山市にある恐竜の専門博物館です。福井県で見つかった恐竜化石や、化石から昔の生き物を調べる方法を学べます。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "18-3",
@@ -1336,10 +1376,15 @@
           "id": "19-2",
           "name": "昇仙峡",
           "category": "名所・建物",
-          "description": "昇仙峡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "昇仙峡は山梨県甲府市近くにある渓谷で、奇岩や滝が見られます。花こう岩が川や風雨によって削られてできた景観を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "19-3",
@@ -1399,10 +1444,15 @@
           "id": "20-2",
           "name": "松本城",
           "category": "名所・建物",
-          "description": "松本城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "松本城は長野県松本市にある国宝の城です。黒い外観や天守の構造に注目し、戦国時代から江戸時代にかけての城の役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "20-3",
@@ -1462,10 +1512,15 @@
           "id": "21-2",
           "name": "岐阜城",
           "category": "名所・建物",
-          "description": "岐阜城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "岐阜城は岐阜市の金華山山頂にある城跡で、織田信長が拠点としたことで知られます。山の上に城を築いた理由や、天下統一への動きを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "21-3",
@@ -1525,10 +1580,15 @@
           "id": "22-2",
           "name": "三保松原",
           "category": "名所・建物",
-          "description": "三保松原は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "三保松原は静岡市の海岸に続く松林で、富士山を望む景勝地です。富士山と海、松林が一体となった景観が文化や芸術に与えた影響を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "22-3",
@@ -1588,10 +1648,15 @@
           "id": "23-2",
           "name": "名古屋城",
           "category": "名所・建物",
-          "description": "名古屋城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "名古屋城は愛知県名古屋市に築かれた城で、金のしゃちほこがよく知られています。徳川家康が築いた城の役割や、城下町の発展を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "23-3",
@@ -1651,10 +1716,15 @@
           "id": "24-2",
           "name": "伊勢神宮",
           "category": "名所・建物",
-          "description": "伊勢神宮は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "伊勢神宮は三重県伊勢市にある神社で、内宮と外宮を中心に多くの人が参拝します。式年遷宮など、長く受け継がれてきた伝統について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "24-3",
@@ -1714,10 +1784,15 @@
           "id": "25-2",
           "name": "彦根城",
           "category": "名所・建物",
-          "description": "彦根城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "彦根城は滋賀県彦根市にある国宝の城です。琵琶湖に近い場所に築かれた理由や、井伊家の居城としての歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "25-3",
@@ -1777,10 +1852,15 @@
           "id": "26-2",
           "name": "清水寺",
           "category": "名所・建物",
-          "description": "清水寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "清水寺は京都市東山区にある寺院で、崖に張り出すように建てられた舞台で知られます。木を組み合わせる建築技術や、京都の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "26-3",
@@ -1840,10 +1920,15 @@
           "id": "27-2",
           "name": "大阪城",
           "category": "名所・建物",
-          "description": "大阪城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "大阪城は大阪市にある城で、豊臣秀吉が築いた城を起源とします。天下統一を進めた秀吉と城の役割、現在に残る石垣などを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "27-3",
@@ -1903,10 +1988,15 @@
           "id": "28-2",
           "name": "姫路城",
           "category": "名所・建物",
-          "description": "姫路城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "姫路城は兵庫県姫路市にある国宝・世界文化遺産の城です。白い外壁や複雑な通路、敵を防ぐための工夫に注目してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "28-3",
@@ -1966,10 +2056,15 @@
           "id": "29-2",
           "name": "東大寺",
           "category": "名所・建物",
-          "description": "東大寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "東大寺は奈良市にある寺院で、大仏を安置する大仏殿で知られます。奈良時代に大仏が造られた目的や、国づくりとの関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "29-3",
@@ -2029,10 +2124,15 @@
           "id": "30-2",
           "name": "高野山",
           "category": "名所・建物",
-          "description": "高野山は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "高野山は和歌山県にある山上の宗教都市で、弘法大師空海が開いた真言密教の聖地です。寺院が集まる町の成り立ちや信仰を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "30-3",
@@ -2092,10 +2192,15 @@
           "id": "31-2",
           "name": "三徳山三佛寺",
           "category": "名所・建物",
-          "description": "三徳山三佛寺は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "三徳山三佛寺は鳥取県三朝町にある山岳寺院です。断崖に建つ投入堂や険しい参拝道から、山岳信仰と自然環境の関係を考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "31-3",
@@ -2155,10 +2260,15 @@
           "id": "32-2",
           "name": "出雲大社",
           "category": "名所・建物",
-          "description": "出雲大社は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "出雲大社は島根県出雲市にある神社で、縁結びの神として知られる大国主大神をまつります。神話や古代の出雲の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "32-3",
@@ -2218,10 +2328,15 @@
           "id": "33-2",
           "name": "岡山城",
           "category": "名所・建物",
-          "description": "岡山城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "岡山城は岡山市にある城で、黒い外観から「烏城」とも呼ばれます。旭川沿いに築かれた城の位置や、城下町の発展を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "33-3",
@@ -2281,10 +2396,15 @@
           "id": "34-2",
           "name": "原爆ドーム",
           "category": "名所・建物",
-          "description": "原爆ドームは、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "原爆ドームは広島市に残る建物で、1945年の原子爆弾投下の惨禍を伝えています。平和の大切さや、戦争の記憶を伝える役割について考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "34-3",
@@ -2344,10 +2464,15 @@
           "id": "35-2",
           "name": "錦帯橋",
           "category": "名所・建物",
-          "description": "錦帯橋は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "錦帯橋は山口県岩国市の錦川に架かる木造の橋です。五つのアーチを組み合わせた構造や、洪水に備えた橋づくりの工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "35-3",
@@ -2407,10 +2532,15 @@
           "id": "36-2",
           "name": "祖谷のかずら橋",
           "category": "名所・建物",
-          "description": "祖谷のかずら橋は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "祖谷のかずら橋は徳島県三好市の祖谷渓に架かるつり橋です。シラクチカズラなどの植物を使った橋の材料や、山深い地域の交通の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "36-3",
@@ -2470,10 +2600,15 @@
           "id": "37-2",
           "name": "栗林公園",
           "category": "名所・建物",
-          "description": "栗林公園は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "栗林公園は香川県高松市にある大名庭園です。池や築山、背景の紫雲山を生かした景色づくりと、庭園を造った人々の工夫を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "37-3",
@@ -2533,10 +2668,15 @@
           "id": "38-2",
           "name": "道後温泉",
           "category": "名所・建物",
-          "description": "道後温泉は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "道後温泉は愛媛県松山市にある歴史ある温泉地です。道後温泉本館の建物や、温泉が地域の観光・人々の暮らしに果たす役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "38-3",
@@ -2596,10 +2736,15 @@
           "id": "39-2",
           "name": "桂浜",
           "category": "名所・建物",
-          "description": "桂浜は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "桂浜は高知市の太平洋に面した海岸で、坂本龍馬像が立つ場所としても知られます。海岸の景観や、土佐の歴史との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "39-3",
@@ -2659,10 +2804,15 @@
           "id": "40-2",
           "name": "太宰府天満宮",
           "category": "名所・建物",
-          "description": "太宰府天満宮は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "太宰府天満宮は福岡県太宰府市にある神社で、菅原道真をまつります。学問の神様として信仰されるようになった歴史や、太宰府の古代の役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "40-3",
@@ -2722,10 +2872,15 @@
           "id": "41-2",
           "name": "吉野ヶ里遺跡",
           "category": "名所・建物",
-          "description": "吉野ヶ里遺跡は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "吉野ヶ里遺跡は佐賀県にある弥生時代の大規模な環濠集落跡です。建物や堀、出土品から、当時の人々の暮らしや社会の様子を考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "41-3",
@@ -2785,10 +2940,15 @@
           "id": "42-2",
           "name": "大浦天主堂",
           "category": "名所・建物",
-          "description": "大浦天主堂は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "大浦天主堂は長崎市にある教会で、幕末に建てられた日本のキリスト教史を伝える建物です。長崎と海外との交流や信仰の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "42-3",
@@ -2848,10 +3008,15 @@
           "id": "43-2",
           "name": "熊本城",
           "category": "名所・建物",
-          "description": "熊本城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "熊本城は熊本市にある城で、加藤清正が築いた城として知られます。高い石垣や複雑な構造、地震からの復旧の取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "43-3",
@@ -2911,10 +3076,15 @@
           "id": "44-2",
           "name": "別府温泉",
           "category": "名所・建物",
-          "description": "別府温泉は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "別府温泉は大分県別府市に広がる温泉地で、源泉や湯けむりが多く見られます。火山活動と温泉の関係や、温泉を生かした町の産業を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "44-3",
@@ -2974,10 +3144,15 @@
           "id": "45-2",
           "name": "青島",
           "category": "名所・建物",
-          "description": "青島は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "青島は宮崎市の海岸近くにある小さな島で、周囲を「鬼の洗濯板」と呼ばれる波状の岩が囲みます。波が岩を削ってできた地形を観察してみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "45-3",
@@ -3037,10 +3212,15 @@
           "id": "46-2",
           "name": "屋久島",
           "category": "名所・建物",
-          "description": "屋久島は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "屋久島は鹿児島県の南にある島で、樹齢の長い屋久杉や豊かな森で知られます。標高による気候や植生の違い、自然を守る取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "46-3",
@@ -3100,10 +3280,15 @@
           "id": "47-2",
           "name": "首里城",
           "category": "名所・建物",
-          "description": "首里城は、地域の歴史や人々の暮らしを伝える場所・建物です。どのような役割をもってきたか調べてみましょう。",
+          "description": "首里城は沖縄県那覇市にある琉球王国の城です。中国や日本などとの交流を通して育まれた琉球の歴史や文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+          }
         },
         {
           "id": "47-3",
