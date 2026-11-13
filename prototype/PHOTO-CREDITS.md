@@ -2,17 +2,17 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：142点 / 全国235項目
+- 写真候補：144点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 36点、名所・建物 39点、食べ物・特産 24点、文化・まつり 25点、産業・工芸 18点
-- ライセンス別：CC BY-SA 4.0 37点、CC BY 2.0 10点、CC BY 4.0 8点、CC BY-SA 3.0 43点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
-- 写真未選定：93項目
+- カテゴリ別：自然・風景 36点、名所・建物 39点、食べ物・特産 25点、文化・まつり 26点、産業・工芸 18点
+- ライセンス別：CC BY-SA 4.0 37点、CC BY 2.0 11点、CC BY 4.0 8点、CC BY-SA 3.0 44点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
+- 写真未選定：91項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
 - パブリックドメイン：作者による公開か、著作権保護期間満了かを個別に区別
 
-| 都道府県 | 図鑑項目 | Commonsファイル | 作者 | ライセンス | 加工状態 |
+| 都道府県 | 項目 | Commonsファイル | 作者 | ライセンス | 加工状態 |
 |---|---|---|---|---|---|
 | 茨城県 | 国営ひたち海浜公園 | [Hitachi Seaside Park.jpg](https://commons.wikimedia.org/wiki/File:Hitachi_Seaside_Park.jpg) | Ohamberger | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 茨城県 | 偕楽園 | [Kairakuen Mito.jpg](https://commons.wikimedia.org/wiki/File:Kairakuen_Mito.jpg) | Lukas from Munich, Germany | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
@@ -40,6 +40,7 @@
 | 千葉県 | 房州うちわ | [Boushuu uchiwa.jpg](https://commons.wikimedia.org/wiki/File:Boushuu_uchiwa.jpg) | zenkota (talk) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 東京都 | 小笠原諸島 | [Ogasawara Islands, Tokyo, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg) | Anagounagi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 東京都 | 東京スカイツリー | [TokyoSkyTree.jpg](https://commons.wikimedia.org/wiki/File:TokyoSkyTree.jpg) | Douglas P. Perkins | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
+| 東京都 | 三社祭 | [Children carry mikoshi Sanja Matsuri 2006.JPG](https://commons.wikimedia.org/wiki/File:Children_carry_mikoshi_Sanja_Matsuri_2006.JPG) | Torsodog | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 東京都 | 江戸切子 | [Edokiriko sold in Kanagawa - Sept 2024.jpeg](https://commons.wikimedia.org/wiki/File:Edokiriko_sold_in_Kanagawa_-_Sept_2024.jpeg) | Nesnad | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 神奈川県 | 箱根の山々と芦ノ湖 | [A view of Lake Ashi, Hakone, Japan.jpg](https://commons.wikimedia.org/wiki/File:A%20view%20of%20Lake%20Ashi%2C%20Hakone%2C%20Japan.jpg) | Joli Rumi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 神奈川県 | 横浜・みなとみらい | [Minato Mirai.jpg](https://commons.wikimedia.org/wiki/File:Minato_Mirai.jpg) | Akonnchiroll | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -137,6 +138,7 @@
 | 高知県 | 四万十川 | [Nishitosa Shimanto river.jpg](https://commons.wikimedia.org/wiki/File:Nishitosa_Shimanto_river.jpg) | Cherrysherbet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 高知県 | よさこい祭り | [Yosakoi Festival in Kochi Japan 2010.jpg](https://commons.wikimedia.org/wiki/File:Yosakoi_Festival_in_Kochi_Japan_2010.jpg) | Kounosu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 福岡県 | 太宰府天満宮 | [DazaifuTenmangu.jpg](https://commons.wikimedia.org/wiki/File:DazaifuTenmangu.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
+| 福岡県 | 博多ラーメン | [Hakata Style 48-Hour Tonkotsu Ramen.jpg](https://commons.wikimedia.org/wiki/File:Hakata_Style_48-Hour_Tonkotsu_Ramen.jpg) | City Foodsters | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 福岡県 | 博多祇園山笠 | [Hakata-gion-yamakasa-oiyama.jpg](https://commons.wikimedia.org/wiki/File:Hakata-gion-yamakasa-oiyama.jpg) | ちょちょじ | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 佐賀県 | 吉野ヶ里遺跡 | [Yoshinogari.jpg](https://commons.wikimedia.org/wiki/File:Yoshinogari.jpg) | STA3816 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 佐賀県 | 有田焼 | [Vase, Arita ware, Japan, c. 1875, porcelain - Peabody Essex Museum - DSC07652.jpg](https://commons.wikimedia.org/wiki/File:Vase%2C_Arita_ware%2C_Japan%2C_c._1875%2C_porcelain_-_Peabody_Essex_Museum_-_DSC07652.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
