@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2217,14 +2217,24 @@
           "category": "文化・まつり",
           "description": "信玄公祭りは、山梨県甲府市で武田信玄をしのんで開かれる祭りです。武者姿の参加者による出陣行列などを通して、戦国時代の甲斐の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Shingen-ko Festival 201904c1.jpg",
+            "author": "江戸村のとくぞう",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shingen-ko_Festival_201904c1.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons個別原ページで対象物・作者・ライセンスを確認済み",
+            "description": "山梨県甲府市の信玄公祭りで行われる甲州軍団出陣"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shingen-ko%20Festival%20201904c1.jpg"
         },
         {
           "id": "19-5",
@@ -2879,14 +2889,24 @@
           "category": "自然・風景",
           "description": "天橋立は京都府宮津市の海にのびる砂州で、松並木が続く景勝地です。砂が運ばれて地形ができるしくみを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Amanohashidate-west.jpg",
+            "author": "Feitclub",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Amanohashidate-west.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons個別原ページで対象物・作者・ライセンスを確認済み",
+            "description": "京都府宮津市の天橋立を西側から望む景色"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amanohashidate-west.jpg"
         },
         {
           "id": "26-2",
