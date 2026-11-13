@@ -121,3 +121,4 @@
 | 新潟県 | 長岡まつり大花火大会 | [Find47 Niigata-The Nagaoka Fireworks Festival-m.jpg](https://commons.wikimedia.org/wiki/File:Find47_Niigata-The_Nagaoka_Fireworks_Festival-m.jpg) | Koichi_Hayakawa | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 長野県 | 信州そば | [Shinshu soba.jpg](https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 島根県 | 石見神楽 | [IwamiKagura-ShioHarai.png](https://commons.wikimedia.org/wiki/File:IwamiKagura-ShioHarai.png) | Pattio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 宮城県 | 仙台城跡 | [Tsume-mon gate of Sendai Castle.jpg](https://commons.wikimedia.org/wiki/File:Tsume-mon_gate_of_Sendai_Castle.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
