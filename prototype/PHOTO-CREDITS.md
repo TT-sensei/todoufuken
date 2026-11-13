@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：145点 / 全国235項目
+- 写真候補：147点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 36点、名所・建物 40点、食べ物・特産 25点、文化・まつり 26点、産業・工芸 18点
-- ライセンス別：CC BY-SA 4.0 38点、CC BY 2.0 11点、CC BY 4.0 8点、CC BY-SA 3.0 44点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
-- 写真未選定：90項目
+- カテゴリ別：自然・風景 36点、名所・建物 42点、食べ物・特産 25点、文化・まつり 26点、産業・工芸 18点
+- ライセンス別：CC BY-SA 4.0 39点、CC BY 2.0 11点、CC BY 4.0 8点、CC BY-SA 3.0 45点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
+- 写真未選定：88項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -121,6 +121,7 @@
 | 和歌山県 | 那智の滝 | [Nachi Falls 2025-10-13.jpg](https://commons.wikimedia.org/wiki/File:Nachi_Falls_2025-10-13.jpg) | Alpsdake | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 和歌山県 | 高野山 | [Koyasan Okunoin 06.JPG](https://commons.wikimedia.org/wiki/File:Koyasan_Okunoin_06.JPG) | Reggaeman | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 鳥取県 | 鳥取砂丘 | [Tottori Sand Dune.jpg](https://commons.wikimedia.org/wiki/File:Tottori_Sand_Dune.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 鳥取県 | 三徳山三佛寺 | [Mitokusan Nageiredo 02.JPG](https://commons.wikimedia.org/wiki/File:Mitokusan_Nageiredo_02.JPG) | Reggaeman | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 島根県 | 宍道湖 | [Lake Shinji.jpg](https://commons.wikimedia.org/wiki/File:Lake_Shinji.jpg) | contri | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 島根県 | 出雲大社 | [Haiden of Izumo-taisha-1.JPG](https://commons.wikimedia.org/wiki/File:Haiden_of_Izumo-taisha-1.JPG) | Saigen Jiro | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 島根県 | 石見神楽 | [IwamiKagura-ShioHarai.png](https://commons.wikimedia.org/wiki/File:IwamiKagura-ShioHarai.png) | Pattio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -149,6 +150,7 @@
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 馬刺し | [Horse-meat.jpg](https://commons.wikimedia.org/wiki/File:Horse-meat.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大分県 | 由布岳 | [Mt. Yufu (Yufuin, Oita, Japan).jpg](https://commons.wikimedia.org/wiki/File:Mt._Yufu_(Yufuin%2C_Oita%2C_Japan).jpg) | Shubert Ciencia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
+| 大分県 | 別府温泉 | [180131 Umi-Jigoku.jpg](https://commons.wikimedia.org/wiki/File:180131_Umi-Jigoku.jpg) | Totti | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 大分県 | とり天 | [Toriten.JPG](https://commons.wikimedia.org/wiki/File:Toriten.JPG) | Toritencat | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 宮崎県 | 高千穂峡 | [Takachiho-gorge.jpg](https://commons.wikimedia.org/wiki/File:Takachiho-gorge.jpg) | Takasunrise0921 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 宮崎県 | チキン南蛮 | [Chicken nanban Original Nobeoka Japan.jpg](https://commons.wikimedia.org/wiki/File:Chicken_nanban_Original_Nobeoka_Japan.jpg) | Sanjo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
