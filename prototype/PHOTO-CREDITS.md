@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：177点 / 全国235項目
+- 写真候補：178点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 30点、文化・まつり 37点、産業・工芸 25点
-- ライセンス別：CC BY-SA 4.0 50点、CC BY 2.0 14点、CC BY 4.0 9点、CC BY-SA 3.0 53点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 12点、パブリックドメイン（日本） 2点、CC0 1.0 12点、Public domain (PD-self) 2点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点
-- 写真未選定：58項目
+- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 30点、文化・まつり 38点、産業・工芸 25点
+- ライセンス別：CC BY-SA 4.0 50点、CC BY 2.0 14点、CC BY 4.0 9点、CC BY-SA 3.0 54点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 12点、パブリックドメイン（日本） 2点、CC0 1.0 12点、Public domain (PD-self) 2点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点
+- 写真未選定：57項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -174,6 +174,7 @@
 | 熊本県 | 阿蘇山 | [Mount-Aso-Naka-dake.jpg](https://commons.wikimedia.org/wiki/File:Mount-Aso-Naka-dake.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 馬刺し | [Horse-meat.jpg](https://commons.wikimedia.org/wiki/File:Horse-meat.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 熊本県 | 山鹿灯籠まつり | [Yamaga-Lantern.JPG](https://commons.wikimedia.org/wiki/File:Yamaga-Lantern.JPG) | NY066 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大分県 | 由布岳 | [Mt. Yufu (Yufuin, Oita, Japan).jpg](https://commons.wikimedia.org/wiki/File:Mt.%20Yufu%20(Yufuin%2C%20Oita%2C%20Japan).jpg) | Shubert Ciencia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 大分県 | 別府温泉 | [180131 Umi-Jigoku.jpg](https://commons.wikimedia.org/wiki/File:180131%20Umi-Jigoku.jpg) | Totti | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 大分県 | とり天 | [Toriten.JPG](https://commons.wikimedia.org/wiki/File:Toriten.JPG) | Toritencat | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
