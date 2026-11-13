@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：144点 / 全国235項目
+- 写真候補：145点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 36点、名所・建物 39点、食べ物・特産 25点、文化・まつり 26点、産業・工芸 18点
-- ライセンス別：CC BY-SA 4.0 37点、CC BY 2.0 11点、CC BY 4.0 8点、CC BY-SA 3.0 44点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
-- 写真未選定：91項目
+- カテゴリ別：自然・風景 36点、名所・建物 40点、食べ物・特産 25点、文化・まつり 26点、産業・工芸 18点
+- ライセンス別：CC BY-SA 4.0 38点、CC BY 2.0 11点、CC BY 4.0 8点、CC BY-SA 3.0 44点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 9点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点
+- 写真未選定：90項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -96,6 +96,7 @@
 | 長野県 | 信州そば | [Shinshu soba.jpg](https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 長野県 | 御柱祭 | [Onbasira Festival Tateonbasira.JPG](https://commons.wikimedia.org/wiki/File:Onbasira_Festival_Tateonbasira.JPG) | C1815 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 岐阜県 | 白川郷 | [Ogi Shirakawa-gō, Gifu, Japan.jpg](https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 岐阜県 | 岐阜城 | [Gifu Castle Japan03-r.jpg](https://commons.wikimedia.org/wiki/File:Gifu_Castle_Japan03-r.jpg) | Oilstreet | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岐阜県 | 飛騨牛 | [Grilling Hida Beef (Takayama Street Food) (35910429046).jpg](https://commons.wikimedia.org/wiki/File:Grilling_Hida_Beef_(Takayama_Street_Food)_(35910429046).jpg) | Ankur P | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 静岡県 | 三保松原 | [Miho no Matsubara 01.jpg](https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_01.jpg) | Σ64 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 静岡県 | お茶 | [Tea plantation in Shizuoka.jpg](https://commons.wikimedia.org/wiki/File:Tea_plantation_in_Shizuoka.jpg) | ajari from Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
