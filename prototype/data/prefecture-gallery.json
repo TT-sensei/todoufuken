@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2569,14 +2569,24 @@
           "category": "自然・風景",
           "description": "富士山は静岡県と山梨県にまたがる日本を代表する火山です。山の形や噴火の歴史、周辺の湧水など、火山が地域に与える影響を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mount Fuji and Fujinomiya.jpg",
+            "author": "Alpsdake",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount%20Fuji%20and%20Fujinomiya.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで静岡県富士宮市からの撮影・撮影日・作者・CC BY-SA 4.0を確認済み",
+            "description": "静岡県富士宮市の浜石岳から望む富士山と、山麓に広がる富士宮市街地（2016年2月10日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Fuji%20and%20Fujinomiya.jpg"
         },
         {
           "id": "22-2",
@@ -3275,14 +3285,24 @@
           "category": "食べ物・特産",
           "description": "明石焼（玉子焼）は、兵庫県明石市の郷土料理です。卵を多く使ったやわらかな生地をだしにつけて食べる特徴と、明石の食文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Akashiyaki Tamagoyaki.JPG",
+            "author": "Midori",
+            "license": "CC BY-SA 2.1 JP",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Akashiyaki%20Tamagoyaki.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで明石市魚の棚の明石焼・撮影日・作者Midori・CC BY-SA 2.1 JPを確認済み。GFDL等との複数ライセンスのうちCC BY-SA 2.1 JPを選択",
+            "description": "兵庫県明石市・魚の棚の明石焼（玉子焼）（2007年4月6日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Akashiyaki%20Tamagoyaki.JPG"
         },
         {
           "id": "28-4",
@@ -4710,14 +4730,24 @@
           "category": "名所・建物",
           "description": "大浦天主堂は長崎市にある教会で、幕末に建てられた日本のキリスト教史を伝える建物です。長崎と海外との交流や信仰の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Oura Church Nagasaki.JPG",
+            "author": "Chris 73",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Oura%20Church%20Nagasaki.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで大浦天主堂・作者Chris 73・CC BY-SA 3.0を確認済み。作者指定に従い表示名はChris 73とする",
+            "description": "長崎県長崎市にある国宝・大浦天主堂の外観。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oura%20Church%20Nagasaki.JPG"
         },
         {
           "id": "42-3",
@@ -4798,14 +4828,24 @@
           "category": "自然・風景",
           "description": "阿蘇山は熊本県にある火山で、世界有数の規模のカルデラ地形で知られます。火山活動がつくった地形と、草原を利用する人々の暮らしを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mount-Aso-Naka-dake.jpg",
+            "author": "Igorberger",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount-Aso-Naka-dake.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで阿蘇山中岳火口・撮影日・作者・CC BY-SA 3.0を確認済み",
+            "description": "熊本県の阿蘇山・中岳火口と、周囲に広がる火山地形（2009年8月17日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount-Aso-Naka-dake.jpg"
         },
         {
           "id": "43-2",
