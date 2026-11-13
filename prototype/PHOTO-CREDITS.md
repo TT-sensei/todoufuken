@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：108点 / 全国235項目
+- 写真候補：110点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、名所・建物 32点、食べ物・特産 16点、文化・まつり 17点、産業・工芸 15点
-- ライセンス別：CC BY-SA 4.0 28点、CC BY 2.0 7点、CC BY 4.0 5点、CC BY-SA 3.0 35点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 11点、CC0 1.0 7点、CC BY-SA 2.0 6点
-- 写真未選定：127項目
+- カテゴリ別：自然・風景 28点、名所・建物 32点、食べ物・特産 16点、文化・まつり 18点、産業・工芸 16点
+- ライセンス別：CC BY-SA 4.0 28点、CC BY 2.0 7点、CC BY 4.0 5点、CC BY-SA 3.0 35点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 8点、CC BY-SA 2.0 6点
+- 写真未選定：125項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -20,6 +20,7 @@
 | 茨城県 | 笠間焼 | [Kasama Ware, Ibaraki 06.jpg](https://commons.wikimedia.org/wiki/File:Kasama_Ware%2C_Ibaraki_06.jpg) | Σ64 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 栃木県 | 華厳の滝 | [Kegon Falls.jpg](https://commons.wikimedia.org/wiki/File:Kegon_Falls.jpg) | SEKIUCHI | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 栃木県 | 日光東照宮 | [Nikko toshogu shrine.jpg](https://commons.wikimedia.org/wiki/File:Nikko%20toshogu%20shrine.jpg) | Koichi Sato | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 栃木県 | 烏山の山あげ行事 | [2014 Yamaage Matsuri 01.JPG](https://commons.wikimedia.org/wiki/File:2014_Yamaage_Matsuri_01.JPG) | あばさー | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 栃木県 | 益子焼 | [MashikoDaiseiGama202410.jpg](https://commons.wikimedia.org/wiki/File:MashikoDaiseiGama202410.jpg) | FukuroWaraw | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 群馬県 | 草津温泉・湯畑 | [Kusatsu Yubatake.jpg](https://commons.wikimedia.org/wiki/File:Kusatsu_Yubatake.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 群馬県 | 高崎だるま | [Small collection of Daruma dolls - Takasaki - August 2014.jpg](https://commons.wikimedia.org/wiki/File:Small_collection_of_Daruma_dolls_-_Takasaki_-_August_2014.jpg) | nesnad | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
@@ -54,6 +55,7 @@
 | 秋田県 | 角館の武家屋敷 | [Kakunodate.jpg](https://commons.wikimedia.org/wiki/File:Kakunodate.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 秋田県 | きりたんぽ | [Kiritanpo soup.jpg](https://commons.wikimedia.org/wiki/File:Kiritanpo_soup.jpg) | Douglas P Perkins | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 秋田県 | なまはげ | [Namahage comes up now.jpg](https://commons.wikimedia.org/wiki/File:Namahage_comes_up_now.jpg) | 掬茶 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 秋田県 | 川連漆器 | [Craft x Tech exhibition at V&A 2024 - 19.jpg](https://commons.wikimedia.org/wiki/File:Craft_x_Tech_exhibition_at_V%26A_2024_-_19.jpg) | Electriclamb | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 山形県 | 山寺 | [View of Yamadera.jpg](https://commons.wikimedia.org/wiki/File:View_of_Yamadera.jpg) | Japanexperterna.se | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山形県 | さくらんぼ | [YamagataCherries.jpg](https://commons.wikimedia.org/wiki/File:YamagataCherries.jpg) | Rei | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山形県 | 将棋駒 | [Giant Shogi Piece in Tendo.jpg](https://commons.wikimedia.org/wiki/File:Giant_Shogi_Piece_in_Tendo.jpg) | Gorilla Jones | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
