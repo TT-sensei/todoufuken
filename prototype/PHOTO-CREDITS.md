@@ -2,11 +2,9 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した確認用台帳です。表示する際は、各カードの作者・ライセンス・原ページ・加工状態も確認してください。
 
-- 写真候補：84点 / 全国235項目
+- 写真候補：90点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、名所・建物 26点、食べ物・特産 10点、文化・まつり 11点、産業・工芸 9点
-- ライセンス別：CC BY-SA 4.0 21点、CC BY 4.0 3点、CC BY-SA 3.0 28点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 5点、CC0 1.0 5点、CC BY 3.0 5点、CC BY-SA 2.0 5点
-- 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
+- カテゴリ別：自然・風景 28点、産業・工芸 12点、名所・建物 26点、文化・まつり 11点、食べ物・特産 13点ns の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。画像を取得できる環境で、元ファイル・作者・ライセンスを再確認してから実施する
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用する
 - パブリックドメイン：作者による公開か、著作権保護期間満了かを個別に区別して記録
@@ -104,3 +102,6 @@
 - 写真に写る美術作品・彫刻・人物などには、写真そのものの著作権とは別の権利が関係する場合があります。
 - 画像をリサイズ・WebP変換・トリミングした場合は、`changes` と本台帳を更新してください。
 - 現段階では原画像のまま外部参照しており、ローカル保存やオフライン表示には対応していません。
+| 岩手県 | 南部鉄器 | [Nambu Tetsubin.jpg](https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg) | Misakubo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 福井県 | 越前和紙 | [Japanese paper making 03.jpg](https://commons.wikimedia.org/wiki/File:Japanese_paper_making_03.jpg) | TR15336300101 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 京都府 | 西陣織 | [Treadle looms, Nishijin Textile Center, Kyoto - Aug 14, 2005.jpg](https://commons.wikimedia.org/wiki/File:Treadle_looms,_Nishijin_Textile_Center,_Kyoto_-_Aug_14,_2005.jpg) | POHAN CHEN | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
