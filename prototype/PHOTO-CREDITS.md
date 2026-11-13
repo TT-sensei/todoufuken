@@ -5,7 +5,7 @@
 - 写真候補：187点 / 全国235項目
 - 写真候補がある都道府県：47/47
 - カテゴリ別：自然・風景 47点、名所・建物 47点、食べ物・特産 30点、文化・まつり 38点、産業・工芸 25点
-- ライセンス別：CC BY-SA 3.0 58点、CC BY-SA 4.0 54点、CC BY 2.0 14点、パブリックドメイン（作者による公開） 14点、CC0 1.0 13点、CC BY 3.0 12点、CC BY 4.0 9点、CC BY-SA 2.0 7点、パブリックドメイン（日本） 2点、Public domain (PD-self) 2点、CC BY-SA 2.1 JP 2点
+- ライセンス別：CC BY-SA 3.0 57点、CC BY-SA 4.0 54点、CC BY 2.0 14点、パブリックドメイン（作者による公開） 14点、CC0 1.0 14点、CC BY 3.0 12点、CC BY 4.0 9点、CC BY-SA 2.0 7点、パブリックドメイン（日本） 2点、Public domain (PD-self) 2点、CC BY-SA 2.1 JP 2点
 - 写真未選定：48項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
@@ -116,7 +116,7 @@
 | 愛知県 | みそかつ | [Miso katsu, tsukemono and miso soup by shibainu in Nagoya.jpg](https://commons.wikimedia.org/wiki/File:Miso%20katsu%2C%20tsukemono%20and%20miso%20soup%20by%20shibainu%20in%20Nagoya.jpg) | shibainu | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 愛知県 | 犬山祭 | [Inuyama Festival.jpg](https://commons.wikimedia.org/wiki/File:Inuyama_Festival.jpg) | Bariston | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 愛知県 | 瀬戸焼 | [Found MUJI Setoyaki (6910176253).jpg](https://commons.wikimedia.org/wiki/File:Found%20MUJI%20Setoyaki%20(6910176253).jpg) | uemura | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
-| 三重県 | 英虞湾 | [Ago Bay.JPG](https://commons.wikimedia.org/wiki/File:Ago%20Bay.JPG) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 三重県 | 英虞湾 | [Ago Bay viewed from Yokoyama Viewpoint.jpg](https://commons.wikimedia.org/wiki/File:Ago_Bay_viewed_from_Yokoyama_Viewpoint.jpg) | Saigen Jiro | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 三重県 | 伊勢神宮 | [IseShrine.jpg](https://commons.wikimedia.org/wiki/File:IseShrine.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 三重県 | 伊勢うどん | [Ise udon by hirotomo.jpg](https://commons.wikimedia.org/wiki/File:Ise_udon_by_hirotomo.jpg) | hirotomo | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
 | 滋賀県 | 琵琶湖 | [Lake Biwa from Mount Shizu.jpg](https://commons.wikimedia.org/wiki/File:Lake_Biwa_from_Mount_Shizu.jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -132,7 +132,7 @@
 | 大阪府 | たこ焼き | [Takoyaki in Osaka.jpg](https://commons.wikimedia.org/wiki/File:Takoyaki_in_Osaka.jpg) | ZhengZhou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 大阪府 | 天神祭 | [Tenjinmatsuri.JPG](https://commons.wikimedia.org/wiki/File:Tenjinmatsuri.JPG) | Midori | [CC BY-SA 2.1 JP](https://creativecommons.org/licenses/by-sa/2.1/jp/) | 未加工（原画像を表示） |
 | 大阪府 | 堺打刃物 | [Jikko Knives, Sakai (49070649718).jpg](https://commons.wikimedia.org/wiki/File:Jikko%20Knives%2C%20Sakai%20(49070649718).jpg) | Stephan Ridgway | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
-| 兵庫県 | 六甲山 | [Rokko Tenrandai Night View.jpg](https://commons.wikimedia.org/wiki/File:Rokko_Tenrandai_Night_View.jpg) | Laitr Keiows | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 兵庫県 | 六甲山 | [View from Tenrandai Observatory at dusk 20141008-1.JPG](https://commons.wikimedia.org/wiki/File:View_from_Tenrandai_Observatory_at_dusk_20141008-1.JPG) | そらみみ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 兵庫県 | 姫路城 | [Himeji castle hyogo jpn.jpg](https://commons.wikimedia.org/wiki/File:Himeji_castle_hyogo_jpn.jpg) | Goony663 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 兵庫県 | 明石焼 | [Akashiyaki Tamagoyaki.JPG](https://commons.wikimedia.org/wiki/File:Akashiyaki%20Tamagoyaki.JPG) | Midori | [CC BY-SA 2.1 JP](https://creativecommons.org/licenses/by-sa/2.1/jp/) | 未加工（原画像を表示） |
 | 奈良県 | 吉野山 | [Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg](https://commons.wikimedia.org/wiki/File:Yoshino-yama-cherry-blossom-2018-Luka-Peternel.jpg) | Luka Peternel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -149,7 +149,7 @@
 | 岡山県 | 岡山城 | [Okayama Castle (Japan).jpg](https://commons.wikimedia.org/wiki/File:Okayama_Castle_(Japan).jpg) | Lynn0927 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 岡山県 | 西大寺会陽 | [Hadaka Matsuri (-Naked Festival-) in Saidaiji, Japan.jpg](https://commons.wikimedia.org/wiki/File:Hadaka_Matsuri_(-Naked_Festival-)_in_Saidaiji,_Japan.jpg) | Mstyslav Chernov/Unframe/http://www.unframe.com/ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 岡山県 | 備前焼 | [Jar, Bizen ware, Muromachi period, 1500s AD, ceramic - Hakone Museum of Art - Hakone, Kanagawa, Japan - DSC08183.jpg](https://commons.wikimedia.org/wiki/File:Jar%2C_Bizen_ware%2C_Muromachi_period%2C_1500s_AD%2C_ceramic_-_Hakone_Museum_of_Art_-_Hakone%2C_Kanagawa%2C_Japan_-_DSC08183.jpg) | Daderot | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
-| 広島県 | 宮島・弥山 | [Panorama of the floating torii gate at Itsukushima Shrine.jpg](https://commons.wikimedia.org/wiki/File:Panorama_of_the_floating_torii_gate_at_Itsukushima_Shrine.jpg) | Fattony12000 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 広島県 | 宮島・弥山 | [Itsukushima Island, Mt Misen, Torii of Itsukushima Shrine and Ferry for Miyajima Route 001.jpg](https://commons.wikimedia.org/wiki/File:Itsukushima_Island%2C_Mt_Misen%2C_Torii_of_Itsukushima_Shrine_and_Ferry_for_Miyajima_Route_001.jpg) | Naokijp | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | 原爆ドーム | [Hiroshima Peace Memorial (Genbaku Dome), Japan.jpg](https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_(Genbaku_Dome)%2C_Japan.jpg) | Uhooep | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 広島県 | お好み焼き | [Okonomiyaki of Hiroshima.jpg](https://commons.wikimedia.org/wiki/File:Okonomiyaki_of_Hiroshima.jpg) | ノボホショコロトソ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 広島県 | 広島フラワーフェスティバル | [Hiroshima FF 2011.JPG](https://commons.wikimedia.org/wiki/File:Hiroshima_FF_2011.JPG) | Taisyo | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |

@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2916,14 +2916,14 @@
           "description": "英虞湾は三重県志摩市にある入り組んだ海岸が特徴の湾です。リアス海岸の地形や、真珠養殖など海と人々の暮らしの関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "Ago Bay.JPG",
-            "author": "Alpsdake",
-            "license": "CC BY-SA 4.0",
-            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ago%20Bay.JPG",
+            "file": "Ago Bay viewed from Yokoyama Viewpoint.jpg",
+            "author": "Saigen Jiro",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ago_Bay_viewed_from_Yokoyama_Viewpoint.jpg",
             "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページで三重県志摩市の横山展望台から撮影された英虞湾・撮影日・作者・CC BY-SA 4.0を確認済み。原画像5184×3456",
-            "description": "三重県志摩市の横山展望台から望む英虞湾と賢島（2014年12月15日撮影）。"
+            "reviewStatus": "Commons原ページで三重県志摩市の横山展望台から撮影された英虞湾・撮影日・作者・CC0 1.0を確認済み。原画像5990×3960。昼の光で入り組んだリアス海岸が明瞭なため、夕景の従来写真から差し替え（第59版・品質改善調査）",
+            "description": "三重県志摩市の横山展望台から望む英虞湾。入り組んだリアス海岸と島々が広がる（2019年9月15日撮影）。"
           },
           "photoStatus": "選定済み",
           "reference": {
@@ -3406,14 +3406,14 @@
           "description": "六甲山は兵庫県神戸市の北側に連なる山地です。山と海が近い地形や、神戸の町から見える景色との関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "Rokko Tenrandai Night View.jpg",
-            "author": "Laitr Keiows",
-            "license": "CC BY-SA 3.0",
-            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Rokko_Tenrandai_Night_View.jpg",
-            "description": "六甲山天覧台から望む神戸・大阪方面の夜景パノラマ（2012年1月6日撮影）",
-            "reviewStatus": "Commons原ページで六甲山天覧台からの夜景、作者、CC BY-SA 3.0、撮影日を確認。パノラマ合成画像であることも確認し、掲載サムネイルを目視確認済み",
-            "changes": "未加工（原画像を表示）"
+            "file": "View from Tenrandai Observatory at dusk 20141008-1.JPG",
+            "author": "そらみみ",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Tenrandai_Observatory_at_dusk_20141008-1.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで六甲山の天覧台から望む夕景（ポートアイランド・神戸港方面）・撮影日・作者・CC BY-SA 4.0を確認済み。原画像3264×2448。通常の縦横比で山と海と町の近さが伝わるため、極端な横長パノラマ（27439×4116）から差し替え（第59版・品質改善調査）",
+            "description": "六甲山の天覧台から望む神戸の町と港、大阪湾の夕景（2014年10月8日撮影）。"
           },
           "photoStatus": "登録済み",
           "reference": {
@@ -4073,14 +4073,14 @@
           "description": "宮島の弥山は広島県廿日市市の宮島にある山です。山頂からの眺めや原生林など、島の自然と信仰のつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "Panorama of the floating torii gate at Itsukushima Shrine.jpg",
-            "author": "Fattony12000",
+            "file": "Itsukushima Island, Mt Misen, Torii of Itsukushima Shrine and Ferry for Miyajima Route 001.jpg",
+            "author": "Naokijp",
             "license": "CC BY-SA 4.0",
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_floating_torii_gate_at_Itsukushima_Shrine.jpg",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Itsukushima_Island%2C_Mt_Misen%2C_Torii_of_Itsukushima_Shrine_and_Ferry_for_Miyajima_Route_001.jpg",
             "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページで対象物・作者・CC BY-SA 4.0を確認し、画像の実物も目視確認済み",
-            "description": "厳島神社の大鳥居と廿日市市街、背後の山並みを望むパノラマ（弥山山頂そのものを写した写真ではありません）"
+            "reviewStatus": "Commons原ページで海上から見た広島県廿日市市宮島（厳島）の弥山・厳島神社の鳥居・宮島フェリー・撮影日・作者・CC BY-SA 4.0を確認済み。原画像3814×2543。弥山そのものが写っていなかった従来のパノラマから差し替え（第59版・品質改善調査）",
+            "description": "海上から見た宮島（厳島）と弥山。麓に厳島神社の大鳥居が見え、手前を宮島フェリーが航行する（2023年5月2日撮影）。"
           },
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
