@@ -17,7 +17,7 @@
 - 23項目の説明文を追加改稿し、地域の自然・歴史・産業の具体的な説明を補強
 - 検索範囲を全国47都道府県に拡張し、県別に検索結果をまとめて表示
 - 写真の読み込みに失敗した場合の代替表示
-- Wikimedia Commonsの原ページで対象物・作者・ライセンス情報を確認した写真候補を98点登録（47都道府県すべてに1点以上）。写真未選定は137項目
+- Wikimedia Commonsの原ページで対象物・作者・ライセンス情報を確認した写真候補を102点登録（47都道府県すべてに1点以上）。写真未選定は133項目
 - 図鑑の閲覧はMASTER条件に影響しない
 
 ## 全国データの進捗
@@ -34,10 +34,10 @@
 - 参考資料リンクには、そのページで確認できる内容を短く添えている
 
 ## 写真の進捗
-- 写真候補：98点 / 全国235項目
+- 写真候補：102点 / 全国235項目
 - 写真候補がある都道府県：47/47（全都道府県に1点以上）
-- カテゴリ別：自然・風景 28点、産業・工芸 13点、名所・建物 30点、文化・まつり 13点、食べ物・特産 14点
-- ライセンス別：CC BY-SA 4.0 23点、CC BY 2.0 7点、CC BY 4.0 4点、CC BY-SA 3.0 33点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC0 1.0 6点、CC BY-SA 2.0 6点nsのSpecial:FilePathを参照する確認用表示。ローカルWebP化・オフライン対応は未実施
+- カテゴリ別：自然・風景 28点、産業・工芸 15点、名所・建物 30点、文化・まつり 14点、食べ物・特産 15点
+- ライセンス別：CC BY-SA 4.0 24点、CC BY 2.0 7点、CC BY 3.0 8点、CC BY 4.0 4点、CC BY-SA 3.0 35点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC0 1.0 6点、CC BY-SA 2.0 6点nsのSpecial:FilePathを参照する確認用表示。ローカルWebP化・オフライン対応は未実施
 - 写真メタデータにはファイル名、作者、ライセンス、ライセンスURL、原ページ、加工状態、確認状態を登録
 - すべての写真について、公開前に対象物との一致・作者表記・ライセンス条件・原ページを再確認すること
 
@@ -57,6 +57,14 @@
 |---|---|---|---|---|
 | 滋賀県 | 彦根城 | [Hikone Castle château.jpg](https://commons.wikimedia.org/wiki/File:Hikone_Castle_château.jpg) | Hyppolyte de Saint-Rambert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | 三重県 | 伊勢うどん | [Ise udon by hirotomo.jpg](https://commons.wikimedia.org/wiki/File:Ise_udon_by_hirotomo.jpg) | hirotomo | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) |
+
+## 追加写真候補（今回）
+| 都道府県 | 項目 | ファイル | 作者 | ライセンス |
+|---|---|---|---|---|
+| 茨城県 | ほしいも | [Hoshi-imo.JPG](https://commons.wikimedia.org/wiki/File:Hoshi-imo.JPG) | Papakuro | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| 神奈川県 | 鎌倉彫 | [KamakuraBori.jpg](https://commons.wikimedia.org/wiki/File:KamakuraBori.jpg) | Pqks758 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
+| 石川県 | 輪島塗 | [Wajimanurie.JPG](https://commons.wikimedia.org/wiki/File:Wajimanurie.JPG) | fitm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
+| 福井県 | 三国祭 | [Mikuni festival 2022.jpg](https://commons.wikimedia.org/wiki/File:Mikuni_festival_2022.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ## 関東の写真候補（原ページで確認済み）
 | 都県 | 写真 | 作者 | ライセンス |
