@@ -55,7 +55,7 @@ function renderSearchResults(){
 function photoCredit(item){
  const p=item.photo;
  if(!p)return "";
- return `<div class="credit">写真：${esc(p.author)} ／ ${esc(p.license)}<br><a href="${esc(p.sourcePage)}" target="_blank" rel="noopener">Wikimedia Commons 原ページ</a> ・ <a href="${esc(p.licenseUrl)}" target="_blank" rel="noopener">ライセンス</a><br>画像の状態：原画像（ローカル配置前）</div>`;
+ return `<div class="credit">写真：${esc(p.author)} ／ ${esc(p.license)}<br>加工：${esc(p.changes||"未加工")}<br><a href="${esc(p.sourcePage)}" target="_blank" rel="noopener">Wikimedia Commons 原ページ</a> ・ <a href="${esc(p.licenseUrl)}" target="_blank" rel="noopener">ライセンス</a><br>画像の状態：原画像（ローカル配置前）</div>`;
 }
 function card(item){
  const photo=item.photo
