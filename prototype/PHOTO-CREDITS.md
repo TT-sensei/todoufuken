@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：110点 / 全国235項目
+- 写真候補：114点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、名所・建物 32点、食べ物・特産 16点、文化・まつり 18点、産業・工芸 16点
-- ライセンス別：CC BY-SA 4.0 28点、CC BY 2.0 7点、CC BY 4.0 5点、CC BY-SA 3.0 35点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 8点、CC BY-SA 2.0 6点
-- 写真未選定：125項目
+- カテゴリ別：自然・風景 29点、名所・建物 32点、食べ物・特産 18点、文化・まつり 19点、産業・工芸 16点
+- ライセンス別：CC BY-SA 4.0 29点、CC BY 2.0 7点、CC BY 4.0 7点、CC BY-SA 3.0 36点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 8点、CC BY-SA 2.0 6点
+- 写真未選定：121項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -17,16 +17,20 @@
 | 茨城県 | 国営ひたち海浜公園 | [Hitachi Seaside Park.jpg](https://commons.wikimedia.org/wiki/File:Hitachi_Seaside_Park.jpg) | Ohamberger | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 茨城県 | 偕楽園 | [Kairakuen Mito.jpg](https://commons.wikimedia.org/wiki/File:Kairakuen_Mito.jpg) | Lukas from Munich, Germany | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 茨城県 | ほしいも | [茨城名産の干し芋.jpg](https://commons.wikimedia.org/wiki/File:%E8%8C%A8%E5%9F%8E%E5%90%8D%E7%94%A3%E3%81%AE%E5%B9%B2%E3%81%97%E8%8A%8B.jpg) | ジョンドウ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 茨城県 | 水戸の梅まつり | [Kairaku-en, Ibaraki 04.jpg](https://commons.wikimedia.org/wiki/File:Kairaku-en,_Ibaraki_04.jpg) | Σ64 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 茨城県 | 笠間焼 | [Kasama Ware, Ibaraki 06.jpg](https://commons.wikimedia.org/wiki/File:Kasama_Ware%2C_Ibaraki_06.jpg) | Σ64 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 栃木県 | 華厳の滝 | [Kegon Falls.jpg](https://commons.wikimedia.org/wiki/File:Kegon_Falls.jpg) | SEKIUCHI | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 栃木県 | 日光東照宮 | [Nikko toshogu shrine.jpg](https://commons.wikimedia.org/wiki/File:Nikko%20toshogu%20shrine.jpg) | Koichi Sato | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 栃木県 | 宇都宮のぎょうざ | [Gyoza Street, Utsunomiya, April 2020.jpg](https://commons.wikimedia.org/wiki/File:Gyoza_Street,_Utsunomiya,_April_2020.jpg) | Miyuki Meinaka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 栃木県 | 烏山の山あげ行事 | [2014 Yamaage Matsuri 01.JPG](https://commons.wikimedia.org/wiki/File:2014_Yamaage_Matsuri_01.JPG) | あばさー | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 栃木県 | 益子焼 | [MashikoDaiseiGama202410.jpg](https://commons.wikimedia.org/wiki/File:MashikoDaiseiGama202410.jpg) | FukuroWaraw | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
+| 群馬県 | 尾瀬 | [Forest in Oze 14.jpg](https://commons.wikimedia.org/wiki/File:Forest_in_Oze_14.jpg) | Σ64 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 群馬県 | 草津温泉・湯畑 | [Kusatsu Yubatake.jpg](https://commons.wikimedia.org/wiki/File:Kusatsu_Yubatake.jpg) | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 群馬県 | 高崎だるま | [Small collection of Daruma dolls - Takasaki - August 2014.jpg](https://commons.wikimedia.org/wiki/File:Small_collection_of_Daruma_dolls_-_Takasaki_-_August_2014.jpg) | nesnad | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 群馬県 | 富岡製糸場 | [Tomioka Silk Mill.JPG](https://commons.wikimedia.org/wiki/File:Tomioka_Silk_Mill.JPG) | 宮内省（現・宮内庁） | [パブリックドメイン（日本）](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Japan) | 未加工（原画像を表示） |
 | 埼玉県 | 長瀞の岩畳 | [Nagatoro Iwadatami.JPG](https://commons.wikimedia.org/wiki/File:Nagatoro%20Iwadatami.JPG) | NY066（Wikivoyage共有） | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 埼玉県 | 川越一番街の町並み | [Kawagoe.jpg](https://commons.wikimedia.org/wiki/File:Kawagoe.jpg) | Ocdp | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 埼玉県 | 狭山茶 | [Iruma Sayama Tea Field 1.JPG](https://commons.wikimedia.org/wiki/File:Iruma_Sayama_Tea_Field_1.JPG) | 京浜にけ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 埼玉県 | 秩父夜祭 | [ChichibuYomatsuri3.jpg](https://commons.wikimedia.org/wiki/File:ChichibuYomatsuri3.jpg) | Fg2 | [パブリックドメイン（日本）](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Japan) | 未加工（原画像を表示） |
 | 千葉県 | 九十九里浜 | [Kujukuri Beach.jpg](https://commons.wikimedia.org/wiki/File:Kujukuri%20Beach.jpg) | 作者情報なし（PD公開者：Beroccstar） | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 千葉県 | 成田山新勝寺 | [Naritasan Shinshoji Temple.jpg](https://commons.wikimedia.org/wiki/File:Naritasan_Shinshoji_Temple.jpg) | Manish Prabhune | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
