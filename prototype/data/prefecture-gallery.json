@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -69,14 +69,23 @@
           "category": "食べ物・特産",
           "description": "茨城県は、ほしいもの生産量が全国有数の地域です。さつまいもの栽培に適した土地や、蒸して干す加工方法、保存食としての広がりを調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hoshi-imo.JPG",
+            "author": "Papakuro",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hoshi-imo.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "茨城県ひたちなか市で撮影された干しいもの天日干し"
+          },
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hoshi-imo.JPG"
         },
         {
           "id": "08-4",
@@ -769,14 +778,23 @@
           "category": "産業・工芸",
           "description": "鎌倉彫は、木に文様を彫り、漆を塗り重ねて仕上げる神奈川県の伝統工芸です。仏具づくりとの関わりや、彫刻と漆塗りの工程を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "KamakuraBori.jpg",
+            "author": "Pqks758",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:KamakuraBori.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "鎌倉彫の漆器作品"
+          },
           "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
           "reference": {
             "title": "鎌倉市公式 伝統的工芸品「鎌倉彫」",
             "url": "https://www.city.kamakura.kanagawa.jp/shoukou/kamakurabori.html",
             "note": "鎌倉彫の材料、彫刻と漆塗りの工程、歴史"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KamakuraBori.jpg"
         }
       ],
       "region": "関東地方"
@@ -1859,14 +1877,23 @@
           "category": "産業・工芸",
           "description": "輪島塗は石川県輪島市で作られる漆器です。木地づくりや下地塗りを丁寧に重ねる工程、丈夫さを生む技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Wajimanurie.JPG",
+            "author": "fitm",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Wajimanurie.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "石川県輪島市の伝統的な漆器・輪島塗"
+          },
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
             "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wajimanurie.JPG"
         }
       ]
     },
@@ -1937,14 +1964,23 @@
           "category": "文化・まつり",
           "description": "三国祭は、福井県坂井市三国町で行われる祭りです。大きな武者人形を載せた山車が町を巡る様子から、港町の歴史や祭りの役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mikuni festival 2022.jpg",
+            "author": "藤谷良秀 (Yoshihide Fujitani)",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mikuni_festival_2022.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "三国神社前に勢ぞろいした三国祭の山車"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikuni%20festival%202022.jpg"
         },
         {
           "id": "18-5",
