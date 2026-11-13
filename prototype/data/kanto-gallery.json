@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "region": "関東",
   "categories": [
     "自然・風景",
@@ -8,6 +8,11 @@
     "文化・まつり",
     "産業・工芸"
   ],
+  "photoPolicy": {
+    "source": "Wikimedia Commons",
+    "localCopyStatus": "未配置",
+    "note": "写真候補はCommons原ページとライセンスを確認済み。次工程で長辺800px程度のWebPをローカル配置し、imageを相対パスへ変更する。"
+  },
   "prefectures": [
     {
       "code": "08",
@@ -15,30 +20,67 @@
       "capital": "水戸市",
       "items": [
         {
-          "id": "08-kairakuen",
-          "name": "偕楽園",
-          "category": "名所・建物",
-          "description": "水戸市にある日本三名園の一つ。梅の名所として知られ、園内では季節ごとの景色を楽しめます。",
-          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Kairakuen_Mito.jpg/960px-Kairakuen_Mito.jpg",
-          "author": "Lukas from Munich, Germany",
-          "license": "CC BY 2.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-          "source": "https://commons.wikimedia.org/wiki/File:Kairakuen_Mito.jpg",
-          "modified": "表示用に縮小予定"
-        }
-      ],
-      "facts": [
-        {
+          "id": "08-1",
+          "name": "国営ひたち海浜公園",
           "category": "自然・風景",
-          "title": "霞ヶ浦",
-          "description": "茨城県には日本で2番目に広い湖、霞ヶ浦があります。周辺では農業や漁業が行われています。",
-          "source": "pref"
+          "description": "季節によって花や草原の景色が変わる、ひたちなか市の公園。秋には赤く色づくコキアが見られます。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitachi%20Seaside%20Park.jpg",
+          "photo": {
+            "file": "Hitachi Seaside Park.jpg",
+            "author": "Ohamberger",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hitachi_Seaside_Park.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "秋の公園の風景"
+          }
         },
         {
+          "id": "08-2",
+          "name": "偕楽園",
+          "category": "名所・建物",
+          "description": "水戸市にある日本三名園の一つ。梅の名所として知られています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "08-3",
+          "name": "ほしいも",
+          "category": "食べ物・特産",
+          "description": "茨城県では、さつまいもを加工したほしいもの生産がさかんです。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "08-4",
+          "name": "水戸の梅まつり",
+          "category": "文化・まつり",
+          "description": "偕楽園などで梅の花が咲く時期に行われる催しです。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "08-5",
+          "name": "笠間焼",
           "category": "産業・工芸",
-          "title": "筑波研究学園都市",
-          "description": "つくば市には大学や研究機関が集まり、科学技術の研究が行われています。",
-          "source": "pref"
+          "description": "笠間市を中心につくられる陶器。器や花器など、さまざまな作品があります。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasama%20Ware%2C%20Ibaraki%2006.jpg",
+          "photo": {
+            "file": "Kasama Ware, Ibaraki 06.jpg",
+            "author": "Σ64",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kasama_Ware%2C_Ibaraki_06.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "笠間焼の作品"
+          }
         }
       ]
     },
@@ -48,30 +90,58 @@
       "capital": "宇都宮市",
       "items": [
         {
-          "id": "09-nikko",
-          "name": "日光東照宮",
-          "category": "名所・建物",
-          "description": "日光市にある神社。きらびやかな社殿や彫刻など、江戸時代の建築や工芸の技術を伝えています。",
-          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Nikko_toshogu_shrine.jpg/960px-Nikko_toshogu_shrine.jpg",
-          "author": "Koichi Sato",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "source": "https://commons.wikimedia.org/wiki/File:Nikko_toshogu_shrine.jpg",
-          "modified": "表示用に縮小予定"
-        }
-      ],
-      "facts": [
-        {
+          "id": "09-1",
+          "name": "華厳の滝",
           "category": "自然・風景",
-          "title": "華厳の滝",
-          "description": "中禅寺湖から流れ出る水が、高さ約97メートルの岸壁を落ちる滝です。",
-          "source": "pref"
+          "description": "日光市にある高さ約97メートルの滝。中禅寺湖から流れ出る水が岸壁を落ちます。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kegon%20Falls.jpg",
+          "photo": {
+            "file": "Kegon Falls.jpg",
+            "author": "SEKIUCHI",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kegon_Falls.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "華厳の滝"
+          }
         },
         {
+          "id": "09-2",
+          "name": "日光東照宮",
+          "category": "名所・建物",
+          "description": "徳川家康をまつる神社。社殿の彫刻や装飾など、江戸時代の文化を伝えています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "09-3",
+          "name": "宇都宮のぎょうざ",
+          "category": "食べ物・特産",
+          "description": "宇都宮市で親しまれている食文化の一つ。市内には餃子を提供する店が多くあります。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "09-4",
+          "name": "烏山の山あげ行事",
+          "category": "文化・まつり",
+          "description": "那須烏山市に伝わる、屋外に大きな舞台を組み立てて行う伝統行事です。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "09-5",
+          "name": "益子焼",
           "category": "産業・工芸",
-          "title": "益子焼",
-          "description": "益子町を中心につくられてきた陶器。日用品や器など、さまざまな作品があります。",
-          "source": "meti"
+          "description": "益子町を中心につくられる陶器。日常使いの器から美術作品まで幅広く作られます。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         }
       ]
     },
@@ -81,30 +151,67 @@
       "capital": "前橋市",
       "items": [
         {
-          "id": "10-tomioka",
-          "name": "富岡製糸場（明治時代の写真）",
-          "category": "産業・工芸",
-          "description": "明治時代に撮影された富岡製糸場の写真です。日本の近代的な製糸業の始まりを伝える場所です。",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Tomioka_Silk_Mill.JPG",
-          "author": "宮内省（現・宮内庁）",
-          "license": "パブリックドメイン（日本）",
-          "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Japan",
-          "source": "https://commons.wikimedia.org/wiki/File:Tomioka_Silk_Mill.JPG",
-          "modified": "原画像"
-        }
-      ],
-      "facts": [
-        {
+          "id": "10-1",
+          "name": "尾瀬",
           "category": "自然・風景",
-          "title": "尾瀬",
-          "description": "群馬県・福島県・新潟県・栃木県にまたがる湿原で、季節ごとに多くの植物が見られます。",
-          "source": "pref"
+          "description": "群馬県など4県にまたがる湿原。木道を歩きながら、季節ごとの植物や景色を観察できます。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         },
         {
+          "id": "10-2",
+          "name": "草津温泉・湯畑",
+          "category": "名所・建物",
+          "description": "草津町にある温泉地の中心的な景観。湯けむりが立ち上る湯畑が知られています。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kusatsu%20Yubatake.jpg",
+          "photo": {
+            "file": "Kusatsu Yubatake.jpg",
+            "author": "百楽兎",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kusatsu_Yubatake.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "草津温泉の湯畑"
+          }
+        },
+        {
+          "id": "10-3",
+          "name": "こんにゃく",
           "category": "食べ物・特産",
-          "title": "こんにゃくいも",
-          "description": "群馬県はこんにゃくいもの生産がさかんで、こんにゃくづくりにつながっています。",
-          "source": "maff"
+          "description": "群馬県ではこんにゃくいもの栽培がさかんで、こんにゃくづくりにつながっています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "10-4",
+          "name": "高崎だるま",
+          "category": "文化・まつり",
+          "description": "高崎市周辺でつくられるだるま。願いを込めて目を入れる風習があります。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "10-5",
+          "name": "富岡製糸場",
+          "category": "産業・工芸",
+          "description": "明治時代に建てられた製糸工場。日本の近代化と絹産業の歴史を伝える世界遺産です。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomioka%20Silk%20Mill.JPG",
+          "photo": {
+            "file": "Tomioka Silk Mill.JPG",
+            "author": "宮内省（現・宮内庁）",
+            "license": "パブリックドメイン（日本）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Japan",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tomioka_Silk_Mill.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "明治時代の富岡製糸場"
+          }
         }
       ]
     },
@@ -114,30 +221,67 @@
       "capital": "さいたま市",
       "items": [
         {
-          "id": "11-kawagoe",
-          "name": "川越の蔵造りの町並み",
-          "category": "名所・建物",
-          "description": "川越には、火事に強い土蔵造りの商家が並ぶ町並みが残っています。",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Former_warehouse_in_Kawagoe.jpg/960px-Former_warehouse_in_Kawagoe.jpg",
-          "author": "Tyuvc",
-          "license": "CC BY-SA 3.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-          "source": "https://commons.wikimedia.org/wiki/File:Former_warehouse_in_Kawagoe.jpg",
-          "modified": "表示用に縮小予定"
-        }
-      ],
-      "facts": [
-        {
+          "id": "11-1",
+          "name": "長瀞の岩畳",
           "category": "自然・風景",
-          "title": "秩父の山地",
-          "description": "県の西部には山地が広がり、東部には関東平野が広がっています。",
-          "source": "pref"
+          "description": "荒川沿いに広がる岩の地形。川の流れや周辺の自然を観察できる場所です。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         },
         {
+          "id": "11-2",
+          "name": "川越一番街の町並み",
+          "category": "名所・建物",
+          "description": "蔵造りの建物が並ぶ川越の歴史的な町並み。商家の建物から当時の暮らしを想像できます。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kawagoe.jpg",
+          "photo": {
+            "file": "Kawagoe.jpg",
+            "author": "Ocdp",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kawagoe.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "川越一番街の町並み"
+          }
+        },
+        {
+          "id": "11-3",
+          "name": "狭山茶",
+          "category": "食べ物・特産",
+          "description": "埼玉県西部を中心につくられるお茶。茶葉を育て、加工する仕事が行われています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "11-4",
+          "name": "秩父夜祭",
+          "category": "文化・まつり",
+          "description": "秩父市で毎年12月に行われる祭り。山車の曳行や屋台囃子などで知られています。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChichibuYomatsuri3.jpg",
+          "photo": {
+            "file": "ChichibuYomatsuri3.jpg",
+            "author": "Fg2",
+            "license": "パブリックドメイン（日本）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Japan",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:ChichibuYomatsuri3.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "秩父夜祭"
+          }
+        },
+        {
+          "id": "11-5",
+          "name": "岩槻の人形",
           "category": "産業・工芸",
-          "title": "内陸部の工業",
-          "description": "東京に近い交通の便利さなどを生かし、内陸部にも工業地域が広がっています。",
-          "source": "pref"
+          "description": "さいたま市岩槻区で受け継がれてきた人形づくり。職人の技術が生かされています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         }
       ]
     },
@@ -147,30 +291,67 @@
       "capital": "千葉市",
       "items": [
         {
-          "id": "12-naritasan",
+          "id": "12-1",
+          "name": "九十九里浜",
+          "category": "自然・風景",
+          "description": "太平洋に面して長く続く砂浜。海岸の環境や漁業、観光と関わりがあります。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "12-2",
           "name": "成田山新勝寺",
           "category": "名所・建物",
           "description": "成田市にある歴史ある寺院。大本堂や三重塔などの建物があり、多くの人が訪れます。",
-          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Naritasan_Shinshoji_Temple_01.jpg/960px-Naritasan_Shinshoji_Temple_01.jpg",
-          "author": "Σ64",
-          "license": "CC BY 3.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "source": "https://commons.wikimedia.org/wiki/File:Naritasan_Shinshoji_Temple_01.jpg",
-          "modified": "表示用に縮小予定"
-        }
-      ],
-      "facts": [
-        {
-          "category": "自然・風景",
-          "title": "房総半島",
-          "description": "太平洋と東京湾に囲まれた半島で、海岸沿いでは漁業が行われています。",
-          "source": "pref"
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naritasan%20Shinshoji%20Temple.jpg",
+          "photo": {
+            "file": "Naritasan Shinshoji Temple.jpg",
+            "author": "Manish Prabhune",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Naritasan_Shinshoji_Temple.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "成田山新勝寺"
+          }
         },
         {
+          "id": "12-3",
+          "name": "落花生",
           "category": "食べ物・特産",
-          "title": "落花生",
-          "description": "温暖な気候を生かした落花生の栽培が行われ、千葉県の特産品として知られています。",
-          "source": "maff"
+          "description": "千葉県を代表する農産物の一つ。収穫した落花生を乾燥させる「ぼっち」の風景も見られます。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bocchi%20in%20Tako%20town%2C%20Chiba.jpg",
+          "photo": {
+            "file": "Bocchi in Tako town, Chiba.jpg",
+            "author": "On-chan",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Bocchi_in_Tako_town%2C_Chiba.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "多古町で落花生を乾燥させるぼっち"
+          }
+        },
+        {
+          "id": "12-4",
+          "name": "佐原の大祭",
+          "category": "文化・まつり",
+          "description": "香取市佐原で行われる祭り。山車が町並みを進み、地域の伝統を伝えています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "12-5",
+          "name": "房州うちわ",
+          "category": "産業・工芸",
+          "description": "千葉県南部でつくられてきた竹製のうちわ。竹を割るところから仕上げまで手仕事が生かされています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         }
       ]
     },
@@ -180,30 +361,58 @@
       "capital": "新宿区",
       "items": [
         {
-          "id": "13-skytree",
-          "name": "東京スカイツリー",
-          "category": "名所・建物",
-          "description": "東京都墨田区にある高さ634メートルの電波塔。展望台からは東京のまちを広く見渡せます。",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Photo_taken_at_Tokyo_Skytree.jpg",
-          "author": "Pauloleong2002",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "source": "https://commons.wikimedia.org/wiki/File:Photo_taken_at_Tokyo_Skytree.jpg",
-          "modified": "表示用に縮小予定"
-        }
-      ],
-      "facts": [
-        {
+          "id": "13-1",
+          "name": "小笠原諸島",
           "category": "自然・風景",
-          "title": "小笠原諸島",
-          "description": "東京都に属する島々で、独自の生態系が見られる世界自然遺産です。",
-          "source": "bunka"
+          "description": "東京都に属する島々。独自の生き物や自然環境が見られる世界自然遺産です。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         },
         {
+          "id": "13-2",
+          "name": "東京スカイツリー",
+          "category": "名所・建物",
+          "description": "墨田区にある高さ634メートルの電波塔。展望台から東京のまちを見渡せます。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TokyoSkyTree.jpg",
+          "photo": {
+            "file": "TokyoSkyTree.jpg",
+            "author": "Douglas P. Perkins",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:TokyoSkyTree.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "浅草から見た東京スカイツリー"
+          }
+        },
+        {
+          "id": "13-3",
+          "name": "江戸前のすし",
+          "category": "食べ物・特産",
+          "description": "東京湾でとれた魚介などを生かして発展してきた食文化です。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "13-4",
+          "name": "三社祭",
+          "category": "文化・まつり",
+          "description": "浅草神社の例大祭。浅草のまちで神輿などを見ることができます。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "13-5",
+          "name": "江戸切子",
           "category": "産業・工芸",
-          "title": "情報通信・商業",
-          "description": "東京都には出版・情報通信・商業など、多くの産業が集まっています。",
-          "source": "pref"
+          "description": "ガラスに模様を刻む伝統工芸。東京都内で受け継がれている職人の技術です。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         }
       ]
     },
@@ -213,30 +422,58 @@
       "capital": "横浜市",
       "items": [
         {
-          "id": "14-minatomirai",
-          "name": "横浜・みなとみらい",
+          "id": "14-1",
+          "name": "箱根の山々と芦ノ湖",
           "category": "自然・風景",
-          "description": "横浜港に面したエリア。高層ビルや商業施設が集まり、港の景色と都市の景観を楽しめます。",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Minato_Mirai.jpg",
-          "author": "Akonnchiroll",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "source": "https://commons.wikimedia.org/wiki/File:Minato_Mirai.jpg",
-          "modified": "表示用に縮小予定"
-        }
-      ],
-      "facts": [
-        {
-          "category": "名所・建物",
-          "title": "鎌倉の寺社",
-          "description": "鎌倉には、武士の政治が行われた時代の寺社や史跡が多く残っています。",
-          "source": "pref"
+          "description": "箱根町に広がる山や湖の景色。火山活動によってできた地形と観光が結び付いています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         },
         {
+          "id": "14-2",
+          "name": "横浜・みなとみらい",
+          "category": "名所・建物",
+          "description": "横浜港に面したエリア。高層ビルや商業施設が集まり、港の景色と都市の景観を楽しめます。",
+          "sourceKey": "prefecture-or-public-source",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minato%20Mirai.jpg",
+          "photo": {
+            "file": "Minato Mirai.jpg",
+            "author": "Akonnchiroll",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Minato_Mirai.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
+            "description": "横浜みなとみらいの景観"
+          }
+        },
+        {
+          "id": "14-3",
+          "name": "三浦だいこん",
+          "category": "食べ物・特産",
+          "description": "三浦半島で栽培される大根。地域の気候や農業と結び付いた特産品です。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "14-4",
+          "name": "鎌倉の伝統行事",
+          "category": "文化・まつり",
+          "description": "鎌倉では寺社を中心に、歴史と結び付いた祭礼や行事が受け継がれています。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
+        },
+        {
+          "id": "14-5",
+          "name": "鎌倉彫",
           "category": "産業・工芸",
-          "title": "京浜工業地帯",
-          "description": "東京湾岸には、機械や化学などの工場が集まる京浜工業地帯が広がっています。",
-          "source": "pref"
+          "description": "木に模様を彫り、漆を塗り重ねて仕上げる伝統工芸です。",
+          "sourceKey": "prefecture-or-public-source",
+          "photo": null,
+          "photoStatus": "未選定"
         }
       ]
     }
