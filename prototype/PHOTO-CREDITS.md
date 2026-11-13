@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：122点 / 全国235項目
+- 写真候補：124点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 31点、名所・建物 34点、食べ物・特産 19点、文化・まつり 21点、産業・工芸 17点
-- ライセンス別：CC BY-SA 4.0 32点、CC BY 2.0 7点、CC BY 4.0 8点、CC BY-SA 3.0 38点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 10点、CC BY-SA 2.0 6点
-- 写真未選定：113項目
+- カテゴリ別：自然・風景 32点、名所・建物 34点、食べ物・特産 19点、文化・まつり 22点、産業・工芸 17点
+- ライセンス別：CC BY-SA 4.0 33点、CC BY 2.0 7点、CC BY 4.0 8点、CC BY-SA 3.0 39点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 10点、CC BY-SA 2.0 6点
+- 写真未選定：111項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -83,6 +83,7 @@
 | 福井県 | 三国祭 | [Mikuni festival 2022.jpg](https://commons.wikimedia.org/wiki/File:Mikuni_festival_2022.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福井県 | 越前和紙 | [Japanese paper making 03.jpg](https://commons.wikimedia.org/wiki/File:Japanese_paper_making_03.jpg) | TR15336300101 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 山梨県 | 富士山と河口湖 | [Mount Fuji from Lake Kawaguchi (2015-10-26).jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Kawaguchi_(2015-10-26).jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 山梨県 | 信玄公祭り | [Shingen-ko Festival 201904c1.jpg](https://commons.wikimedia.org/wiki/File:Shingen-ko_Festival_201904c1.jpg) | 江戸村のとくぞう | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 長野県 | 松本城 | [Matsumoto castle in nagano.jpg](https://commons.wikimedia.org/wiki/File:Matsumoto_castle_in_nagano.jpg) | Oooooko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 長野県 | 信州そば | [Shinshu soba.jpg](https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 長野県 | 御柱祭 | [Onbasira Festival Tateonbasira.JPG](https://commons.wikimedia.org/wiki/File:Onbasira_Festival_Tateonbasira.JPG) | C1815 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
@@ -96,6 +97,7 @@
 | 滋賀県 | 琵琶湖 | [Lake Biwa from Mount Shizu.jpg](https://commons.wikimedia.org/wiki/File:Lake_Biwa_from_Mount_Shizu.jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 滋賀県 | 彦根城 | [Hikone Castle château.jpg](https://commons.wikimedia.org/wiki/File:Hikone_Castle_château.jpg) | Hyppolyte de Saint-Rambert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 滋賀県 | 信楽焼 | [Big Shigaraki ware Tanuki Statue at Sawazen in Shigaraki.jpg](https://commons.wikimedia.org/wiki/File:Big_Shigaraki_ware_Tanuki_Statue_at_Sawazen_in_Shigaraki.jpg) | Motokoka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 京都府 | 天橋立 | [Amanohashidate-west.jpg](https://commons.wikimedia.org/wiki/File:Amanohashidate-west.jpg) | Feitclub | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 京都府 | 清水寺 | [Kiyomizu dera, Kyoto.JPG](https://commons.wikimedia.org/wiki/File:Kiyomizu_dera%2C_Kyoto.JPG) | 螺钉 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 京都府 | 京料理 | [Yatsuhashi nama.jpg](https://commons.wikimedia.org/wiki/File:Yatsuhashi_nama.jpg) | Moja | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 京都府 | 西陣織 | [Treadle looms, Nishijin Textile Center, Kyoto - Aug 14, 2005.jpg](https://commons.wikimedia.org/wiki/File:Treadle_looms,_Nishijin_Textile_Center,_Kyoto_-_Aug_14,_2005.jpg) | POHAN CHEN | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
