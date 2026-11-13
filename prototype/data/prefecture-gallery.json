@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -3822,14 +3822,23 @@
           "category": "自然・風景",
           "description": "宮島の弥山は広島県廿日市市の宮島にある山です。山頂からの眺めや原生林など、島の自然と信仰のつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Panorama of the floating torii gate at Itsukushima Shrine.jpg",
+            "author": "Fattony12000",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_floating_torii_gate_at_Itsukushima_Shrine.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで対象物・作者・CC BY-SA 4.0を確認し、画像の実物も目視確認済み",
+            "description": "厳島神社の大鳥居と廿日市市街、背後の山並みを望むパノラマ（弥山山頂そのものを写した写真ではありません）"
+          },
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20of%20the%20floating%20torii%20gate%20at%20Itsukushima%20Shrine.jpg"
         },
         {
           "id": "34-2",
@@ -5083,14 +5092,23 @@
           "category": "名所・建物",
           "description": "屋久島は鹿児島県の南にある島で、樹齢の長い屋久杉や豊かな森で知られます。標高による気候や植生の違い、自然を守る取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Shiratani Unsui Gorge 17.jpg",
+            "author": "Σ64",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Shiratani_Unsui_Gorge_17.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで屋久島・白谷雲水峡の森林、作者・CC BY 3.0を確認し、画像の実物も目視確認済み",
+            "description": "鹿児島県屋久島・白谷雲水峡の苔むした森林。大きな木々と岩を覆う苔が広がる森の景観"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiratani%20Unsui%20Gorge%2017.jpg"
         },
         {
           "id": "46-3",
@@ -5174,16 +5192,25 @@
           "id": "47-2",
           "name": "首里城",
           "category": "名所・建物",
-          "description": "首里城は沖縄県那覇市にある琉球王国の城です。中国や日本などとの交流を通して育まれた琉球の歴史や文化を調べてみましょう。",
+          "description": "首里城は沖縄県那覇市にある琉球王国の城です。中国や日本などとの交流を通して育まれた琉球の歴史や文化を調べてみましょう。 なお、掲載写真は2011年撮影の火災前の正殿で、現在の復元状況を示すものではありません。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Naha Shuri Castle51s3s4200.jpg",
+            "author": "663highland",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Naha_Shuri_Castle51s3s4200.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで首里城正殿・作者・CC BY-SA 3.0を確認し、画像の実物も目視確認済み",
+            "description": "2011年撮影の火災前の首里城正殿。2019年の火災以前の姿であり、現在の復元状況を示す写真ではありません"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Shuri%20Castle51s3s4200.jpg"
         },
         {
           "id": "47-3",
