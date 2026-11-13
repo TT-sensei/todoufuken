@@ -24,7 +24,7 @@ async function init(){
   renderPrefNav();
   $("#questAvailable").textContent=`出題できる写真：${photoItems.length}点`;
   $("#questRegion").addEventListener("change",updateQuestAvailable);
-  $("#startQuest").addEventListener("click",startQuest);
+  $("#startQuest").addEventListener("click",()=>startQuest());
   $("#nextQuestion").addEventListener("click",nextQuestion);
   $("#retryQuest").addEventListener("click",()=>startQuest(lastQuestConfig));
   $("#toGuide").addEventListener("click",()=>setView("guide"));
