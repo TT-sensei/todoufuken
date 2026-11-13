@@ -76,7 +76,7 @@ function card(item){
  const photo=item.photo
   ?`<img class="item-photo" src="${esc(item.image)}" alt="${esc(item.name)}：${esc(item.photo.description||item.description)}" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
   :`<div class="photo-pending" aria-label="写真を準備中"><span>PHOTO</span><strong>写真を準備中</strong></div>`;
- const status=item.photo?"<span class=\"photo-verified-label\">写真候補・出典確認済み</span>":"<span class=\"pending-label\">写真候補を選定中</span>";
+ const status=item.photo?"<span class=\"photo-verified-label\">写真候補・権利情報を記録</span>":"<span class=\"pending-label\">写真候補を選定中</span>";
  return `<article class="item-card">${photo}<div class="item-body">${status}<h4>${esc(item.name)}</h4><p>${esc(item.description)}</p><div class="inquiry"><span>調べる視点</span><p>${esc(item.inquiry||"この特色は、地域の自然や歴史、人々の暮らしとどう関係しているのだろう？")}</p><small>自分の住む地域や、ほかの都道府県と比べてみよう。</small></div>${photoCredit(item)}${item.reference?`<a class="source-link" href="${esc(item.reference.url)}" target="_blank" rel="noopener">参考資料を開く：${esc(item.reference.title)} ↗</a>${item.reference.note?`<div class="source-note">${esc(item.reference.note)}</div>`:""}`:""}</div></article>`;
 }
 function renderPref(code){
@@ -88,9 +88,9 @@ function renderPref(code){
   const items=matches.filter(x=>x.category===cat);
   if(!items.length)return "";
   const photoCount=items.filter(x=>x.photo).length;
-  return `<section class="category"><div class="category-title"><h3>${esc(cat)}</h3><span></span><small>${photoCount}/${items.length} 写真確認済み</small></div><div class="item-grid">${items.map(card).join("")}</div></section>`;
+  return `<section class="category"><div class="category-title"><h3>${esc(cat)}</h3><span></span><small>${photoCount}/${items.length} 写真候補あり</small></div><div class="item-grid">${items.map(card).join("")}</div></section>`;
  }).join("");
- $("#searchStatus").textContent=searchText?`「${$("#guideSearch").value}」に一致：${matches.length}件 / ${allItems.length}件`:`全${allItems.length}項目を表示中。写真確認済み ${allItems.filter(x=>x.photo).length}件。`;
+ $("#searchStatus").textContent=searchText?`「${$("#guideSearch").value}」に一致：${matches.length}件 / ${allItems.length}件`:`全${allItems.length}項目を表示中。写真候補あり ${allItems.filter(x=>x.photo).length}件。`;
  const empty=matches.length?"":'<div class="empty-state">見つかりませんでした。別の言葉で検索してみよう。</div>';
  $("#detail").innerHTML=`<div class="pref-head"><div><p class="pref-kicker">${esc(p.region)} / PREFECTURE GUIDE ${p.code}</p><h2>${esc(p.name)}<span>${esc(p.region)}</span></h2><p class="capital">${p.code==="13"?"都庁所在地":"県庁所在地"}：${esc(p.capital)}</p></div><span class="status">図鑑の閲覧はMASTER条件に含まれません</span></div>${empty}${sections}<div class="map-note"><strong>学び方：</strong>①見つける：写真や説明から地域の特色に気づく。 ②確かめる：問いを手がかりに参考資料を読む。 ③比べて伝える：ほかの県や自分の地域と比べ、理由と一緒に説明する。場所は地図帳でも確かめてみよう。</div>`;
  $("#detail").querySelectorAll("img.item-photo").forEach(img=>img.addEventListener("error",()=>{
