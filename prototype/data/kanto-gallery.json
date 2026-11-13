@@ -569,7 +569,12 @@
           "description": "さっぽろ雪まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "さっぽろ雪まつり公式サイト",
+            "url": "https://www.snowfes.com/",
+            "note": "開催会場・開催日など公式案内"
+          }
         },
         {
           "id": "01-5",
@@ -822,9 +827,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "川連漆器伝統工芸館",
-            "url": "https://www.kawatsura.or.jp/",
-            "note": "川連漆器の歴史と技法を紹介する組合公式サイト"
+            "title": "湯沢市公式 川連漆器",
+            "url": "https://www.city-yuzawa.jp/site/yuzawatrip/1949.html",
+            "note": "約800年の歴史や技法を紹介"
           }
         }
       ]
@@ -858,9 +863,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "観光情報（山形市公式）",
+            "title": "山形市公式 観光情報",
             "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
-            "note": "山寺や山形市の観光情報への案内"
+            "note": "山寺など市内観光情報への案内"
           }
         },
         {
@@ -870,7 +875,12 @@
           "description": "さくらんぼは、この地域で親しまれている食べ物・特産品です。材料や生産がさかんな理由にも目を向けてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "山形県のご紹介・さくらんぼ",
+            "url": "https://tohoku-kizunamatsuri.jp/special/introduction/yamagata/",
+            "note": "山形のさくらんぼと気候の関係を紹介"
+          }
         },
         {
           "id": "06-4",
@@ -881,9 +891,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "山形市公式 観光情報",
-            "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
-            "note": "山形花笠まつりなど市内行事の案内"
+            "title": "山形花笠まつり（山形県公式）",
+            "url": "https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/hanagasa.html",
+            "note": "祭りの由来・踊り・開催地域を紹介"
           }
         },
         {
@@ -895,9 +905,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "山形県のほっぺTourism",
-            "url": "https://yamagata-kouiki.info/",
-            "note": "天童市の将棋駒文化など村山地域の紹介"
+            "title": "天童市公式 天童と将棋駒",
+            "url": "https://www.city.tendo.yamagata.jp/tourism/shogi/syougikoma.html",
+            "note": "将棋駒の材料・製造工程・産地について"
           }
         }
       ]
