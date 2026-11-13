@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -3559,14 +3559,24 @@
           "category": "名所・建物",
           "description": "三徳山三佛寺は鳥取県三朝町にある山岳寺院です。断崖に建つ投入堂や険しい参拝道から、山岳信仰と自然環境の関係を考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mitokusan Nageiredo 02.JPG",
+            "author": "Reggaeman",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mitokusan_Nageiredo_02.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで投入堂（国宝）の対象物・撮影日・作者・CC BY-SA 3.0を確認済み",
+            "description": "遥拝所から見た三徳山三佛寺の投入堂（国宝、2013年6月16日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitokusan%20Nageiredo%2002.JPG"
         },
         {
           "id": "31-3",
@@ -4916,14 +4926,24 @@
           "category": "名所・建物",
           "description": "別府温泉は大分県別府市に広がる温泉地で、源泉や湯けむりが多く見られます。火山活動と温泉の関係や、温泉を生かした町の産業を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "180131 Umi-Jigoku.jpg",
+            "author": "Totti",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:180131_Umi-Jigoku.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで海地獄の対象物・撮影日・作者・CC BY-SA 4.0を確認済み",
+            "description": "別府地獄めぐりの海地獄（2018年1月31日撮影）"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/180131%20Umi-Jigoku.jpg"
         },
         {
           "id": "44-3",
