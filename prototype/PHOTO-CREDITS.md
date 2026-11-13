@@ -1,16 +1,15 @@
 # 写真クレジット・権利確認台帳
 
-この一覧は `data/prefecture-gallery.json` の写真メタデータをもとに管理する確認用台帳です。公開時は、各カードの作者・ライセンス・原ページ・加工状態を併記してください。
+この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した確認用台帳です。表示する際は、各カードの作者・ライセンス・原ページ・加工状態も確認してください。
 
 - 写真候補：84点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、産業・工芸 9点、名所・建物 26点、文化・まつり 11点、食べ物・特産 10点
+- カテゴリ別：自然・風景 28点、名所・建物 26点、食べ物・特産 10点、文化・まつり 11点、産業・工芸 9点
 - ライセンス別：CC BY-SA 4.0 21点、CC BY 4.0 3点、CC BY-SA 3.0 28点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 10点、CC BY 2.0 5点、CC0 1.0 5点、CC BY 3.0 5点、CC BY-SA 2.0 5点
-- 写真未選定：151項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
-- ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
-- CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
-- パブリックドメイン：作者による公開か、著作権保護期間満了かを個別に区別
+- ローカルWebP化：未実施。画像を取得できる環境で、元ファイル・作者・ライセンスを再確認してから実施する
+- CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用する
+- パブリックドメイン：作者による公開か、著作権保護期間満了かを個別に区別して記録
 
 | 都道府県 | 図鑑項目 | Commonsファイル | 作者 | ライセンス | 加工状態 |
 |---|---|---|---|---|---|
@@ -46,6 +45,7 @@
 | 秋田県 | なまはげ | [Namahage comes up now.jpg](https://commons.wikimedia.org/wiki/File:Namahage_comes_up_now.jpg) | 掬茶 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 山形県 | 山寺 | [View of Yamadera.jpg](https://commons.wikimedia.org/wiki/File:View_of_Yamadera.jpg) | Japanexperterna.se | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山形県 | さくらんぼ | [YamagataCherries.jpg](https://commons.wikimedia.org/wiki/File:YamagataCherries.jpg) | Rei | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 山形県 | 将棋駒 | [Giant Shogi Piece in Tendo.jpg](https://commons.wikimedia.org/wiki/File:Giant_Shogi_Piece_in_Tendo.jpg) | Gorilla Jones | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福島県 | 磐梯山 | [Mt.Bandai.jpg](https://commons.wikimedia.org/wiki/File:Mt.Bandai.jpg) | EXECUTOR | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 福島県 | 鶴ヶ城 | [AizuWakamatsuTsurugaCastle.jpg](https://commons.wikimedia.org/wiki/File:AizuWakamatsuTsurugaCastle.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 新潟県 | 佐渡島 | [SadoGaShima.jpg](https://commons.wikimedia.org/wiki/File:SadoGaShima.jpg) | BehBeh at Japanese Wikipedia | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
@@ -61,6 +61,7 @@
 | 愛知県 | 名古屋城 | [Nagoya Castle2026.jpg](https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg) | 加茂川の民 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 三重県 | 伊勢神宮 | [IseShrine.jpg](https://commons.wikimedia.org/wiki/File:IseShrine.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 滋賀県 | 琵琶湖 | [Lake Biwa from Mount Shizu.jpg](https://commons.wikimedia.org/wiki/File:Lake_Biwa_from_Mount_Shizu.jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 滋賀県 | 信楽焼 | [Big Shigaraki ware Tanuki Statue at Sawazen in Shigaraki.jpg](https://commons.wikimedia.org/wiki/File:Big_Shigaraki_ware_Tanuki_Statue_at_Sawazen_in_Shigaraki.jpg) | Motokoka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 京都府 | 清水寺 | [Kiyomizu dera, Kyoto.JPG](https://commons.wikimedia.org/wiki/File:Kiyomizu_dera%2C_Kyoto.JPG) | 螺钉 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 大阪府 | 大阪城 | [OSAKA CASTLE.jpg](https://commons.wikimedia.org/wiki/File:OSAKA_CASTLE.jpg) | Tokumeigakarinoaoshima | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 兵庫県 | 姫路城 | [Himeji castle hyogo jpn.jpg](https://commons.wikimedia.org/wiki/File:Himeji_castle_hyogo_jpn.jpg) | Goony663 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
