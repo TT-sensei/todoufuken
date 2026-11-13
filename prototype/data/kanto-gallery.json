@@ -616,14 +616,14 @@
           "id": "01-4",
           "name": "さっぽろ雪まつり",
           "category": "文化・まつり",
-          "description": "さっぽろ雪まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "さっぽろ雪まつりは、札幌市で開かれる冬の祭りです。大きな雪像や氷像が並び、雪国の技術や冬の観光の工夫を知ることができます。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "さっぽろ雪まつり公式サイト",
-            "url": "https://www.snowfes.com/",
-            "note": "開催会場・開催日など公式案内"
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           }
         },
         {
@@ -694,14 +694,14 @@
           "id": "02-4",
           "name": "ねぶた祭",
           "category": "文化・まつり",
-          "description": "ねぶた祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "青森ねぶた祭は、色鮮やかな大型のねぶたが町を練り歩く夏祭りです。ねぶたの題材や掛け声、地域の人々が祭りを支える様子を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "弘前のねぷた",
-            "url": "https://www.pref.aomori.lg.jp/soshiki/kyoiku/e-bunka/minzoku_mukei_03.html",
-            "note": "県指定・重要無形民俗文化財の解説"
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           }
         },
         {
@@ -772,10 +772,15 @@
           "id": "03-4",
           "name": "チャグチャグ馬コ",
           "category": "文化・まつり",
-          "description": "チャグチャグ馬コは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "チャグチャグ馬コは、色とりどりの装束を着けた馬が行進する岩手県の伝統行事です。馬への感謝や農耕との関わり、鈴の音の由来を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "03-5",
@@ -840,10 +845,15 @@
           "id": "04-4",
           "name": "仙台七夕まつり",
           "category": "文化・まつり",
-          "description": "仙台七夕まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "仙台七夕まつりは、仙台市で開かれる七夕行事です。商店街を飾る大きな吹き流しや七つ飾りに込められた願いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "04-5",
@@ -913,10 +923,15 @@
           "id": "05-4",
           "name": "なまはげ",
           "category": "文化・まつり",
-          "description": "なまはげは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "なまはげは、秋田県男鹿地方に伝わる行事で、仮面を着けた人が家々を訪れます。地域で受け継がれてきた意味や、年中行事としての役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "05-5",
@@ -986,14 +1001,14 @@
           "id": "06-4",
           "name": "花笠まつり",
           "category": "文化・まつり",
-          "description": "花笠まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "山形花笠まつりは、花笠を手にした踊り手が「花笠音頭」に合わせて踊る祭りです。踊りや衣装、地域に広まった歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "山形花笠まつり（山形県公式）",
-            "url": "https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/hanagasa.html",
-            "note": "祭りの由来・踊り・開催地域を紹介"
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           }
         },
         {
@@ -1064,10 +1079,15 @@
           "id": "07-4",
           "name": "相馬野馬追",
           "category": "文化・まつり",
-          "description": "相馬野馬追は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "相馬野馬追は、福島県相馬地方で受け継がれてきた伝統行事です。甲冑を着けた騎馬武者の行列や神事から、地域の歴史とのつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "07-5",
@@ -1132,10 +1152,15 @@
           "id": "15-4",
           "name": "長岡まつり大花火大会",
           "category": "文化・まつり",
-          "description": "長岡まつり大花火大会は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "長岡まつり大花火大会は、新潟県長岡市で開かれる花火大会です。戦災からの復興を願う行事として始まった背景や、平和への思いを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "15-5",
@@ -1200,10 +1225,15 @@
           "id": "16-4",
           "name": "おわら風の盆",
           "category": "文化・まつり",
-          "description": "おわら風の盆は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "おわら風の盆は、富山県富山市八尾地域で行われる伝統行事です。編み笠をかぶった踊り手や三味線・胡弓の音色など、踊りと音楽の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "16-5",
@@ -1268,10 +1298,15 @@
           "id": "17-4",
           "name": "金沢百万石まつり",
           "category": "文化・まつり",
-          "description": "金沢百万石まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "金沢百万石まつりは、加賀藩祖・前田利家の金沢入城をしのぶ祭りです。時代行列や伝統芸能を通して、加賀藩と金沢の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "17-5",
@@ -1336,10 +1371,15 @@
           "id": "18-4",
           "name": "三国祭",
           "category": "文化・まつり",
-          "description": "三国祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "三国祭は、福井県坂井市三国町で行われる祭りです。大きな武者人形を載せた山車が町を巡る様子から、港町の歴史や祭りの役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "18-5",
@@ -1404,10 +1444,15 @@
           "id": "19-4",
           "name": "信玄公祭り",
           "category": "文化・まつり",
-          "description": "信玄公祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "信玄公祭りは、山梨県甲府市で武田信玄をしのんで開かれる祭りです。武者姿の参加者による出陣行列などを通して、戦国時代の甲斐の歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "19-5",
@@ -1472,10 +1517,15 @@
           "id": "20-4",
           "name": "御柱祭",
           "category": "文化・まつり",
-          "description": "御柱祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "御柱祭は、長野県の諏訪大社で行われる伝統的な祭りです。大木を山から曳き出して社殿の四隅に建てる行事の意味や、地域の人々の協力を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "20-5",
@@ -1540,10 +1590,15 @@
           "id": "21-4",
           "name": "高山祭",
           "category": "文化・まつり",
-          "description": "高山祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "高山祭は、岐阜県高山市で春と秋に行われる祭りです。豪華な屋台やからくり人形など、飛騨の木工技術や町人文化との関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "21-5",
@@ -1608,10 +1663,15 @@
           "id": "22-4",
           "name": "浜松まつり",
           "category": "文化・まつり",
-          "description": "浜松まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "浜松まつりは、静岡県浜松市で行われる祭りで、大凧を揚げる行事や御殿屋台の引き回しが知られます。子どもの誕生を祝う風習などを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "22-5",
@@ -1676,10 +1736,15 @@
           "id": "23-4",
           "name": "犬山祭",
           "category": "文化・まつり",
-          "description": "犬山祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "犬山祭は、愛知県犬山市で行われる祭りです。車山（やま）の上で演じられるからくり人形や、城下町に受け継がれる技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "23-5",
@@ -1744,10 +1809,15 @@
           "id": "24-4",
           "name": "上野天神祭",
           "category": "文化・まつり",
-          "description": "上野天神祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "上野天神祭は、三重県伊賀市で行われる祭りです。だんじりや鬼行列が町を巡る様子から、伊賀の歴史や地域に伝わる祭礼文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "24-5",
@@ -1812,10 +1882,15 @@
           "id": "25-4",
           "name": "大津祭",
           "category": "文化・まつり",
-          "description": "大津祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "大津祭は、滋賀県大津市で行われる祭りです。からくり人形を載せた曳山が巡行し、町ごとに受け継がれてきた装飾や物語を見ることができます。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "25-5",
@@ -1880,10 +1955,15 @@
           "id": "26-4",
           "name": "祇園祭",
           "category": "文化・まつり",
-          "description": "祇園祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "祇園祭は、京都市の八坂神社に関わる祭礼で、7月に多くの行事が行われます。山鉾巡行や疫病退散を願う祭りの歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "26-5",
@@ -1948,10 +2028,15 @@
           "id": "27-4",
           "name": "天神祭",
           "category": "文化・まつり",
-          "description": "天神祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "天神祭は、大阪天満宮の祭礼で、船渡御や奉納花火などが行われます。川とともに発展した大阪の町や、祭りを支える人々の役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "27-5",
@@ -2016,10 +2101,15 @@
           "id": "28-4",
           "name": "神戸ルミナリエ",
           "category": "文化・まつり",
-          "description": "神戸ルミナリエは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "神戸ルミナリエは、阪神・淡路大震災の記憶を語り継ぎ、復興への思いを込めて始まった光の行事です。光の作品に込められた願いを考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "28-5",
@@ -2084,10 +2174,15 @@
           "id": "29-4",
           "name": "春日若宮おん祭",
           "category": "文化・まつり",
-          "description": "春日若宮おん祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "春日若宮おん祭は、奈良市の春日大社で受け継がれてきた祭礼です。古い時代の芸能や装束が伝えられる行事から、伝統文化の継承について考えてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "29-5",
@@ -2152,10 +2247,15 @@
           "id": "30-4",
           "name": "那智の扇祭り",
           "category": "文化・まつり",
-          "description": "那智の扇祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "那智の扇祭りは、和歌山県那智勝浦町の熊野那智大社で行われる祭礼です。扇神輿や那智の滝に関わる神事から、熊野の自然と信仰のつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "30-5",
@@ -2220,10 +2320,15 @@
           "id": "31-4",
           "name": "鳥取しゃんしゃん祭",
           "category": "文化・まつり",
-          "description": "鳥取しゃんしゃん祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "鳥取しゃんしゃん祭は、鳥取市で開かれる夏祭りです。鈴の付いた傘を手に踊る「しゃんしゃん傘踊り」の動きや音、祭りが生まれた背景を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "31-5",
@@ -2288,10 +2393,15 @@
           "id": "32-4",
           "name": "石見神楽",
           "category": "文化・まつり",
-          "description": "石見神楽は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "石見神楽は、島根県西部の石見地方に伝わる神楽です。神話を題材にした舞や、華やかな衣装・大蛇の演目など、地域で受け継がれる芸能を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "32-5",
@@ -2356,10 +2466,15 @@
           "id": "33-4",
           "name": "西大寺会陽",
           "category": "文化・まつり",
-          "description": "西大寺会陽は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "西大寺会陽は、岡山市の西大寺観音院で行われる伝統行事です。裸の参加者が宝木を奪い合うことで知られ、行事の由来や地域の人々の関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "33-5",
@@ -2424,10 +2539,15 @@
           "id": "34-4",
           "name": "広島フラワーフェスティバル",
           "category": "文化・まつり",
-          "description": "広島フラワーフェスティバルは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "広島フラワーフェスティバルは、広島市の平和大通りなどで開かれる祭りです。花や音楽、踊りを通して平和への願いを発信する取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "34-5",
@@ -2492,10 +2612,15 @@
           "id": "35-4",
           "name": "山口七夕ちょうちんまつり",
           "category": "文化・まつり",
-          "description": "山口七夕ちょうちんまつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "山口七夕ちょうちんまつりは、山口市で開かれる夏祭りです。赤い提灯を飾る風景や、大内氏の時代にさかのぼるとされる由来を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "35-5",
@@ -2560,10 +2685,15 @@
           "id": "36-4",
           "name": "阿波おどり",
           "category": "文化・まつり",
-          "description": "阿波おどりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "阿波おどりは、徳島県を代表する盆踊りです。「踊る阿呆に見る阿呆」の掛け声や、連ごとの踊りの違い、地域に広まった歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "36-5",
@@ -2628,10 +2758,15 @@
           "id": "37-4",
           "name": "さぬき高松まつり",
           "category": "文化・まつり",
-          "description": "さぬき高松まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "さぬき高松まつりは、香川県高松市で開かれる夏祭りです。総おどりや花火大会などを通して、地域の人々が祭りをつくる様子を見てみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "37-5",
@@ -2696,10 +2831,15 @@
           "id": "38-4",
           "name": "新居浜太鼓祭り",
           "category": "文化・まつり",
-          "description": "新居浜太鼓祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "新居浜太鼓祭りは、愛媛県新居浜市で行われる祭りです。豪華な太鼓台を大勢で担ぎ上げる姿が特徴で、地域の誇りや祭りの運営について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "38-5",
@@ -2764,10 +2904,15 @@
           "id": "39-4",
           "name": "よさこい祭り",
           "category": "文化・まつり",
-          "description": "よさこい祭りは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "よさこい祭りは、高知市で開かれる踊りの祭りです。鳴子を手に、チームごとに工夫した衣装や音楽で踊る特徴と、全国に広がった理由を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "39-5",
@@ -2832,10 +2977,15 @@
           "id": "40-4",
           "name": "博多祇園山笠",
           "category": "文化・まつり",
-          "description": "博多祇園山笠は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "博多祇園山笠は、福岡市の櫛田神社に奉納される祭りです。舁き山を担いで町を駆け抜ける行事や、博多の町に受け継がれる伝統を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "40-5",
@@ -2900,10 +3050,15 @@
           "id": "41-4",
           "name": "唐津くんち",
           "category": "文化・まつり",
-          "description": "唐津くんちは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "唐津くんちは、佐賀県唐津市の唐津神社の秋祭りです。豪華な曳山が町を巡る様子から、漆工芸の技術や地域の人々の協力について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "41-5",
@@ -2968,10 +3123,15 @@
           "id": "42-4",
           "name": "長崎くんち",
           "category": "文化・まつり",
-          "description": "長崎くんちは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "長崎くんちは、長崎市の諏訪神社の祭礼です。龍踊りや異国文化の影響を受けた演し物などから、海外との交流が長崎の文化に与えた影響を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "42-5",
@@ -3036,10 +3196,15 @@
           "id": "43-4",
           "name": "山鹿灯籠まつり",
           "category": "文化・まつり",
-          "description": "山鹿灯籠まつりは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "山鹿灯籠まつりは、熊本県山鹿市で行われる祭りです。和紙と糊で作られた金灯籠を頭に載せて踊る「千人灯籠踊り」などが知られています。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "43-5",
@@ -3104,10 +3269,15 @@
           "id": "44-4",
           "name": "日田祇園祭",
           "category": "文化・まつり",
-          "description": "日田祇園祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "日田祇園祭は、大分県日田市で行われる夏祭りです。豪華な山鉾が町を巡行し、疫病退散や地域の繁栄を願う伝統が受け継がれています。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "44-5",
@@ -3172,10 +3342,15 @@
           "id": "45-4",
           "name": "宮崎神宮大祭",
           "category": "文化・まつり",
-          "description": "宮崎神宮大祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "宮崎神宮大祭は、宮崎市の宮崎神宮の例祭に合わせて行われる行事です。神武天皇ゆかりの歴史や、御神幸行列などの内容を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "45-5",
@@ -3240,10 +3415,15 @@
           "id": "46-4",
           "name": "おはら祭",
           "category": "文化・まつり",
-          "description": "おはら祭は、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "おはら祭は、鹿児島市で行われる大規模な踊りの祭りです。「おはら節」などの音楽に合わせて踊る様子から、地域の民謡や踊りの文化を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "46-5",
@@ -3308,10 +3488,15 @@
           "id": "47-4",
           "name": "エイサー",
           "category": "文化・まつり",
-          "description": "エイサーは、地域で受け継がれてきた行事や文化です。いつ、どのような願いを込めて行われるのか調べてみましょう。",
+          "description": "エイサーは、沖縄県で旧盆の時期などに踊られる伝統芸能です。太鼓や歌に合わせた踊りや、地域ごとの型の違い、祖先を供養する意味を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": null,
-          "photoStatus": "未選定"
+          "photoStatus": "未選定",
+          "reference": {
+            "title": "文化遺産オンライン（文化庁）",
+            "url": "https://online.bunka.go.jp/heritages/detail_search",
+            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+          }
         },
         {
           "id": "47-5",
