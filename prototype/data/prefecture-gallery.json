@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1956,14 +1956,24 @@
           "category": "自然・風景",
           "description": "白川郷は岐阜県の山あいにある集落で、合掌造りの家並みが知られています。豪雪地帯の自然と、人々の住まいの工夫を結び付けて考えてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Ogi Shirakawa-gō, Gifu, Japan.jpg",
+            "author": "663highland",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa-g%C5%8D%2C_Gifu%2C_Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "岐阜県白川村・荻町の合掌造り集落"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogi%20Shirakawa-g%C5%8D%2C%20Gifu%2C%20Japan.jpg"
         },
         {
           "id": "21-2",
@@ -2230,14 +2240,24 @@
           "category": "名所・建物",
           "description": "伊勢神宮は三重県伊勢市にある神社で、内宮と外宮を中心に多くの人が参拝します。式年遷宮など、長く受け継がれてきた伝統について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "IseShrine.jpg",
+            "author": "Fg2",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:IseShrine.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "三重県伊勢市の伊勢神宮・内宮神楽殿"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IseShrine.jpg"
         },
         {
           "id": "24-3",
@@ -2665,14 +2685,24 @@
           "category": "名所・建物",
           "description": "東大寺は奈良市にある寺院で、大仏を安置する大仏殿で知られます。奈良時代に大仏が造られた目的や、国づくりとの関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tōdai-ji Temple in Nara, Japan.jpg",
+            "author": "Didier Moïse",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Temple_in_Nara%2C_Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "奈良市の東大寺"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/T%C5%8Ddai-ji%20Temple%20in%20Nara%2C%20Japan.jpg"
         },
         {
           "id": "29-3",
@@ -2816,14 +2846,24 @@
           "category": "自然・風景",
           "description": "鳥取砂丘は日本海沿岸に広がる大きな砂丘です。風が砂を運んで地形をつくるしくみや、砂丘に生きる植物について調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tottori Sand Dune.jpg",
+            "author": "百楽兎",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tottori_Sand_Dune.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "鳥取県の鳥取砂丘"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tottori%20Sand%20Dune.jpg"
         },
         {
           "id": "31-2",
@@ -3442,14 +3482,24 @@
           "category": "名所・建物",
           "description": "道後温泉は愛媛県松山市にある歴史ある温泉地です。道後温泉本館の建物や、温泉が地域の観光・人々の暮らしに果たす役割を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Dogo onsen.JPG",
+            "author": "Tordu01",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Dogo_onsen.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "愛媛県松山市の道後温泉本館"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dogo%20onsen.JPG"
         },
         {
           "id": "38-3",
@@ -4214,14 +4264,24 @@
           "category": "自然・風景",
           "description": "慶良間諸島は沖縄県の島々で、透明度の高い海やサンゴ礁で知られます。サンゴ礁の生態系や、海の環境を守る取り組みを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Kerama Island.jpg",
+            "author": "SteFou!",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kerama_Island.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "沖縄本島の西に広がる慶良間諸島の島"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kerama%20Island.jpg"
         },
         {
           "id": "47-2",
