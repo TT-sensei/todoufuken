@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1521,14 +1521,24 @@
           "category": "自然・風景",
           "description": "立山連峰は富山県東部にそびえる山々です。標高の高い場所に見られる雪渓や高山植物など、山の環境の特徴を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Tateyama Mountains viewed from Toyama City 20190416124122.jpg",
+            "author": "shiro524",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Tateyama_Mountains_viewed_from_Toyama_City_20190416124122.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "富山市から望む立山連峰"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tateyama%20Mountains%20viewed%20from%20Toyama%20City%2020190416124122.jpg"
         },
         {
           "id": "16-2",
@@ -1697,14 +1707,24 @@
           "category": "自然・風景",
           "description": "東尋坊は福井県坂井市の海岸にある断崖です。岩の割れ方や柱のような形に注目し、長い時間をかけてできた地形を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "081101 Tojinbo Sakai Fukui pref Japan02bs10.jpg",
+            "author": "663highland",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:081101_Tojinbo_Sakai_Fukui_pref_Japan02bs10.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "福井県坂井市の東尋坊の柱状節理の断崖"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/081101%20Tojinbo%20Sakai%20Fukui%20pref%20Japan02bs10.jpg"
         },
         {
           "id": "18-2",
@@ -1780,14 +1800,24 @@
           "category": "自然・風景",
           "description": "山梨県側から望む富士山と河口湖は、山と湖がつくる景観です。火山としての富士山と、周辺の湖の成り立ちを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mount Fuji from Lake Kawaguchi (2015-10-26).jpg",
+            "author": "Alpsdake",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Kawaguchi_(2015-10-26).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "山梨県の河口湖畔から望む富士山"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Fuji%20from%20Lake%20Kawaguchi%20(2015-10-26).jpg"
         },
         {
           "id": "19-2",
@@ -2328,14 +2358,24 @@
           "category": "自然・風景",
           "description": "琵琶湖は滋賀県にある日本最大の湖です。多くの川が流れ込む水のめぐりや、湖の生き物、人々の生活とのつながりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Lake Biwa from Mount Shizu.jpg",
+            "author": "Alpsdake",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Lake_Biwa_from_Mount_Shizu.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "滋賀県の賤ヶ岳から望む琵琶湖"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Biwa%20from%20Mount%20Shizu.jpg"
         },
         {
           "id": "25-2",
@@ -2783,14 +2823,24 @@
           "category": "自然・風景",
           "description": "那智の滝は和歌山県那智勝浦町にある落差の大きな滝です。周囲の森林や水の流れ、古くから続く信仰との関係を見てみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Nachi Falls 2025-10-13.jpg",
+            "author": "Alpsdake",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Nachi_Falls_2025-10-13.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "和歌山県那智勝浦町の那智滝"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nachi%20Falls%202025-10-13.jpg"
         },
         {
           "id": "30-2",
@@ -2959,14 +3009,24 @@
           "category": "自然・風景",
           "description": "宍道湖は島根県東部にある汽水湖で、海水と淡水が混じり合います。しじみなどの生き物や、湖と海をつなぐ水の流れを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Lake Shinji.jpg",
+            "author": "contri",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Lake_Shinji.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "島根県の宍道湖畔の風景"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Shinji.jpg"
         },
         {
           "id": "32-2",
@@ -3879,14 +3939,24 @@
           "category": "自然・風景",
           "description": "九十九島は長崎県佐世保市周辺の海に島々が連なる景勝地です。複雑な海岸線や島の多さが、海の生き物や漁業にどう関わるか調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "200320 Kujukushima Pearl Sea Resort Sasebo Nagasaki pref Japan10s3.jpg",
+            "author": "663highland",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:200320_Kujukushima_Pearl_Sea_Resort_Sasebo_Nagasaki_pref_Japan10s3.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "長崎県佐世保市の九十九島パールシーリゾートから見た島々"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/200320%20Kujukushima%20Pearl%20Sea%20Resort%20Sasebo%20Nagasaki%20pref%20Japan10s3.jpg"
         },
         {
           "id": "42-2",
@@ -4055,14 +4125,24 @@
           "category": "自然・風景",
           "description": "由布岳は大分県由布市にそびえる火山です。山の形や周辺の温泉など、火山活動と地域の自然・観光の関係を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Mt. Yufu (Yufuin, Oita, Japan).jpg",
+            "author": "Shubert Ciencia",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mt._Yufu_(Yufuin%2C_Oita%2C_Japan).jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで作者・ライセンスを確認済み。ローカル化待ち",
+            "description": "大分県由布市の由布岳"
+          },
+          "photoStatus": "写真候補あり・ローカル化待ち",
           "reference": {
             "title": "環境省「国立公園に、行ってみよう！」",
             "url": "https://www.env.go.jp/nature/nationalparks/list/",
             "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
           },
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt.%20Yufu%20(Yufuin%2C%20Oita%2C%20Japan).jpg"
         },
         {
           "id": "44-2",
