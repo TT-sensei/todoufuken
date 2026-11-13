@@ -77,7 +77,7 @@ function renderPref(code){
  }).join("");
  $("#searchStatus").textContent=searchText?`「${$("#guideSearch").value}」に一致：${matches.length}件 / ${allItems.length}件`:`全${allItems.length}項目を表示中。写真確認済み ${allItems.filter(x=>x.photo).length}件。`;
  const empty=matches.length?"":'<div class="empty-state">見つかりませんでした。別の言葉で検索してみよう。</div>';
- $("#detail").innerHTML=`<div class="pref-head"><div><p class="pref-kicker">${esc(p.region)} / PREFECTURE GUIDE ${p.code}</p><h2>${esc(p.name)}<span>${esc(p.region)}</span></h2><p class="capital">${p.code==="13"?"都庁所在地":"県庁所在地"}：${esc(p.capital)}</p></div><span class="status">図鑑の閲覧はMASTER条件に含まれません</span></div>${empty}${sections}<div class="map-note"><strong>学びのヒント：</strong>写真で見つけた場所を地図帳や日本地図で探してみよう。県のどのあたりにあるか、海や山との位置関係も確かめてみよう。</div>`;
+ $("#detail").innerHTML=`<div class="pref-head"><div><p class="pref-kicker">${esc(p.region)} / PREFECTURE GUIDE ${p.code}</p><h2>${esc(p.name)}<span>${esc(p.region)}</span></h2><p class="capital">${p.code==="13"?"都庁所在地":"県庁所在地"}：${esc(p.capital)}</p></div><span class="status">図鑑の閲覧はMASTER条件に含まれません</span></div>${empty}${sections}<div class="map-note"><strong>学び方：</strong>①見つける：写真や説明から地域の特色に気づく。 ②確かめる：問いを手がかりに参考資料を読む。 ③比べて伝える：ほかの県や自分の地域と比べ、理由と一緒に説明する。場所は地図帳でも確かめてみよう。</div>`;
  $("#detail").querySelectorAll("img.item-photo").forEach(img=>img.addEventListener("error",()=>{
   const fallback=document.createElement("div");
   fallback.className="photo-pending image-error";
