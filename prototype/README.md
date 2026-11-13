@@ -17,7 +17,7 @@
 - 23項目の説明文を追加改稿し、地域の自然・歴史・産業の具体的な説明を補強
 - 検索範囲を全国47都道府県に拡張し、県別に検索結果をまとめて表示
 - 写真の読み込みに失敗した場合の代替表示
-- Wikimedia Commonsの原ページで対象物・作者・ライセンス情報を確認した写真候補を106点登録（47都道府県すべてに1点以上）。写真未選定は129項目
+- Wikimedia Commonsの原ページで対象物・作者・ライセンス情報を確認した写真候補を107点登録（47都道府県すべてに1点以上）。写真未選定は128項目
 - 図鑑の閲覧はMASTER条件に影響しない
 
 ## 全国データの進捗
@@ -34,10 +34,10 @@
 - 参考資料リンクには、そのページで確認できる内容を短く添えている
 
 ## 写真の進捗
-- 写真候補：106点 / 全国235項目
+- 写真候補：107点 / 全国235項目
 - 写真候補がある都道府県：47/47（全都道府県に1点以上）
-- カテゴリ別：自然・風景 28点、産業・工芸 15点、名所・建物 30点、文化・まつり 17点、食べ物・特産 16点
-- ライセンス別：CC BY-SA 4.0 25点、CC BY 2.0 7点、CC BY 3.0 8点、CC BY 4.0 5点、CC BY-SA 3.0 36点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 11点、CC0 1.0 6点、CC BY-SA 2.0 6点nsのSpecial:FilePathを参照する確認用表示。ローカルWebP化・オフライン対応は未実施
+- カテゴリ別：自然・風景 28点、産業・工芸 15点、名所・建物 31点、文化・まつり 17点、食べ物・特産 16点
+- ライセンス別：CC BY-SA 4.0 26点、CC BY 2.0 7点、CC BY 3.0 8点、CC BY 4.0 5点、CC BY-SA 3.0 36点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 11点、CC0 1.0 6点、CC BY-SA 2.0 6点nsのSpecial:FilePathを参照する確認用表示。ローカルWebP化・オフライン対応は未実施
 - 写真メタデータにはファイル名、作者、ライセンス、ライセンスURL、原ページ、加工状態、確認状態を登録
 - すべての写真について、公開前に対象物との一致・作者表記・ライセンス条件・原ページを再確認すること
 
@@ -73,6 +73,11 @@
 | 新潟県 | 長岡まつり大花火大会 | [Find47 Niigata-The Nagaoka Fireworks Festival-m.jpg](https://commons.wikimedia.org/wiki/File:Find47_Niigata-The_Nagaoka_Fireworks_Festival-m.jpg) | Koichi_Hayakawa | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | 長野県 | 信州そば | [Shinshu soba.jpg](https://commons.wikimedia.org/wiki/File:Shinshu_soba.jpg) | 663highland | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 | 島根県 | 石見神楽 | [IwamiKagura-ShioHarai.png](https://commons.wikimedia.org/wiki/File:IwamiKagura-ShioHarai.png) | Pattio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+
+## 追加写真候補（今回）
+| 都道府県 | 項目 | ファイル | 作者 | ライセンス |
+|---|---|---|---|---|
+| 宮城県 | 仙台城跡 | [Tsume-mon gate of Sendai Castle.jpg](https://commons.wikimedia.org/wiki/File:Tsume-mon_gate_of_Sendai_Castle.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ## 関東の写真候補（原ページで確認済み）
 | 都県 | 写真 | 作者 | ライセンス |
