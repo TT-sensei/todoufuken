@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：116点 / 全国235項目
+- 写真候補：118点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 29点、名所・建物 33点、食べ物・特産 18点、文化・まつり 19点、産業・工芸 17点
-- ライセンス別：CC BY-SA 4.0 29点、CC BY 2.0 7点、CC BY 4.0 7点、CC BY-SA 3.0 37点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 9点、CC BY-SA 2.0 6点
-- 写真未選定：119項目
+- カテゴリ別：自然・風景 30点、名所・建物 34点、食べ物・特産 18点、文化・まつり 19点、産業・工芸 17点
+- ライセンス別：CC BY-SA 4.0 29点、CC BY 2.0 7点、CC BY 4.0 8点、CC BY-SA 3.0 38点、パブリックドメイン（作者による公開） 12点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、CC0 1.0 9点、CC BY-SA 2.0 6点
+- 写真未選定：117項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -62,12 +62,14 @@
 | 秋田県 | きりたんぽ | [Kiritanpo soup.jpg](https://commons.wikimedia.org/wiki/File:Kiritanpo_soup.jpg) | Douglas P Perkins | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 秋田県 | なまはげ | [Namahage comes up now.jpg](https://commons.wikimedia.org/wiki/File:Namahage_comes_up_now.jpg) | 掬茶 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 秋田県 | 川連漆器 | [Craft x Tech exhibition at V&A 2024 - 19.jpg](https://commons.wikimedia.org/wiki/File:Craft_x_Tech_exhibition_at_V%26A_2024_-_19.jpg) | Electriclamb | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
+| 山形県 | 蔵王の樹氷 | [Zao juhyo.jpg](https://commons.wikimedia.org/wiki/File:Zao_juhyo.jpg) | Toto-artist | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山形県 | 山寺 | [View of Yamadera.jpg](https://commons.wikimedia.org/wiki/File:View_of_Yamadera.jpg) | Japanexperterna.se | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山形県 | さくらんぼ | [YamagataCherries.jpg](https://commons.wikimedia.org/wiki/File:YamagataCherries.jpg) | Rei | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 山形県 | 将棋駒 | [Giant Shogi Piece in Tendo.jpg](https://commons.wikimedia.org/wiki/File:Giant_Shogi_Piece_in_Tendo.jpg) | Gorilla Jones | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福島県 | 磐梯山 | [Mt.Bandai.jpg](https://commons.wikimedia.org/wiki/File:Mt.Bandai.jpg) | EXECUTOR | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 福島県 | 鶴ヶ城 | [AizuWakamatsuTsurugaCastle.jpg](https://commons.wikimedia.org/wiki/File:AizuWakamatsuTsurugaCastle.jpg) | Fg2 | [パブリックドメイン（作者による公開）](https://commons.wikimedia.org/wiki/Commons:Public_domain) | 未加工（原画像を表示） |
 | 新潟県 | 佐渡島 | [SadoGaShima.jpg](https://commons.wikimedia.org/wiki/File:SadoGaShima.jpg) | BehBeh at Japanese Wikipedia | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 新潟県 | 清津峡 | [Kiyotsu Gorge 2020-08-09 (1) sa.jpg](https://commons.wikimedia.org/wiki/File:Kiyotsu_Gorge_2020-08-09_(1)_sa.jpg) | Araisyohei | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 新潟県 | 長岡まつり大花火大会 | [Find47 Niigata-The Nagaoka Fireworks Festival-m.jpg](https://commons.wikimedia.org/wiki/File:Find47_Niigata-The_Nagaoka_Fireworks_Festival-m.jpg) | Koichi_Hayakawa | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
 | 富山県 | 立山連峰 | [Tateyama Mountains viewed from Toyama City 20190416124122.jpg](https://commons.wikimedia.org/wiki/File:Tateyama_Mountains_viewed_from_Toyama_City_20190416124122.jpg) | shiro524 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 富山県 | 黒部ダム | [KurobeDam.JPG](https://commons.wikimedia.org/wiki/File:KurobeDam.JPG) | Ippukucho | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
