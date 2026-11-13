@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -5113,14 +5113,24 @@
           "category": "文化・まつり",
           "description": "山鹿灯籠まつりは、熊本県山鹿市で行われる祭りです。和紙と糊で作られた金灯籠を頭に載せて踊る「千人灯籠踊り」などが知られています。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Yamaga-Lantern.JPG",
+            "author": "NY066",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yamaga-Lantern.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "熊本県山鹿市の民芸品「山鹿灯籠」。山鹿灯籠まつりで踊り手が頭に載せる、和紙と糊で作られる伝統工芸品。"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yamaga-Lantern.JPG"
         },
         {
           "id": "43-5",
