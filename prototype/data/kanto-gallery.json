@@ -1,0 +1,244 @@
+{
+  "version": 1,
+  "region": "関東",
+  "categories": [
+    "自然・風景",
+    "名所・建物",
+    "食べ物・特産",
+    "文化・まつり",
+    "産業・工芸"
+  ],
+  "prefectures": [
+    {
+      "code": "08",
+      "name": "茨城県",
+      "capital": "水戸市",
+      "items": [
+        {
+          "id": "08-kairakuen",
+          "name": "偕楽園",
+          "category": "名所・建物",
+          "description": "水戸市にある日本三名園の一つ。梅の名所として知られ、園内では季節ごとの景色を楽しめます。",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Kairakuen_Mito.jpg/960px-Kairakuen_Mito.jpg",
+          "author": "Lukas from Munich, Germany",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Kairakuen_Mito.jpg",
+          "modified": "表示用に縮小予定"
+        }
+      ],
+      "facts": [
+        {
+          "category": "自然・風景",
+          "title": "霞ヶ浦",
+          "description": "茨城県には日本で2番目に広い湖、霞ヶ浦があります。周辺では農業や漁業が行われています。",
+          "source": "pref"
+        },
+        {
+          "category": "産業・工芸",
+          "title": "筑波研究学園都市",
+          "description": "つくば市には大学や研究機関が集まり、科学技術の研究が行われています。",
+          "source": "pref"
+        }
+      ]
+    },
+    {
+      "code": "09",
+      "name": "栃木県",
+      "capital": "宇都宮市",
+      "items": [
+        {
+          "id": "09-nikko",
+          "name": "日光東照宮",
+          "category": "名所・建物",
+          "description": "日光市にある神社。きらびやかな社殿や彫刻など、江戸時代の建築や工芸の技術を伝えています。",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Nikko_toshogu_shrine.jpg/960px-Nikko_toshogu_shrine.jpg",
+          "author": "Koichi Sato",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Nikko_toshogu_shrine.jpg",
+          "modified": "表示用に縮小予定"
+        }
+      ],
+      "facts": [
+        {
+          "category": "自然・風景",
+          "title": "華厳の滝",
+          "description": "中禅寺湖から流れ出る水が、高さ約97メートルの岸壁を落ちる滝です。",
+          "source": "pref"
+        },
+        {
+          "category": "産業・工芸",
+          "title": "益子焼",
+          "description": "益子町を中心につくられてきた陶器。日用品や器など、さまざまな作品があります。",
+          "source": "meti"
+        }
+      ]
+    },
+    {
+      "code": "10",
+      "name": "群馬県",
+      "capital": "前橋市",
+      "items": [
+        {
+          "id": "10-tomioka",
+          "name": "富岡製糸場（明治時代の写真）",
+          "category": "産業・工芸",
+          "description": "明治時代に撮影された富岡製糸場の写真です。日本の近代的な製糸業の始まりを伝える場所です。",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Tomioka_Silk_Mill.JPG",
+          "author": "宮内省（現・宮内庁）",
+          "license": "パブリックドメイン（日本）",
+          "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Japan",
+          "source": "https://commons.wikimedia.org/wiki/File:Tomioka_Silk_Mill.JPG",
+          "modified": "原画像"
+        }
+      ],
+      "facts": [
+        {
+          "category": "自然・風景",
+          "title": "尾瀬",
+          "description": "群馬県・福島県・新潟県・栃木県にまたがる湿原で、季節ごとに多くの植物が見られます。",
+          "source": "pref"
+        },
+        {
+          "category": "食べ物・特産",
+          "title": "こんにゃくいも",
+          "description": "群馬県はこんにゃくいもの生産がさかんで、こんにゃくづくりにつながっています。",
+          "source": "maff"
+        }
+      ]
+    },
+    {
+      "code": "11",
+      "name": "埼玉県",
+      "capital": "さいたま市",
+      "items": [
+        {
+          "id": "11-kawagoe",
+          "name": "川越の蔵造りの町並み",
+          "category": "名所・建物",
+          "description": "川越には、火事に強い土蔵造りの商家が並ぶ町並みが残っています。",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Former_warehouse_in_Kawagoe.jpg/960px-Former_warehouse_in_Kawagoe.jpg",
+          "author": "Tyuvc",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Former_warehouse_in_Kawagoe.jpg",
+          "modified": "表示用に縮小予定"
+        }
+      ],
+      "facts": [
+        {
+          "category": "自然・風景",
+          "title": "秩父の山地",
+          "description": "県の西部には山地が広がり、東部には関東平野が広がっています。",
+          "source": "pref"
+        },
+        {
+          "category": "産業・工芸",
+          "title": "内陸部の工業",
+          "description": "東京に近い交通の便利さなどを生かし、内陸部にも工業地域が広がっています。",
+          "source": "pref"
+        }
+      ]
+    },
+    {
+      "code": "12",
+      "name": "千葉県",
+      "capital": "千葉市",
+      "items": [
+        {
+          "id": "12-naritasan",
+          "name": "成田山新勝寺",
+          "category": "名所・建物",
+          "description": "成田市にある歴史ある寺院。大本堂や三重塔などの建物があり、多くの人が訪れます。",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Naritasan_Shinshoji_Temple_01.jpg/960px-Naritasan_Shinshoji_Temple_01.jpg",
+          "author": "Σ64",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Naritasan_Shinshoji_Temple_01.jpg",
+          "modified": "表示用に縮小予定"
+        }
+      ],
+      "facts": [
+        {
+          "category": "自然・風景",
+          "title": "房総半島",
+          "description": "太平洋と東京湾に囲まれた半島で、海岸沿いでは漁業が行われています。",
+          "source": "pref"
+        },
+        {
+          "category": "食べ物・特産",
+          "title": "落花生",
+          "description": "温暖な気候を生かした落花生の栽培が行われ、千葉県の特産品として知られています。",
+          "source": "maff"
+        }
+      ]
+    },
+    {
+      "code": "13",
+      "name": "東京都",
+      "capital": "新宿区",
+      "items": [
+        {
+          "id": "13-skytree",
+          "name": "東京スカイツリー",
+          "category": "名所・建物",
+          "description": "東京都墨田区にある高さ634メートルの電波塔。展望台からは東京のまちを広く見渡せます。",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Photo_taken_at_Tokyo_Skytree.jpg",
+          "author": "Pauloleong2002",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Photo_taken_at_Tokyo_Skytree.jpg",
+          "modified": "表示用に縮小予定"
+        }
+      ],
+      "facts": [
+        {
+          "category": "自然・風景",
+          "title": "小笠原諸島",
+          "description": "東京都に属する島々で、独自の生態系が見られる世界自然遺産です。",
+          "source": "bunka"
+        },
+        {
+          "category": "産業・工芸",
+          "title": "情報通信・商業",
+          "description": "東京都には出版・情報通信・商業など、多くの産業が集まっています。",
+          "source": "pref"
+        }
+      ]
+    },
+    {
+      "code": "14",
+      "name": "神奈川県",
+      "capital": "横浜市",
+      "items": [
+        {
+          "id": "14-minatomirai",
+          "name": "横浜・みなとみらい",
+          "category": "自然・風景",
+          "description": "横浜港に面したエリア。高層ビルや商業施設が集まり、港の景色と都市の景観を楽しめます。",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Minato_Mirai.jpg",
+          "author": "Akonnchiroll",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Minato_Mirai.jpg",
+          "modified": "表示用に縮小予定"
+        }
+      ],
+      "facts": [
+        {
+          "category": "名所・建物",
+          "title": "鎌倉の寺社",
+          "description": "鎌倉には、武士の政治が行われた時代の寺社や史跡が多く残っています。",
+          "source": "pref"
+        },
+        {
+          "category": "産業・工芸",
+          "title": "京浜工業地帯",
+          "description": "東京湾岸には、機械や化学などの工場が集まる京浜工業地帯が広がっています。",
+          "source": "pref"
+        }
+      ]
+    }
+  ]
+}
