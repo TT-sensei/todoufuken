@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：107点 / 全国235項目
+- 写真候補：108点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 28点、名所・建物 31点、食べ物・特産 16点、文化・まつり 17点、産業・工芸 15点
-- ライセンス別：CC BY-SA 4.0 27点、CC BY 2.0 7点、CC BY 4.0 5点、CC BY-SA 3.0 36点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 11点、CC0 1.0 6点、CC BY-SA 2.0 6点
-- 写真未選定：128項目
+- カテゴリ別：自然・風景 28点、名所・建物 32点、食べ物・特産 16点、文化・まつり 17点、産業・工芸 15点
+- ライセンス別：CC BY-SA 4.0 28点、CC BY 2.0 7点、CC BY 4.0 5点、CC BY-SA 3.0 35点、CC BY 3.0 7点、パブリックドメイン（日本） 2点、パブリックドメイン（作者による公開） 11点、CC0 1.0 7点、CC BY-SA 2.0 6点
+- 写真未選定：127項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -65,8 +65,9 @@
 | 富山県 | 黒部ダム | [KurobeDam.JPG](https://commons.wikimedia.org/wiki/File:KurobeDam.JPG) | Ippukucho | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 富山県 | おわら風の盆 | [Kazenobon02.jpg](https://commons.wikimedia.org/wiki/File:Kazenobon02.jpg) | Jinzuu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 石川県 | 兼六園 | [Kenrokuen garden 1.jpg](https://commons.wikimedia.org/wiki/File:Kenrokuen_garden_1.jpg) | Motokoka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
-| 石川県 | 輪島塗 | [Wajimanurie.JPG](https://commons.wikimedia.org/wiki/File:Wajimanurie.JPG) | fitm | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 石川県 | 輪島塗 | [Japanese rice in Wajima-nuri lacquerware.jpg](https://commons.wikimedia.org/wiki/File:Japanese_rice_in_Wajima-nuri_lacquerware.jpg) | Yuuki (Wikimedian) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福井県 | 東尋坊 | [081101 Tojinbo Sakai Fukui pref Japan02bs10.jpg](https://commons.wikimedia.org/wiki/File:081101_Tojinbo_Sakai_Fukui_pref_Japan02bs10.jpg) | 663highland | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 福井県 | 福井県立恐竜博物館 | [Fukui Prefectural Dinosaur Museum 20210504 08.jpg](https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Dinosaur_Museum_20210504_08.jpg) | 先従隗始 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 福井県 | 三国祭 | [Mikuni festival 2022.jpg](https://commons.wikimedia.org/wiki/File:Mikuni_festival_2022.jpg) | 藤谷良秀 (Yoshihide Fujitani) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 福井県 | 越前和紙 | [Japanese paper making 03.jpg](https://commons.wikimedia.org/wiki/File:Japanese_paper_making_03.jpg) | TR15336300101 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 山梨県 | 富士山と河口湖 | [Mount Fuji from Lake Kawaguchi (2015-10-26).jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Kawaguchi_(2015-10-26).jpg) | Alpsdake | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
