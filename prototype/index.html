@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#176b87">
+  <meta name="description" content="都道府県マスター・県図鑑の関東地方試作">
+  <title>県図鑑｜都道府県マスター 試作</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><span class="brand-mark">日</span><span><small>都道府県マスター / PROTOTYPE</small><strong>県図鑑</strong></span></a>
+    <a class="back-link" href="../index.html">本編へ戻る ↗</a>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">JAPAN FIELD GUIDE · KANTO</p>
+        <h1>写真で出会う、<br><em>日本の7つの県。</em></h1>
+        <p>景色や建物、地域に受け継がれてきたものから、その県のことを知っていこう。</p>
+        <div class="hero-meta"><span>関東地方</span><span>7都県</span><span>図鑑プロトタイプ</span></div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><div class="sun"></div><div class="mountain m1"></div><div class="mountain m2"></div><div class="sea"></div><span>DISCOVER JAPAN</span></div>
+    </section>
+    <nav class="pref-nav" aria-label="都県を選ぶ"><div class="section-heading"><div><p class="eyebrow">EXPLORE THE REGION</p><h2>関東地方を歩いてみよう</h2></div><span class="count">01 — 07</span></div><div id="prefList" class="pref-list"></div></nav>
+    <section id="detail" class="detail" aria-live="polite"></section>
+    <footer><span>都道府県マスター / 県図鑑 試作</span><span>学習記録・MASTER条件には影響しません</span></footer>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
