@@ -111,3 +111,5 @@
 | 群馬県 | 高崎だるま | [Small collection of Daruma dolls - Takasaki - August 2014.jpg](https://commons.wikimedia.org/wiki/File:Small_collection_of_Daruma_dolls_-_Takasaki_-_August_2014.jpg) | nesnad | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 千葉県 | 佐原の大祭 | [Sawara festival in Autumn,Katori-city,Japan.jpg](https://commons.wikimedia.org/wiki/File:Sawara_festival_in_Autumn,Katori-city,Japan.jpg) | katorisi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 栃木県 | 益子焼 | [MashikoDaiseiGama202410.jpg](https://commons.wikimedia.org/wiki/File:MashikoDaiseiGama202410.jpg) | FukuroWaraw | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 未加工（原画像を表示） |
+| 滋賀県 | 彦根城 | [Hikone Castle château.jpg](https://commons.wikimedia.org/wiki/File:Hikone_Castle_château.jpg) | Hyppolyte de Saint-Rambert | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
+| 三重県 | 伊勢うどん | [Ise udon by hirotomo.jpg](https://commons.wikimedia.org/wiki/File:Ise_udon_by_hirotomo.jpg) | hirotomo | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
