@@ -132,3 +132,9 @@ body{
   body{background-attachment:scroll}
   .home-screen,.setup-screen,.result-screen{border-radius:20px}
 }
+
+
+/* 写真クエスト・都道府県図鑑への入口 */
+.photo-entry{margin:18px 0;padding:20px 22px;border:1px solid var(--line);border-radius:var(--radius);background:rgba(255,255,255,.92);box-shadow:0 7px 20px rgba(22,61,69,.07)}
+.photo-entry-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}.photo-entry-heading h2{margin:0;font-size:clamp(1.2rem,2vw,1.55rem)}.photo-entry-heading p:last-child{margin:6px 0 0;color:var(--muted);font-size:.86rem;font-weight:700}.photo-entry-mark{display:grid;place-items:center;width:54px;height:54px;border-radius:16px;background:#e6f1ec;color:var(--teal);font-size:1.4rem;font-weight:900}.photo-entry-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:14px}.photo-entry-card{display:grid;grid-template-columns:34px 1fr;gap:3px 10px;align-items:center;padding:14px;border-radius:15px;text-decoration:none;color:var(--ink);border:1px solid #cfe0dc;transition:transform .15s,box-shadow .15s}.photo-entry-card:hover{transform:translateY(-2px);box-shadow:var(--shadow)}.photo-entry-card>span{grid-row:1/4;display:grid;place-items:center;width:30px;height:30px;border-radius:10px;background:#fff;font-size:.72rem;font-weight:900;color:var(--teal)}.photo-entry-card strong{font-size:1.05rem}.photo-entry-card small{font-size:.78rem;line-height:1.5;color:var(--muted)}.photo-entry-card b{font-size:.78rem;color:var(--teal);margin-top:4px}.photo-entry-quest{background:linear-gradient(120deg,#e6f3ee,#f8fbf9)}.photo-entry-guide{background:linear-gradient(120deg,#fdf1dc,#fffaf1)}
+@media(max-width:760px){.photo-entry{padding:16px}.photo-entry-grid{grid-template-columns:1fr}.photo-entry-card{padding:13px}}
