@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -1896,14 +1896,14 @@
           "description": "輪島塗は石川県輪島市で作られる漆器です。木地づくりや下地塗りを丁寧に重ねる工程、丈夫さを生む技術を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
           "photo": {
-            "file": "Wajimanurie.JPG",
-            "author": "fitm",
-            "license": "CC BY-SA 3.0",
-            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Wajimanurie.JPG",
+            "file": "Japanese rice in Wajima-nuri lacquerware.jpg",
+            "author": "Yuuki (Wikimedian)",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_rice_in_Wajima-nuri_lacquerware.jpg",
             "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
-            "description": "石川県輪島市の伝統的な漆器・輪島塗"
+            "reviewStatus": "Commons原ページで輪島塗の漆器が写ること・作者・ライセンスを確認済み",
+            "description": "輪島塗の漆器の椀に盛られたご飯"
           },
           "reference": {
             "title": "経済産業省「伝統的工芸品」",
@@ -1911,7 +1911,7 @@
             "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
           },
           "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wajimanurie.JPG"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_rice_in_Wajima-nuri_lacquerware.jpg"
         }
       ]
     },
@@ -1952,14 +1952,24 @@
           "category": "名所・建物",
           "description": "福井県立恐竜博物館は福井県勝山市にある恐竜の専門博物館です。福井県で見つかった恐竜化石や、化石から昔の生き物を調べる方法を学べます。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Fukui Prefectural Dinosaur Museum 20210504 08.jpg",
+            "author": "先従隗始",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Dinosaur_Museum_20210504_08.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで福井県立恐竜博物館の展示化石・作者・CC0公開を確認済み",
+            "description": "福井県立恐竜博物館に展示されているアロサウルスの化石"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fukui_Prefectural_Dinosaur_Museum_20210504_08.jpg"
         },
         {
           "id": "18-3",
