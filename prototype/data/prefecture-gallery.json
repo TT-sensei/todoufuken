@@ -621,9 +621,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "文化遺産オンライン（文化庁）",
-            "url": "https://online.bunka.go.jp/heritages/detail_search",
-            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+            "title": "さっぽろ雪まつり公式サイト",
+            "url": "https://www.snowfes.com/",
+            "note": "開催会場・開催日など公式案内"
           }
         },
         {
@@ -635,9 +635,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "経済産業省「伝統的工芸品」",
-            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
-            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+            "title": "ウポポイ（民族共生象徴空間）",
+            "url": "https://ainu-upopoy.go.jp/",
+            "note": "アイヌの歴史・文化を学ぶ国立施設の公式情報"
           }
         }
       ]
@@ -671,9 +671,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "文化遺産オンライン（文化庁）",
-            "url": "https://online.bunka.go.jp/heritages/detail_search",
-            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+            "title": "青森県の観光スポット",
+            "url": "https://www.pref.aomori.lg.jp/k-kensei/sightseeing.html",
+            "note": "弘前城・弘前公園など県内観光情報"
           }
         },
         {
@@ -685,9 +685,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "農林水産省「うちの郷土料理」",
-            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
-            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+            "title": "青森県の食べ物",
+            "url": "https://www.pref.aomori.lg.jp/kids/04_food.html",
+            "note": "青森りんごなど県の食べ物を紹介"
           }
         },
         {
@@ -699,9 +699,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "文化遺産オンライン（文化庁）",
-            "url": "https://online.bunka.go.jp/heritages/detail_search",
-            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+            "title": "弘前のねぷた",
+            "url": "https://www.pref.aomori.lg.jp/soshiki/kyoiku/e-bunka/minzoku_mukei_03.html",
+            "note": "県指定・重要無形民俗文化財の解説"
           }
         },
         {
@@ -713,9 +713,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "経済産業省「伝統的工芸品」",
-            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
-            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+            "title": "青森県の伝統工芸品（津軽塗）",
+            "url": "https://www.pref.aomori.lg.jp/soshiki/sangyo/chikikigyo/aomori_dento-kogei_tsugarunuri.html",
+            "note": "津軽塗の歴史・技法・製造工程"
           }
         }
       ]
@@ -869,9 +869,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "経済産業省「伝統的工芸品」",
-            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
-            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+            "title": "宮城の伝統的工芸品／宮城伝統こけし",
+            "url": "https://www.pref.miyagi.jp/soshiki/shinsan/01kokesi.html",
+            "note": "宮城県内のこけし5系統を紹介"
           }
         }
       ]
@@ -947,9 +947,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "経済産業省「伝統的工芸品」",
-            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
-            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+            "title": "湯沢市公式 川連漆器",
+            "url": "https://www.city-yuzawa.jp/site/yuzawatrip/1949.html",
+            "note": "約800年の歴史や技法を紹介"
           }
         }
       ]
@@ -969,9 +969,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "環境省「国立公園に、行ってみよう！」",
-            "url": "https://www.env.go.jp/nature/nationalparks/list/",
-            "note": "日本の国立公園の自然環境や景観を調べる参考資料です。紹介している場所すべてが国立公園という意味ではありません。"
+            "title": "蔵王の樹氷",
+            "url": "https://www.kankou.yamagata.yamagata.jp/zao/jyuhyo/",
+            "note": "樹氷の見ごろ・観賞時の注意"
           }
         },
         {
@@ -983,9 +983,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "文化遺産オンライン（文化庁）",
-            "url": "https://online.bunka.go.jp/heritages/detail_search",
-            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+            "title": "山形市公式 観光情報",
+            "url": "https://www.city.yamagata-yamagata.lg.jp/jigyosya/miryoku/kankojoho/index.html",
+            "note": "山寺など市内観光情報への案内"
           }
         },
         {
@@ -997,9 +997,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "農林水産省「うちの郷土料理」",
-            "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
-            "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
+            "title": "山形県のご紹介・さくらんぼ",
+            "url": "https://tohoku-kizunamatsuri.jp/special/introduction/yamagata/",
+            "note": "山形のさくらんぼと気候の関係を紹介"
           }
         },
         {
@@ -1011,9 +1011,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "文化遺産オンライン（文化庁）",
-            "url": "https://online.bunka.go.jp/heritages/detail_search",
-            "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
+            "title": "山形花笠まつり（山形県公式）",
+            "url": "https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/hanagasa.html",
+            "note": "祭りの由来・踊り・開催地域を紹介"
           }
         },
         {
@@ -1025,9 +1025,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "経済産業省「伝統的工芸品」",
-            "url": "https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/densan/designation.html",
-            "note": "国の「伝統的工芸品」の指定要件を確認できます。個々の品目の指定状況は別途確認してください。"
+            "title": "天童市公式 天童と将棋駒",
+            "url": "https://www.city.tendo.yamagata.jp/tourism/shogi/syougikoma.html",
+            "note": "将棋駒の材料・製造工程・産地について"
           }
         }
       ]
@@ -1061,9 +1061,9 @@
           "photo": null,
           "photoStatus": "未選定",
           "reference": {
-            "title": "文化遺産オンライン（文化庁）",
-            "url": "https://online.bunka.go.jp/heritages/detail_search",
-            "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
+            "title": "福島県内地域別の観光情報",
+            "url": "https://www.pref.fukushima.lg.jp/site/portal/tiiki-kanko.html",
+            "note": "会津地域の鶴ヶ城など県内観光資源を紹介"
           }
         },
         {
