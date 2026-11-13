@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -203,14 +203,24 @@
           "category": "文化・まつり",
           "description": "烏山の山あげ行事は、栃木県那須烏山市に伝わる屋外歌舞伎の祭礼です。大きな山や舞台を町中に設ける仕組みと、地域の人々が受け継ぐ技術を調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
+          "photo": {
+            "file": "2014 Yamaage Matsuri 01.JPG",
+            "author": "あばさー",
+            "license": "パブリックドメイン（作者による公開）",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:2014_Yamaage_Matsuri_01.JPG",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで2014年の栃木県・山あげ祭、作者・パブリックドメイン公開を確認済み",
+            "description": "栃木県那須烏山市で行われた2014年の山あげ祭"
+          },
           "photoStatus": "未選定",
           "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
           "reference": {
             "title": "栃木県公式 伝統・文化",
             "url": "https://www.pref.tochigi.lg.jp/miryoku/ichiran/eizoudenntou.html",
             "note": "山あげ祭など県内の伝統文化を紹介"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2014_Yamaage_Matsuri_01.JPG"
         },
         {
           "id": "09-5",
@@ -1371,14 +1381,24 @@
           "category": "産業・工芸",
           "description": "川連漆器は秋田県湯沢市で作られる漆器です。木地づくりから漆塗りまでの工程や、日常で使う器として受け継がれてきた工夫を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
+          "photo": {
+            "file": "Craft x Tech exhibition at V&A 2024 - 19.jpg",
+            "author": "Electriclamb",
+            "license": "CC0 1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Craft_x_Tech_exhibition_at_V%26A_2024_-_19.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページで川連漆器の展示作品・作者・CC0公開を確認済み",
+            "description": "秋田県の伝統工芸・川連漆器の展示作品"
+          },
           "photoStatus": "未選定",
           "reference": {
             "title": "湯沢市公式 川連漆器",
             "url": "https://www.city-yuzawa.jp/site/yuzawatrip/1949.html",
             "note": "約800年の歴史や技法を紹介"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Craft_x_Tech_exhibition_at_V%26A_2024_-_19.jpg"
         }
       ]
     },
