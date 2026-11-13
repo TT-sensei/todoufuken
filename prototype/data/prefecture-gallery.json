@@ -205,7 +205,7 @@
           "reference": {
             "title": "文化庁 日本遺産「かさましこ」",
             "url": "https://www.japan-heritage.bunka.go.jp/ja/stories/story087/",
-            "note": "笠間焼と益子焼が生まれた歴史や地域のつながり"
+            "note": "笠間焼と益子焼の歴史・地域のつながり"
           }
         }
       ],
@@ -302,7 +302,7 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "明治時代の富岡製糸場"
           },
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "inquiry": "この工場は、どのような産業を支え、日本のものづくりや人々の働き方をどう変えたのだろう？",
           "reference": {
             "title": "群馬県観光公式サイト",
             "url": "https://gunma-kanko.jp/",
@@ -337,7 +337,7 @@
           "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
           "reference": {
             "title": "長瀞町観光協会 岩畳めぐりコース",
-            "url": "https://www.nagatoro.gr.jp/岩畳コース/",
+            "url": "https://www.nagatoro.gr.jp/%E5%B2%A9%E7%95%B3%E3%82%B3%E3%83%BC%E3%82%B9/",
             "note": "岩畳や周辺の地形・地質に関する見どころ"
           }
         },
@@ -458,7 +458,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "成田山新勝寺"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "reference": {
+            "title": "FEEL成田 成田山新勝寺",
+            "url": "https://www.nrtk.jp/enjoy/attraction/shinshoji.html",
+            "note": "寺院の歴史や境内の建物、信仰について紹介"
+          }
         },
         {
           "id": "12-3",
@@ -534,7 +539,12 @@
             "description": "父島から見た小笠原の海岸"
           },
           "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogasawara%20Islands%2C%20Tokyo%2C%20Japan.jpg",
-          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？"
+          "inquiry": "この景色は、どのような地形や気候によって生まれたのだろう？",
+          "reference": {
+            "title": "環境省 小笠原国立公園",
+            "url": "https://www.env.go.jp/nature/nationalparks/list/ogasawara/",
+            "note": "海洋島の成り立ちや固有種、自然環境について紹介"
+          }
         },
         {
           "id": "13-2",
@@ -553,7 +563,12 @@
             "reviewStatus": "Commons原ページの作者・ライセンスを確認済み",
             "description": "浅草から見た東京スカイツリー"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "reference": {
+            "title": "東京スカイツリー公式サイト",
+            "url": "https://www.tokyo-skytree.jp/",
+            "note": "展望台や施設の概要、高さや眺望について紹介"
+          }
         },
         {
           "id": "13-3",
@@ -578,7 +593,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "reference": {
+            "title": "台東区公式 三社祭",
+            "url": "https://www.city.taito.lg.jp/event/kanko/sanzyamatsuri.html",
+            "note": "浅草神社の祭礼や神輿渡御、びんざさら舞について紹介"
+          }
         },
         {
           "id": "13-5",
@@ -588,7 +608,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？"
+          "inquiry": "どんな材料や技術でつくられ、地域の産業や暮らしとどう結び付いているのだろう？",
+          "reference": {
+            "title": "江戸切子協同組合公式",
+            "url": "https://edokiriko.or.jp/",
+            "note": "江戸切子の定義や制作条件、職人・組合の取り組み"
+          }
         }
       ],
       "region": "関東地方"
@@ -669,7 +694,12 @@
           "sourceKey": "prefecture-or-public-source",
           "photo": null,
           "photoStatus": "未選定",
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "reference": {
+            "title": "鎌倉市観光協会 流鏑馬",
+            "url": "https://www.trip-kamakura.com/facility/detail.php?id=237",
+            "note": "鶴岡八幡宮の例大祭で受け継がれる流鏑馬神事の由来"
+          }
         },
         {
           "id": "14-5",
@@ -4020,7 +4050,7 @@
     "四国地方",
     "九州・沖縄地方"
   ],
-  "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。 食べ物・特産カテゴリの全47項目には農林水産省「うちの郷土料理」の検索ページを参考リンクとして設定。各料理の掲載有無は個別確認が必要。 自然・名所・文化・工芸カテゴリの参考リンクは分野別の公的資料検索先。リンク先が各項目そのものを直接解説しているとは限らない。 関東地方の18項目に自治体・観光協会・文化庁等の個別資料を追加。",
+  "referencePolicy": "referenceは各項目の内容を調べるための参考リンク。項目説明全体の裏付けが完了したことを意味しない。リンク先の記述範囲に合わせて説明文を精査する。 食べ物・特産カテゴリの全47項目には農林水産省「うちの郷土料理」の検索ページを参考リンクとして設定。各料理の掲載有無は個別確認が必要。 自然・名所・文化・工芸カテゴリの参考リンクは分野別の公的資料検索先。リンク先が各項目そのものを直接解説しているとは限らない。 関東地方の18項目に自治体・観光協会・文化庁等の個別資料を追加。 東京・神奈川・千葉・栃木の一部項目に、自治体・観光協会・施設の個別資料を追加。",
   "scope": "全国47都道府県",
   "learningGuide": "写真や説明を手がかりに、問いを立てて資料で確かめ、自分の住む地域や他の都道府県と比べて考える。"
 }
