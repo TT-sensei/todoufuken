@@ -71,3 +71,13 @@ Software code and original educational content in this repository are licensed u
 https://polyformproject.org/licenses/noncommercial/1.0.0/
 
 Copyright © 2026 TT-sensei.
+
+
+## 写真クエスト・都道府県図鑑
+
+- ホームから「写真クエスト」と「都道府県図鑑」へ移動できます。
+- 写真クエストは、Wikimedia Commonsの写真候補がある項目から出題し、回答後に名称・都道府県・説明・作者・ライセンス・原ページを表示します。
+- 都道府県図鑑は47都道府県・5カテゴリ・235項目を収録し、県別閲覧と全国検索に対応します。
+- 写真候補228点のうち、画像URLが未記入の候補はCommonsのファイル名から表示URLを補完します。写真未選定の項目は図鑑内で「写真を準備中」と表示します。
+- 写真クエストと図鑑の閲覧は既存の3分野のMASTER条件・保存データを変更しません。
+- 写真の出典・作者・ライセンスは `data/prefecture-gallery.json` と `PHOTO-CREDITS.md` に保持します。
