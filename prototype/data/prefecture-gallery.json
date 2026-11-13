@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -2500,14 +2500,23 @@
           "category": "食べ物・特産",
           "description": "伊勢うどんは、三重県伊勢市で親しまれてきた太くやわらかい麺と濃い色のたれが特徴の料理です。伊勢参りの人々との関わりも調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Ise udon by hirotomo.jpg",
+            "author": "hirotomo",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ise_udon_by_hirotomo.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "三重県の郷土料理・伊勢うどん"
+          },
           "reference": {
             "title": "農林水産省「うちの郷土料理」",
             "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html",
             "note": "47都道府県の郷土料理の由来・歴史・地域の背景を調べられます。料理名や都道府県名で検索してください。"
           },
-          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？"
+          "inquiry": "どんな材料や地域の気候・人々の暮らしと関係しているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ise%20udon%20by%20hirotomo.jpg"
         },
         {
           "id": "24-4",
@@ -2578,14 +2587,23 @@
           "category": "名所・建物",
           "description": "彦根城は滋賀県彦根市にある国宝の城です。琵琶湖に近い場所に築かれた理由や、井伊家の居城としての歴史を調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hikone Castle château.jpg",
+            "author": "Hyppolyte de Saint-Rambert",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hikone_Castle_château.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "彦根城の天守を城内から見た風景"
+          },
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "都道府県や文化財の種類から関連する文化遺産を調べられます。掲載の有無は個別に確認してください。"
           },
-          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？"
+          "inquiry": "いつ、誰が、どのような目的でつくり、地域の歴史とどう関わってきたのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hikone%20Castle%20ch%C3%A2teau.jpg"
         },
         {
           "id": "25-3",
