@@ -2,11 +2,11 @@
 
 この一覧は `data/prefecture-gallery.json` の写真メタデータから作成した台帳です。写真を公開する際は、作者・ライセンス・原ページ・加工状態を画像の近くに表示してください。
 
-- 写真候補：160点 / 全国235項目
+- 写真候補：162点 / 全国235項目
 - 写真候補がある都道府県：47/47
-- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 28点、文化・まつり 29点、産業・工芸 18点
-- ライセンス別：CC BY-SA 4.0 45点、CC BY 2.0 12点、CC BY 4.0 8点、CC BY-SA 3.0 48点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 10点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点
-- 写真未選定：75項目
+- カテゴリ別：自然・風景 39点、名所・建物 46点、食べ物・特産 28点、文化・まつり 29点、産業・工芸 20点
+- ライセンス別：CC BY-SA 4.0 47点、CC BY 2.0 12点、CC BY 4.0 8点、CC BY-SA 3.0 48点、パブリックドメイン（作者による公開） 14点、CC BY 3.0 10点、パブリックドメイン（日本） 2点、CC0 1.0 12点、CC BY-SA 2.0 7点、CC BY-SA 2.1 JP 2点
+- 写真未選定：73項目
 - 現在の画像表示：Wikimedia Commons の Special:FilePath を参照する確認用表示
 - ローカルWebP化：未実施。取得後に元ファイル・作者・ライセンスを再確認してから実施
 - CC BY / CC BY-SA：作者表示、ライセンスリンク、変更の明示が必要。CC BY-SAは改変物に同一または互換ライセンスを適用
@@ -104,6 +104,7 @@
 | 静岡県 | 三保松原 | [Miho no Matsubara 01.jpg](https://commons.wikimedia.org/wiki/File:Miho_no_Matsubara_01.jpg) | Σ64 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 未加工（原画像を表示） |
 | 静岡県 | お茶 | [Tea plantation in Shizuoka.jpg](https://commons.wikimedia.org/wiki/File:Tea_plantation_in_Shizuoka.jpg) | ajari from Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 静岡県 | 浜松まつり | [Hamamatsu festival a.JPG](https://commons.wikimedia.org/wiki/File:Hamamatsu%20festival%20a.JPG) | Jfr0595 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
+| 静岡県 | 駿河竹千筋細工 | [Suruga Bamboo Craft 01 （駿河竹千筋細工）.jpg](https://commons.wikimedia.org/wiki/File:Suruga%20Bamboo%20Craft%2001%20%EF%BC%88%E9%A7%BF%E6%B2%B3%E7%AB%B9%E5%8D%83%E7%AD%8B%E7%B4%B0%E5%B7%A5%EF%BC%89.jpg) | なまけもの人間 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 愛知県 | 名古屋城 | [Nagoya Castle2026.jpg](https://commons.wikimedia.org/wiki/File:Nagoya_Castle2026.jpg) | 加茂川の民 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 未加工（原画像を表示） |
 | 愛知県 | みそかつ | [Miso katsu, tsukemono and miso soup by shibainu in Nagoya.jpg](https://commons.wikimedia.org/wiki/File:Miso%20katsu%2C%20tsukemono%20and%20miso%20soup%20by%20shibainu%20in%20Nagoya.jpg) | shibainu | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 未加工（原画像を表示） |
 | 愛知県 | 犬山祭 | [Inuyama Festival.jpg](https://commons.wikimedia.org/wiki/File:Inuyama_Festival.jpg) | Bariston | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
@@ -158,6 +159,7 @@
 | 長崎県 | 大浦天主堂 | [Oura Church Nagasaki.JPG](https://commons.wikimedia.org/wiki/File:Oura%20Church%20Nagasaki.JPG) | Chris 73 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 長崎県 | 長崎ちゃんぽん | [Nagasaki champon.JPG](https://commons.wikimedia.org/wiki/File:Nagasaki_champon.JPG) | Midori | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 長崎県 | 長崎くんち | [Nagasaki Kunchi.jpg](https://commons.wikimedia.org/wiki/File:Nagasaki_Kunchi.jpg) | Marufish | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | 未加工（原画像を表示） |
+| 長崎県 | 波佐見焼 | [Hasami porcelain.jpg](https://commons.wikimedia.org/wiki/File:Hasami%20porcelain.jpg) | Meuse inférieure | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 未加工（原画像を表示） |
 | 熊本県 | 阿蘇山 | [Mount-Aso-Naka-dake.jpg](https://commons.wikimedia.org/wiki/File:Mount-Aso-Naka-dake.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 熊本城 | [KumamotoCastle.jpg](https://commons.wikimedia.org/wiki/File:KumamotoCastle.jpg) | Fg2 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
 | 熊本県 | 馬刺し | [Horse-meat.jpg](https://commons.wikimedia.org/wiki/File:Horse-meat.jpg) | Igorberger | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 未加工（原画像を表示） |
