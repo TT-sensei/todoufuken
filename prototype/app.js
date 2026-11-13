@@ -36,7 +36,7 @@ function card(item){
   ?`<img class="item-photo" src="${esc(item.image)}" alt="${esc(item.name)}" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
   :`<div class="photo-pending" aria-label="写真を準備中"><span>PHOTO</span><strong>写真を準備中</strong></div>`;
  const status=item.photo?"":"<span class=\"pending-label\">写真候補を選定中</span>";
- return `<article class="item-card">${photo}<div class="item-body">${status}<h4>${esc(item.name)}</h4><p>${esc(item.description)}</p>${photoCredit(item)}${item.reference?`<a class="source-link" href="${esc(item.reference.url)}" target="_blank" rel="noopener">調べる：${esc(item.reference.title)} ↗</a>`:""}</div></article>`;
+ return `<article class="item-card">${photo}<div class="item-body">${status}<h4>${esc(item.name)}</h4><p>${esc(item.description)}</p><div class="inquiry"><span>調べる視点</span><p>${esc(item.inquiry||"この特色は、地域の自然や歴史、人々の暮らしとどう関係しているのだろう？")}</p><small>自分の住む地域や、ほかの都道府県と比べてみよう。</small></div>${photoCredit(item)}${item.reference?`<a class="source-link" href="${esc(item.reference.url)}" target="_blank" rel="noopener">参考資料を開く：${esc(item.reference.title)} ↗</a>${item.reference.note?`<div class="source-note">${esc(item.reference.note)}</div>`:""}`:""}</div></article>`;
 }
 function renderPref(code){
  const p=data.prefectures.find(x=>x.code===code);
