@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "region": "全国",
   "categories": [
     "自然・風景",
@@ -718,23 +718,23 @@
           "description": "三社祭は、東京都台東区の浅草神社の例大祭です。神輿の渡御や町内ごとの祭礼から、浅草の町と祭りを支える人々のつながりを調べてみましょう。",
           "sourceKey": "prefecture-or-public-source",
           "photo": {
-            "file": "Children carry mikoshi Sanja Matsuri 2006.JPG",
+            "file": "Mikoshi in streets Sanja Matsuri 2006.JPG",
             "author": "Torsodog",
             "license": "CC BY-SA 3.0",
             "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-            "sourcePage": "https://commons.wikimedia.org/wiki/File:Children_carry_mikoshi_Sanja_Matsuri_2006.JPG",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Mikoshi_in_streets_Sanja_Matsuri_2006.JPG",
             "changes": "未加工（原画像を表示）",
-            "reviewStatus": "Commons原ページで三社祭の内容・作者・CC BY-SA 3.0を確認し、画像の実物も目視確認済み",
-            "description": "浅草の三社祭で、子どもたちが小さな神輿を担いで練り歩く様子（2006年撮影）"
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "東京都台東区浅草の大通りを大勢の担ぎ手が練り歩く、三社祭の本社神輿（2006年5月撮影）。"
           },
-          "photoStatus": "未選定",
+          "photoStatus": "選定済み",
           "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
           "reference": {
             "title": "台東区公式 三社祭",
             "url": "https://www.city.taito.lg.jp/event/kanko/sanzyamatsuri.html",
             "note": "浅草神社の祭礼や神輿渡御、びんざさら舞について紹介"
           },
-          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Children%20carry%20mikoshi%20Sanja%20Matsuri%202006.JPG"
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikoshi%20in%20streets%20Sanja%20Matsuri%202006.JPG"
         },
         {
           "id": "13-5",
@@ -838,14 +838,24 @@
           "category": "文化・まつり",
           "description": "鎌倉の鶴岡八幡宮では、例大祭に合わせて流鏑馬神事が行われます。馬を走らせながら弓で的を射る伝統行事で、源頼朝が1187年に奉納したことに始まると伝えられています。",
           "sourceKey": "prefecture-or-public-source",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Yabusame Kamakura.jpg",
+            "author": "Urashimataro",
+            "license": "Public domain (PD-self)",
+            "licenseUrl": "https://commons.wikimedia.org/wiki/File:Yabusame_Kamakura.jpg#Licensing",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Yabusame_Kamakura.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "神奈川県鎌倉市の鶴岡八幡宮で行われた流鏑馬神事。疾走する馬上から的を射る様子（2009年9月16日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
           "reference": {
             "title": "鎌倉市観光協会 流鏑馬",
             "url": "https://www.trip-kamakura.com/facility/detail.php?id=237",
             "note": "鶴岡八幡宮の例大祭で受け継がれる流鏑馬神事の由来"
-          }
+          },
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yabusame%20Kamakura.jpg"
         },
         {
           "id": "14-5",
@@ -3944,14 +3954,24 @@
           "category": "文化・まつり",
           "description": "西大寺会陽は、岡山市の西大寺観音院で行われる伝統行事です。裸の参加者が宝木を奪い合うことで知られ、行事の由来や地域の人々の関わりを調べてみましょう。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Hadaka Matsuri (-Naked Festival-) in Saidaiji, Japan.jpg",
+            "author": "Mstyslav Chernov/Unframe/http://www.unframe.com/",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hadaka_Matsuri_(-Naked_Festival-)_in_Saidaiji,_Japan.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "岡山市の西大寺観音院で行われる西大寺会陽（はだか祭り）の様子（2010年2月18日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadaka%20Matsuri%20(-Naked%20Festival-)%20in%20Saidaiji%2C%20Japan.jpg"
         },
         {
           "id": "33-5",
@@ -5186,14 +5206,24 @@
           "category": "文化・まつり",
           "description": "日田祇園祭は、大分県日田市で行われる夏祭りです。豪華な山鉾が町を巡行し、疫病退散や地域の繁栄を願う伝統が受け継がれています。",
           "sourceKey": "official-source-review-pending",
-          "photo": null,
-          "photoStatus": "未選定",
+          "photo": {
+            "file": "Gionn Festival Hita Ooita.jpg",
+            "author": "Mukai",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Gionn_Festival_Hita_Ooita.jpg",
+            "changes": "未加工（原画像を表示）",
+            "reviewStatus": "Commons原ページの対象物・作者・ライセンスを確認済み",
+            "description": "大分県日田市の日田祇園祭で巡行する、三隈町・大和町・川原町の3基の山鉾（2008年7月27日撮影）。"
+          },
+          "photoStatus": "選定済み",
           "reference": {
             "title": "文化遺産オンライン（文化庁）",
             "url": "https://online.bunka.go.jp/heritages/detail_search",
             "note": "地域の祭礼・民俗芸能などが文化財として登録・指定されているかを調べる参考資料です。すべての祭りが掲載されているわけではありません。"
           },
-          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？"
+          "inquiry": "どんな願いや歴史から生まれ、今どのように受け継がれているのだろう？",
+          "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gionn%20Festival%20Hita%20Ooita.jpg"
         },
         {
           "id": "44-5",
